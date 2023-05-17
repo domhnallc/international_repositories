@@ -1,3 +1,5 @@
 venv/
 config.py
 data/.~lock.raw_opendoar_data.csv#
+.ipynb_checkpoints/Untitled-1-checkpoint.ipynb
+__pycache__/config.cpython-310.pyc
