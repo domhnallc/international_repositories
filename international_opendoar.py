@@ -2,6 +2,8 @@ import requests
 from urllib import parse
 from pprint import pprint
 import pandas as pd
+import config
+import numpy as np
 
 
 
@@ -38,24 +40,12 @@ def get_data(offset: int) -> pd.DataFrame:
 
 
     r = requests.get(url=api_url, headers=headers, params=query)
-    #print(r.json())
-
     print(r.status_code)
-
     data = r.json()
-    df = pd.json_normalize(data, 'items')
+    df_raw = pd.json_normalize(data, 'items')
 
-    return df
+    return df_raw
 
-appended_data = []
-for offset in range(0, 6000, 100):
-    appended_data.append(get_data(offset))
-
-full_df = pd.concat(appended_data)
-full_df.set_index('system_metadata.id', inplace=True)
-print(full_df)
-
-full_df.to_csv('data/raw_opendoar_data.csv')
 
 def data_clean(df:pd.DataFrame) -> pd.DataFrame:
     '''Drops unneccessary columns'''
@@ -80,10 +70,25 @@ def data_clean(df:pd.DataFrame) -> pd.DataFrame:
 ]
 
     df_cleaned = df.drop(columns=columns_to_drop)
+    df_cleaned['system_metadata.id'].replace('', np.nan, inplace=True)
+    df_cleaned.dropna(subset=['system_metadata.id'], inplace=True)
+    df_cleaned = df_cleaned.loc[df['repository_metadata.type'] == 'institutional']
 
     return df_cleaned
 
+def runner():
+    '''Paginates api responses (max=100) and appends all to a final df'''
+    appended_data = []
+    for offset in range(0, 6000, 100):
+        appended_data.append(get_data(offset))
+
+    full_df = pd.concat(appended_data)
+    full_df.set_index('system_metadata.id', inplace=True)
+    full_df.to_csv('data/raw_opendoar_data.csv')
+
+    df_cleaned_data = data_clean(full_df)
+    df_cleaned_data.to_csv('data/cleaned_opendoar_data.csv')
 
 
-
-
+if __name__ == '__main__':
+    runner()
