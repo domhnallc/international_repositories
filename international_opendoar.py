@@ -5,6 +5,11 @@ import pandas as pd
 import config
 import numpy as np
 
+'''- Queries the sherpa API 'https://v2.sherpa.ac.uk/cgi/retrieve' using authorisation in the config for repositories.
+- Whole raw data is saved to /data/raw_opendoar_data.csv.  
+- Data cleaning removes unneeded columns and filters for institutional repositories.
+- Cleaned dataset is saved to data/cleaned_opendoar_data.csv'''
+
 
 
 def get_data(offset: int) -> pd.DataFrame:
@@ -35,7 +40,7 @@ def get_data(offset: int) -> pd.DataFrame:
             'limit': '100',
             'offset': offset,            
             'order': 'id',
-            'api-key': 'DF245560-D3B0-11ED-91BD-4FB046A8B528'
+            'api-key': config.SHERPA_API_KEY
             }
 
 
@@ -77,7 +82,9 @@ def data_clean(df:pd.DataFrame) -> pd.DataFrame:
     return df_cleaned
 
 def runner():
-    '''Paginates api responses (max=100) and appends all to a final df'''
+    '''Paginates api responses (max=100) and appends all to a final df.
+    Final df is saved as csv to data/cleaned_open_doar_data.csv'''
+
     appended_data = []
     for offset in range(0, 6000, 100):
         appended_data.append(get_data(offset))
