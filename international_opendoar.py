@@ -30,7 +30,6 @@ def get_data(offset: int) -> pd.DataFrame:
         }
 
     api_url = 'https://v2.sherpa.ac.uk/cgi/retrieve'
-    api_key = config.SHERPA_API_KEY
     hostname = parse.urlsplit(api_url).hostname
     headers['Host'] = hostname
     headers['Referer'] = 'https://'+hostname
