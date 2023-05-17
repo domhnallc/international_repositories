@@ -75,8 +75,8 @@ def data_clean(df:pd.DataFrame) -> pd.DataFrame:
 ]
 
     df_cleaned = df.drop(columns=columns_to_drop)
-    df_cleaned['system_metadata.id'].replace('', np.nan, inplace=True)
-    df_cleaned.dropna(subset=['system_metadata.id'], inplace=True)
+    df_cleaned['system_metadata.id'].replace('', np.nan, inplace=True) # used to remove blanks 
+    df_cleaned.dropna(subset=['system_metadata.id'], inplace=True) # used to filter blank lines
     df_cleaned = df_cleaned.loc[df['repository_metadata.type'] == 'institutional']
 
     return df_cleaned
@@ -86,7 +86,7 @@ def runner():
     Final df is saved as csv to data/cleaned_open_doar_data.csv'''
 
     appended_data = []
-    for offset in range(0, 6000, 100):
+    for offset in range(0, 5600, 100):
         appended_data.append(get_data(offset))
 
     full_df = pd.concat(appended_data)
