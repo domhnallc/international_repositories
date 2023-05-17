@@ -6,6 +6,9 @@ import pandas as pd
 
 
 def get_data(offset: int) -> pd.DataFrame:
+    '''Retrieves repository data from sherpa API, tailored to institutional repositories from all countries'''
+    
+    
     headers = {
             'Host': '',
             'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0',
@@ -20,7 +23,7 @@ def get_data(offset: int) -> pd.DataFrame:
         }
 
     api_url = 'https://v2.sherpa.ac.uk/cgi/retrieve'
-    api_key = 'DF245560-D3B0-11ED-91BD-4FB046A8B528'
+    api_key = config.SHERPA_API_KEY
     hostname = parse.urlsplit(api_url).hostname
     headers['Host'] = hostname
     headers['Referer'] = 'https://'+hostname
@@ -53,6 +56,32 @@ full_df.set_index('system_metadata.id', inplace=True)
 print(full_df)
 
 full_df.to_csv('data/raw_opendoar_data.csv')
+
+def data_clean(df:pd.DataFrame) -> pd.DataFrame:
+    '''Drops unneccessary columns'''
+
+    columns_to_drop = ['repository_metadata.type_phrases',
+'repository_metadata.content_types',		
+'repository_metadata.content_subjects_phrases',
+'repository_metadata.software.name_phrases',
+'repository_metadata.content_subjects',
+'repository_metadata.content_types_phrases',
+'repository_metadata.name',
+'system_metadata.date_created',
+'system_metadata.date_modified',
+'system_metadata.publicly_visible_phrases',
+'system_metadata.publicly_visible',
+'organisation.name',
+'organisation.country_phrases',
+'organisation.identifiers',
+'repository_metadata.policy_urls',
+'organisation.notes',
+'repository_metadata.notes'
+]
+
+    df_cleaned = df.drop(columns=columns_to_drop)
+
+    return df_cleaned
 
 
 
