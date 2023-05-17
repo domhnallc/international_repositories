@@ -1,1 +1,3 @@
 venv/
+config.py
+data/.~lock.raw_opendoar_data.csv#
