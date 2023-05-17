@@ -1,4 +1,3 @@
-#query = 'https://v2.sherpa.ac.uk/cgi/retrieve?item-type=repository&api-key=DF245560-D3B0-11ED-91BD-4FB046A8B528&format=Json&offset=200'
 import requests
 from urllib import parse
 from pprint import pprint
@@ -49,10 +48,11 @@ appended_data = []
 for offset in range(0, 6000, 100):
     appended_data.append(get_data(offset))
 
-full_df = pd.concat(appended_data, index='system_metadata.id')
+full_df = pd.concat(appended_data)
+full_df.set_index('system_metadata.id', inplace=True)
 print(full_df)
 
-full_df.to_csv('./opendoar_data.csv')
+full_df.to_csv('data/raw_opendoar_data.csv')
 
 
 
