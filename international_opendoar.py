@@ -53,7 +53,7 @@ def get_data(offset: int) -> pd.DataFrame:
 
 
 def data_clean(df:pd.DataFrame) -> pd.DataFrame:
-    '''Drops unneccessary columns'''
+    '''Drops unneccessary columns, removes empty rows, filters to only institutional repos'''
 
     columns_to_drop = ['repository_metadata.type_phrases',
 'repository_metadata.content_types',		
@@ -82,6 +82,7 @@ def data_clean(df:pd.DataFrame) -> pd.DataFrame:
     return df_cleaned
 
 def runner():
+    
     '''Paginates api responses (max=100) and appends all to a final df.
     Final df is saved as csv to data/cleaned_open_doar_data.csv'''
 
