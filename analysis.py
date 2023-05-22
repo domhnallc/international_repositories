@@ -6,6 +6,7 @@ input_data = 'data/cleaned_opendoar_data.csv'
 
 # Helper functions
 
+
 def get_dataframe(file, sort_key) -> pd.DataFrame:
     ''' Load csv into dataframe'''
 
@@ -13,9 +14,11 @@ def get_dataframe(file, sort_key) -> pd.DataFrame:
 
     return df_all_data
 
-def pie_RIS_types(df_base:pd.DataFrame):
+
+def pie_RIS_types(df_base: pd.DataFrame):
     ''' Pie chart of RIS types'''
-    vals = df_base.groupby("repository_metadata.software.name").size().sort_values()
+    vals = df_base.groupby(
+        "repository_metadata.software.name").size().sort_values()
     print(vals)
     explode = [0.2, 0, 0]
     labels = [
@@ -27,7 +30,8 @@ def pie_RIS_types(df_base:pd.DataFrame):
     plt.title("Software contained in \nUK Academic Institutional Repositories")
     plt.axis("equal")
     plt.show()
-    
+
+
 df = get_dataframe(input_data, sort_key='system_metadata.id')
 
 pie_RIS_types(df)
