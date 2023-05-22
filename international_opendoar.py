@@ -50,6 +50,8 @@ def get_data(offset: int) -> pd.DataFrame:
 def data_clean(df: pd.DataFrame) -> pd.DataFrame:
     '''Drops unneccessary columns, removes empty rows, filters to only institutional repos'''
 
+    print(df.keys())
+
     columns_to_drop = ['repository_metadata.type_phrases',
                        'repository_metadata.content_types',
                        'repository_metadata.content_subjects_phrases',
@@ -89,10 +91,11 @@ def runner():
         appended_data.append(get_data(offset))
 
     full_df = pd.concat(appended_data)
-    full_df.set_index('system_metadata.id', inplace=True)
+    # full_df.set_index('system_metadata.id', inplace=True)
     full_df.to_csv('data/raw_opendoar_data.csv')
 
     df_cleaned_data = data_clean(full_df)
+    df_cleaned_data.set_index('system_metadata.id', inplace=True)
     df_cleaned_data.to_csv('data/cleaned_opendoar_data.csv')
 
 
