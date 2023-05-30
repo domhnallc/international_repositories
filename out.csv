@@ -1,0 +1,572 @@
+country_name,repository_metadata_software_name,country_name
+Aland Islands,eprints,1
+Albania,dspace,1
+Algeria,dspace,16
+Algeria,eprints,1
+Algeria,self build cms,1
+Algeria,wordpress,1
+Andorra,digital commons,1
+Argentina,bdunco,1
+Argentina,bespoke system,1
+Argentina,dspace,35
+Argentina,eprints,7
+Argentina,greenstone,10
+Argentina,omeka,1
+Argentina,pmb,2
+Armenia,eprints,1
+Armenia,greenstone,1
+Australia,contentdm,1
+Australia,digital commons,9
+Australia,digitool,3
+Australia,drupal,1
+Australia,dspace,16
+Australia,eprints,11
+Australia,equella,1
+Australia,ex libris primo,1
+Australia,fedora,1
+Australia,fez,4
+Australia,figshare,1
+Australia,haplo,1
+Australia,oaicat,1
+Australia,omeka,1
+Australia,opus,1
+Australia,pure,4
+Australia,vital,4
+Austria,custom,1
+Austria,django,1
+Austria,dspace,2
+Austria,eprints,7
+Austria,eyebase mediasuite,1
+Austria,fedora,5
+Austria,hyperwave,1
+Austria,librecat,1
+Austria,opus,2
+Austria,phiadra,1
+Austria,visual library,2
+Austria,visual library server,5
+Austria,visual library software,1
+Austria,web based application (php & mysql),1
+Azerbaijan,dspace,2
+Bangladesh,dspace,11
+Bangladesh,greenstone,2
+Belarus,dspace,34
+Belarus,perl based,1
+Belgium,brocade,1
+Belgium,doks,3
+Belgium,drupal,3
+Belgium,dspace,7
+Belgium,etd db,1
+Belgium,html,1
+Belgium,librecat,1
+Belgium,pure,2
+Belgium,vital,1
+Belgium,vufind,1
+Bolivia,cybertesis,1
+Bolivia,dspace,1
+Bosnia and Herzegovina,fedora,2
+Botswana,dspace,3
+Brazil,dataverse,1
+Brazil,drupal,3
+Brazil,dspace,109
+Brazil,etd db,1
+Brazil,maxwell,1
+Brazil,nou rau,1
+Brazil,open journal systems,1
+Brazil,tede,2
+Bulgaria,dspace,8
+Bulgaria,eprints,1
+Cabo Verde,dspace,1
+Canada,contentdm,3
+Canada,custom,1
+Canada,custom software,1
+Canada,dataverse,1
+Canada,digital commons,8
+Canada,drupal,2
+Canada,dspace,33
+Canada,eprints,16
+Canada,fedora,2
+Canada,html,2
+Canada,islandora,5
+Canada,omp,1
+Canada,open repository,1
+Canada,samvera,1
+Chile,cybertesis,3
+Chile,dspace,14
+Chile,ohs (open harvester system),2
+Chile,omp (open monograph press),1
+Chile,sirsi corporation,1
+China,cspace,12
+China,cspace.,2
+China,dspace,34
+China,vufind,1
+Colombia,contentdm,1
+Colombia,digital commons,1
+Colombia,dspace,83
+Colombia,eprints,2
+Costa Rica,dspace,8
+Croatia,drupal,1
+Croatia,dspace,1
+Croatia,eprints,6
+Croatia,indigo,1
+Croatia,islandora,131
+Cuba,cwis,3
+Cuba,dspace,7
+Cuba,eprints,1
+Cyprus,dspace,6
+Czech Republic,advanced rapid library,1
+Czech Republic,digitool,1
+Czech Republic,dspace,16
+Czech Republic,invenio,1
+Czech Republic,is mu,1
+Denmark,contentdm,1
+Denmark,eprints,1
+Denmark,invenio,1
+Denmark,pure,8
+Dominican Republic,dspace,2
+Ecuador,dspace,33
+Ecuador,html,1
+Egypt,digital commons,1
+Egypt,dot net,1
+Egypt,dspace,2
+Egypt,eprints,1
+El Salvador,dspace,7
+El Salvador,eprints,2
+Estonia,dspace,3
+Estonia,eprints,1
+Estonia,mysql database,1
+Ethiopia,dspace,3
+Ethiopia,invenio,1
+Fiji,eprints,1
+Fiji,greenstone,1
+Finland,dspace,14
+Finland,fedora,1
+Finland,pure,3
+France,cadic,1
+France,contentdm,2
+France,drupal,3
+France,dspace,8
+France,eprints,8
+France,flora (ever team),1
+France,greenstone,1
+France,hal,66
+France,html,1
+France,hubzero,1
+France,islandora,1
+France,joai,1
+France,omeka,1
+France,open repository,2
+France,ori oai,2
+France,pleade,2
+France,polaris by mysciencework,1
+France,polaris os,1
+France,spire,1
+Georgia,dspace,1
+Germany,bibdia,1
+Germany,cera,1
+Germany,ckan,1
+Germany,contentdm,2
+Germany,digibib,1
+Germany,django,1
+Germany,dspace,31
+Germany,edoc,1
+Germany,eprints,27
+Germany,escidoc,1
+Germany,fedora,9
+Germany,geoportal conterra,1
+Germany,goobi viewer,4
+Germany,grunt metaparser,1
+Germany,html,3
+Germany,hzb oai/pmh,1
+Germany,imperia,1
+Germany,intranda,1
+Germany,intranda viewer,1
+Germany,invenio,5
+Germany,kit bibliothek,1
+Germany,librecat,1
+Germany,mediatum,1
+Germany,memory alpha,1
+Germany,"microsoft access, editor",1
+Germany,mycore,11
+Germany,nps,1
+Germany,opus,84
+Germany,oracle,1
+Germany,pubman/inge,1
+Germany,pure,1
+Germany,star database,1
+Germany,tind,1
+Germany,typo,1
+Germany,typo3,5
+Germany,ubka,1
+Germany,visual library server,1
+Germany,vts,1
+Germany,vufind,1
+Ghana,dspace,6
+Greece,dspace,20
+Greece,eprints,1
+Greece,fedora,2
+Greece,html,1
+Greece,invenio,1
+Greece,keystone dls (tklite),1
+Greece,open journal systems,1
+Guatemala,eprints,1
+Honduras,dspace,4
+Hong Kong,digital commons,3
+Hong Kong,drupal,1
+Hong Kong,dspace,2
+Hong Kong,figshare,1
+Hong Kong,wordpress,1
+Hungary,digitool,1
+Hungary,dspace,9
+Hungary,eprints,25
+Hungary,jadox,3
+Iceland,dspace,2
+Iceland,open repository,1
+India,csir central,1
+India,drupal,1
+India,dspace,48
+India,dspace cris,1
+India,eprints,29
+India,greenstone,1
+India,nitya,1
+Indonesia,digital commons,1
+Indonesia,django,1
+Indonesia,dspace,14
+Indonesia,eprints,121
+Indonesia,gae,1
+Indonesia,ispektra,1
+Indonesia,jsp mysql alfresco,1
+Indonesia,neliti,1
+Indonesia,omeka,1
+Indonesia,open repository,1
+Indonesia,setiadi,1
+Indonesia,slims,2
+Indonesia,slims senayan,1
+Indonesia,weko,1
+Indonesia,wordpress,1
+Iran,dspace,1
+Iran,eprints,14
+Iraq,eprints,1
+Ireland,digital commons,2
+Ireland,dspace,8
+Ireland,eprints,8
+Ireland,figshare,1
+Ireland,open repository,1
+Italy,cdsware,1
+Italy,cdsware and apache,1
+Italy,custom,1
+Italy,dataverse,1
+Italy,digital commons,1
+Italy,drupal,1
+Italy,dspace,70
+Italy,eprints,18
+Italy,esploro,1
+Italy,etd db,1
+Italy,fedora,1
+Italy,html,1
+Italy,iliswave j,1
+Italy,invenio,2
+Italy,iris,16
+Italy,micro cds/isis,1
+Italy,ocs,1
+Italy,omeka,1
+Italy,pkp   ojs,1
+Jamaica,contentdm,1
+Jamaica,dspace,2
+Jamaica,weko,1
+Japan,amlad,1
+Japan,dspace,52
+Japan,e cats,1
+Japan,e cats library,3
+Japan,e catslibrary,3
+Japan,e catslibrary ver.6,1
+Japan,e lib,1
+Japan,e repository,5
+Japan,earmas,14
+Japan,eprints,2
+Japan,fedora,1
+Japan,iliswave j,6
+Japan,iliswave j v3,7
+Japan,iliswave j　e lib,1
+Japan,iliswavej,1
+Japan,ilisweb j  e lib,1
+Japan,infolib,5
+Japan,infolib asp,2
+Japan,infolib dbr,1
+Japan,infolibクラウドサービス,1
+Japan,jopss,1
+Japan,nalis r,2
+Japan,nalis r(dspace),1
+Japan,shunsaku,1
+Japan,t2r2システム,1
+Japan,weko,524
+Japan,xoonips,7
+Japan,xoops,1
+Japan,富士通 iliswave j,1
+Japan,富士通　iliswave j,1
+Japan,独自,1
+Kazakhstan,dspace,10
+Kenya,dspace,38
+Kenya,eprints,1
+Kenya,greenstone,1
+Kosovo,digital commons,1
+Kosovo,dspace,1
+Kuwait,dspace,1
+Kyrgyz Republic,dspace,1
+Laos,dspace,1
+Latvia,dspace,3
+Latvia,eprints,1
+Lebanon,dspace,1
+Lebanon,eprints,1
+Lebanon,scholarworks,1
+Libya,dspace,3
+Lithuania,dspace,6
+Lithuania,dspace cris,1
+Lithuania,fedora,7
+Luxembourg,dspace,1
+Luxembourg,polaris by mysciencework,1
+Malawi,dspace,1
+Malaysia,dspace,5
+Malaysia,eprints,18
+Malaysia,greenstone,1
+Malta,dspace,1
+Mexico,custom,1
+Mexico,cwis,1
+Mexico,digital commons,1
+Mexico,dspace,30
+Mexico,eprints,3
+Mexico,html,1
+Mexico,islandora,1
+Mexico,vufind,1
+Moldova,dspace,9
+Morocco,dspace,3
+Mozambique,dspace,1
+Myanmar,dspace,2
+Namibia,dspace,2
+Netherlands,artudis,1
+Netherlands,dare,1
+Netherlands,drupal,2
+Netherlands,dspace,7
+Netherlands,dspace cris,1
+Netherlands,eprints,1
+Netherlands,fedora,2
+Netherlands,fez,1
+Netherlands,imis,1
+Netherlands,islandora,1
+Netherlands,pure,12
+Netherlands,wildfire,22
+New Caledonia,ori oai 1.7,1
+New Zealand,dspace,11
+New Zealand,eprints,2
+New Zealand,figshare,2
+Nicaragua,dspace,3
+Nicaragua,eprints,7
+Nigeria,dspace,24
+Nigeria,eprints,4
+Nigeria,open repository,1
+North Macedonia,dspace,2
+North Macedonia,eprints,3
+Norway,dspace,61
+Pakistan,contentdm,1
+Pakistan,digital commons,1
+Pakistan,greenstone,1
+Palestine,dspace,7
+Panama,dspace,5
+Paraguay,dspace,1
+Paraguay,scielo,1
+Peru,atom,1
+Peru,cybertesis,1
+Peru,dspace,138
+Peru,dspace cris,1
+Peru,open repository,1
+Peru,vufind,1
+Peru,wordpress,1
+Philippines,digital commons,1
+Philippines,dspace,7
+Philippines,greenstone,1
+Poland,crispa,1
+Poland,dataverse,1
+Poland,dlibra,57
+Poland,drupal,1
+Poland,dspace,25
+Poland,eprints,3
+Poland,invenio,1
+Poland,omega psir,1
+Poland,open repository,1
+Poland,proprietary,1
+Poland,vital,1
+Portugal,digitool,2
+Portugal,dspace,49
+Portugal,open repository,1
+Puerto Rico,dspace,1
+Qatar,dspace,1
+Romania,dspace,6
+Russia,dspace,31
+Russia,eprints,3
+Russia,invenio,1
+Russia,socionet,3
+Russia,vital,2
+Rwanda,dspace,2
+Saudi Arabia,dspace,6
+Saudi Arabia,eprints,1
+Saudi Arabia,marz content management system,1
+Senegal,dspace,2
+Serbia,custom,1
+Serbia,dspace,31
+Serbia,eprints,3
+Serbia,fedora,1
+Serbia,islandora,2
+Singapore,dataverse network,1
+Singapore,digital commons,1
+Singapore,dspace,3
+Singapore,figshare,1
+Slovakia,advanced rapid library,1
+Slovakia,dspace,2
+Slovenia,custom software,1
+Slovenia,dkum,2
+Slovenia,dkum   digital library platform from uni,1
+Slovenia,eprints,2
+Slovenia,repox,1
+Slovenia,scix,1
+South Africa,contentpro,1
+South Africa,digitool,1
+South Africa,dspace,31
+South Africa,eprints,1
+South Africa,etd db,2
+South Africa,figshare,1
+South Africa,vital,2
+South Korea,dspace,28
+Spain,contentdm,2
+Spain,dataverse,1
+Spain,digibib,9
+Spain,digitool,1
+Spain,dspace,90
+Spain,dspace cris,1
+Spain,eprints,5
+Spain,fedora,1
+Spain,fez,1
+Spain,greenstone,1
+Spain,invenio,2
+Spain,ojs,1
+Spain,pandora,3
+Spain,pubman,1
+Sri Lanka,dspace,15
+Sri Lanka,inmagic dbtextworks,1
+Sudan,dspace,12
+Sweden,digital commons,1
+Sweden,diva portal,31
+Sweden,dspace,5
+Sweden,eprints,4
+Sweden,figshare,1
+Sweden,librecat,1
+Switzerland,contentdm,1
+Switzerland,dlcm technology,1
+Switzerland,dspace,4
+Switzerland,dspace cris,1
+Switzerland,eprints,6
+Switzerland,invenio,7
+Switzerland,islandora,4
+Switzerland,lightgallery,1
+Switzerland,limb gallery,1
+Switzerland,open archive,1
+Switzerland,open repository,1
+Taiwan,dspace,58
+Taiwan,etd db,1
+Taiwan,weko,1
+Tanzania,dspace,10
+Tanzania,eprints,2
+Thailand,dspace,13
+Thailand,ir+,1
+Thailand,wordpress,1
+Trinidad and Tobago,dspace,1
+Tunisia,eprints,1
+Türkiye,avesis,10
+Türkiye,axsis,1
+Türkiye,açıkarşiv,1
+Türkiye,contentdm,1
+Türkiye,cybertesis,1
+Türkiye,digitool,1
+Türkiye,drupal,1
+Türkiye,dspace,129
+Türkiye,dspace cris,1
+Türkiye,eprints,3
+Türkiye,mitos,2
+Türkiye,mi̇tos,1
+Türkiye,ptcloud,1
+Uganda,drupal,1
+Uganda,dspace,10
+Ukraine,dspace,88
+Ukraine,eprints,9
+Ukraine,vnau`s repository code (php),1
+United Arab Emirates,digital commons,1
+United Arab Emirates,dspace,3
+United Kingdom,cocoon,1
+United Kingdom,collection index+,1
+United Kingdom,contentdm,4
+United Kingdom,custom,1
+United Kingdom,digitool,1
+United Kingdom,drupal,2
+United Kingdom,dspace,41
+United Kingdom,eprints,116
+United Kingdom,epub,1
+United Kingdom,equella,1
+United Kingdom,esploro,1
+United Kingdom,fedora,1
+United Kingdom,figshare,5
+United Kingdom,haplo,5
+United Kingdom,html,4
+United Kingdom,open repository,2
+United Kingdom,plone,1
+United Kingdom,pure,30
+United Kingdom,samvera,6
+United Kingdom,vufind,1
+United Kingdom,weko,2
+United Kingdom,worktribe,5
+United States,4.1,1
+United States,aubrey,1
+United States,cloudflare,1
+United States,contentdm,58
+United States,custom,3
+United States,dataverse,2
+United States,dataverse network,2
+United States,digital commons,400
+United States,digitool,3
+United States,django/python,1
+United States,drupal,4
+United States,dspace,136
+United States,eprints,20
+United States,equella,1
+United States,esploro,4
+United States,etd db,6
+United States,fedora,14
+United States,fez,3
+United States,figshare for institutions,1
+United States,greenstone,5
+United States,html,2
+United States,hyku,1
+United States,hyrax,1
+United States,invenio,2
+United States,ir+,1
+United States,islandora,6
+United States,mediawiki,1
+United States,oaicat,1
+United States,omeka,4
+United States,open repository,2
+United States,opencourseware,1
+United States,perl based,1
+United States,polaris by mysciencework,1
+United States,samvera,3
+United States,sobekcm,4
+United States,sunsite,1
+United States,vital,2
+United States,vufind,1
+United States,weko,1
+United States Minor Outlying Islands,digital commons,1
+Uruguay,dspace,5
+Venezuela,dspace,9
+Venezuela,eprints,1
+Venezuela,open repository,1
+Vietnam,dspace,1
+Zambia,dspace,3
+Zimbabwe,dspace,8
+Zimbabwe,eprints,1
+Zimbabwe,greenstone,2
