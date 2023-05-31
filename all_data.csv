@@ -25,7 +25,7 @@
 23,66,fr,http://www.insa-lyon.fr/,,1028.0,institutional,https://theses.insa-lyon.fr/,,http://docinsa.insa-lyon.fr/oai/oai2.php,https://v2.sherpa.ac.uk/id/repository/66,
 24,69,us,https://www.cornell.edu/,dspace,91189.0,institutional,https://ecommons.cornell.edu/,20295.0,https://ecommons.cornell.edu/oai/request,https://v2.sherpa.ac.uk/id/repository/69,
 25,70,gb,http://www.cranfield.ac.uk,dspace,9494.0,institutional,https://dspace.lib.cranfield.ac.uk/,,https://dspace.lib.cranfield.ac.uk/oai/request,https://v2.sherpa.ac.uk/id/repository/70,
-26,72,jp,https://www.chiba-u.ac.jp/e/,e cats library,97628.0,institutional,https://opac.ll.chiba-u.jp/da/curator/?lang=1,42971.0,https://opac.ll.chiba-u.jp/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/72,E-Cats Library
+26,72,jp,https://www.chiba-u.ac.jp/e/,e cats,97628.0,institutional,https://opac.ll.chiba-u.jp/da/curator/?lang=1,42971.0,https://opac.ll.chiba-u.jp/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/72,E-Cats Library
 27,73,au,https://www.curtin.edu.au,dspace,71212.0,institutional,https://espace.curtin.edu.au/,3131.0,https://espace.curtin.edu.au/oai/request,https://v2.sherpa.ac.uk/id/repository/73,
 28,76,se,https://www.du.se,diva portal,9175.0,institutional,http://du.diva-portal.org/smash/search.jsf?dswid=-1275,0.0,http://du.diva-portal.org/dice/oai,https://v2.sherpa.ac.uk/id/repository/76,
 29,79,au,http://www.anu.edu.au/,drupal,100.0,institutional,https://openresearch-repository.anu.edu.au/community-list,0.0,https://openresearch-repository.anu.edu.au/oai/request?verb=Identify,https://v2.sherpa.ac.uk/id/repository/79,
@@ -101,7 +101,7 @@
 99,214,us,http://www.wisc.edu/,dspace,26456.0,institutional,http://minds.wisconsin.edu/,2616.0,http://minds.wisconsin.edu/oai/request,https://v2.sherpa.ac.uk/id/repository/214,
 100,216,de,http://www.mpifg.de/,html,61800.0,institutional,http://www.mpifg.de/pu/mpifg_pub_en.asp,,,https://v2.sherpa.ac.uk/id/repository/216,HTML
 101,217,ca,http://www.umanitoba.ca/,dspace,24394.0,institutional,https://mspace.lib.umanitoba.ca,,,https://v2.sherpa.ac.uk/id/repository/217,
-102,218,de,http://www.tu-chemnitz.de/,typo3,3560.0,institutional,http://monarch.qucosa.de/startseite/,,http://monarch.qucosa.de/oai/,https://v2.sherpa.ac.uk/id/repository/218,TYPO3
+102,218,de,http://www.tu-chemnitz.de/,typo,3560.0,institutional,http://monarch.qucosa.de/startseite/,,http://monarch.qucosa.de/oai/,https://v2.sherpa.ac.uk/id/repository/218,TYPO3
 103,219,de,http://www.uni-mannheim.de/,html,6781.0,institutional,http://www.mzes.uni-mannheim.de/d7/de/publications/search?f[0]=field_biblio_mzes_pub_type%3A1/,,,https://v2.sherpa.ac.uk/id/repository/219,HTML
 104,223,ie,http://www.maynoothuniversity.ie/,eprints,13022.0,institutional,http://eprints.maynoothuniversity.ie/,2.0,http://eprints.maynoothuniversity.ie/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/223,
 105,225,gb,https://www.ncl.ac.uk,eprints,126517.0,institutional,https://eprints.ncl.ac.uk,25055.0,https://eprints.ncl.ac.uk/oai,https://v2.sherpa.ac.uk/id/repository/225,
@@ -112,7 +112,7 @@
 110,240,de,http://www.uni-passau.de/,opus,402.0,institutional,https://opus4.kobv.de/opus4-uni-passau/home,,https://opus4.kobv.de/opus4-uni-passau/oai,https://v2.sherpa.ac.uk/id/repository/240,
 111,242,de,http://www.bib-info.de/,opus,1621.0,institutional,http://www.bib-info.de/verband/publikationen/opus.html,,,https://v2.sherpa.ac.uk/id/repository/242,
 112,243,de,https://www.fh-dortmund.de/de/index.php,opus,73.0,institutional,https://opus.bsz-bw.de/fhdo,,https://opus.bsz-bw.de/fhdo/oai,https://v2.sherpa.ac.uk/id/repository/243,
-113,244,de,http://www.en.w-hs.de/,typo3,1914.0,institutional,http://fhge.opus.hbz-nrw.de/,,,https://v2.sherpa.ac.uk/id/repository/244,TYPO3
+113,244,de,http://www.en.w-hs.de/,typo,1914.0,institutional,http://fhge.opus.hbz-nrw.de/,,,https://v2.sherpa.ac.uk/id/repository/244,TYPO3
 114,249,it,http://www.uniroma1.it/,dspace,2186.0,institutional,http://padis.uniroma1.it/,1.0,http://padis.uniroma1.it/oai/request,https://v2.sherpa.ac.uk/id/repository/249,
 115,258,se,http://www.mdh.se/,diva portal,11255.0,institutional,http://mdh.diva-portal.org/smash/search.jsf,0.0,http://mdh.diva-portal.org/dice/oai,https://v2.sherpa.ac.uk/id/repository/258,
 116,259,se,http://www.hj.se/,diva portal,12251.0,institutional,http://hj.diva-portal.org/smash/search.jsf,0.0,http://hj.diva-portal.org/dice/oai,https://v2.sherpa.ac.uk/id/repository/259,
@@ -131,7 +131,7 @@
 129,274,ve,http://www.ula.ve/,dspace,32136.0,institutional,http://www.saber.ula.ve/,,http://www.saber.ula.ve/oai/request,https://v2.sherpa.ac.uk/id/repository/274,
 130,276,au,http://www.uow.edu.au/,digital commons,77781.0,institutional,http://ro.uow.edu.au/,18924.0,http://ro.uow.edu.au/do/oai/,https://v2.sherpa.ac.uk/id/repository/276,
 131,279,gb,https://www.royalholloway.ac.uk/home.aspx,pure,22276.0,institutional,https://pure.royalholloway.ac.uk/portal/,2972.0,http://digirep.rhul.ac.uk/p/oai,https://v2.sherpa.ac.uk/id/repository/279,
-132,280,de,http://www.uni-saarland.de,typo3,1062.0,institutional,http://saardok.bsz-bw.de,,,https://v2.sherpa.ac.uk/id/repository/280,TYPO3
+132,280,de,http://www.uni-saarland.de,typo,1062.0,institutional,http://saardok.bsz-bw.de,,,https://v2.sherpa.ac.uk/id/repository/280,TYPO3
 133,282,at,http://www.univie.ac.at/,eprints,1877.0,institutional,http://sammelpunkt.philo.at:8080/,1143.0,http://sammelpunkt.philo.at:8080/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/282,
 134,283,fr,http://www.univ-reims.fr/,,60579.0,institutional,http://scdweb.univ-reims.fr/ipac20/ipac.jsp?profile=scdldap&menu=search&submenu=advanced,,,https://v2.sherpa.ac.uk/id/repository/283,
 135,284,us,http://www.upenn.edu/,digital commons,36413.0,institutional,http://repository.upenn.edu/,,http://repository.upenn.edu/do/oai/,https://v2.sherpa.ac.uk/id/repository/284,Digital Commons
@@ -275,7 +275,7 @@
 273,505,us,http://www.iastate.edu/,eprints,383.0,institutional,http://archives.ece.iastate.edu/,0.0,http://archives.ece.iastate.edu/perl/oai2,https://v2.sherpa.ac.uk/id/repository/505,
 274,506,us,http://www.indiana.edu/,,,institutional,http://iubio.bio.indiana.edu/,,,https://v2.sherpa.ac.uk/id/repository/506,
 275,507,us,http://www.nasa.gov/centers/johnson/home/,html,428.0,institutional,http://ston.jsc.nasa.gov/collections/TRS/,,,https://v2.sherpa.ac.uk/id/repository/507,HTML
-276,510,jp,http://www.kyushu-u.ac.jp/,e cats library,79436.0,institutional,https://www.lib.kyushu-u.ac.jp/ja/collections/qir,,http://catalog.lib.kyushu-u.ac.jp/mmd/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/510,E-Cats Library
+276,510,jp,http://www.kyushu-u.ac.jp/,e cats,79436.0,institutional,https://www.lib.kyushu-u.ac.jp/ja/collections/qir,,http://catalog.lib.kyushu-u.ac.jp/mmd/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/510,E-Cats Library
 277,513,gb,https://www.lboro.ac.uk,figshare,45384.0,institutional,https://repository.lboro.ac.uk,26911.0,https://api.figshare.com/v2/oai?verb=ListIdentifiers&metadataPrefix=oai_dc&set=portal_2,https://v2.sherpa.ac.uk/id/repository/513,Figshare
 278,515,nl,http://www.rug.nl/,wildfire,2419.0,institutional,http://msc.eldoc.ub.rug.nl/,,http://msc.eldoc.ub.rug.nl/oai/,https://v2.sherpa.ac.uk/id/repository/515,
 279,516,nl,http://www.rug.nl/,wildfire,28.0,institutional,http://bibliotheek.eldoc.ub.rug.nl/,,http://bibliotheek.eldoc.ub.rug.nl/oai/,https://v2.sherpa.ac.uk/id/repository/516,
@@ -464,7 +464,7 @@
 462,867,au,http://www.swinburne.edu.au/,equella,44865.0,institutional,https://researchbank.swinburne.edu.au/,0.0,https://researchbank.swinburne.edu.au/p/oai,https://v2.sherpa.ac.uk/id/repository/867,
 463,869,no,http://www.hio.no/,,34.0,institutional,http://eternity.iu.hio.no/theses/,,,https://v2.sherpa.ac.uk/id/repository/869,
 464,870,jp,http://sun.ac.jp/,dspace,33233.0,institutional,http://naosite.lb.nagasaki-u.ac.jp/dspace/?locale=en,2.0,http://naosite.lb.nagasaki-u.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/870,
-465,871,jp,http://www.osaka-u.ac.jp/,e cats library,76101.0,institutional,https://ir.library.osaka-u.ac.jp/repo/ouka/all/?lang=1,58230.0,http://ir.library.osaka-u.ac.jp/repo/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/871,E-Cats Library
+465,871,jp,http://www.osaka-u.ac.jp/,e cats,76101.0,institutional,https://ir.library.osaka-u.ac.jp/repo/ouka/all/?lang=1,58230.0,http://ir.library.osaka-u.ac.jp/repo/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/871,E-Cats Library
 466,872,jp,http://www.u-gakugei.ac.jp/,nalis r,12379.0,institutional,https://ir.u-gakugei.ac.jp/?lang=en,0.0,http://ir.u-gakugei.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/872,NALIS-R
 467,874,us,http://www.arizona.edu/,etd db,,institutional,http://etd.library.arizona.edu/etd/,,,https://v2.sherpa.ac.uk/id/repository/874,ETD-db
 468,875,za,http://www.sun.ac.za,dspace,2435.0,institutional,http://scholar.sun.ac.za/,,,https://v2.sherpa.ac.uk/id/repository/875,
@@ -588,15 +588,15 @@
 586,1051,jp,http://www.muroran-it.ac.jp/,weko,3540.0,institutional,https://muroran-it.repo.nii.ac.jp/,,http://muroran-it.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1051,
 587,1052,jp,http://www.gunma-u.ac.jp/,dspace,11054.0,institutional,https://gair.media.gunma-u.ac.jp/dspace/,4836.0,http://gair.media.gunma-u.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1052,
 588,1053,jp,http://www.saitama-u.ac.jp/,weko,8549.0,institutional,https://sucra.repo.nii.ac.jp/,,http://sucra.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1053,
-589,1054,jp,http://www.gifu-u.ac.jp/,nalis r(dspace),10973.0,institutional,http://repository.lib.gifu-u.ac.jp/?lang=en,0.0,http://repository.lib.gifu-u.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1054,NALIS-R(DSpace)
-590,1055,jp,http://www.nara-wu.ac.jp/,iliswave j v3,3687.0,institutional,https://opac.lib.nara-wu.ac.jp/?lang=english,,http://opac2.lib.nara-wu.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/1055,iLiswave-J V3
+589,1054,jp,http://www.gifu-u.ac.jp/,nalis r,10973.0,institutional,http://repository.lib.gifu-u.ac.jp/?lang=en,0.0,http://repository.lib.gifu-u.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1054,NALIS-R(DSpace)
+590,1055,jp,http://www.nara-wu.ac.jp/,iliswave j,3687.0,institutional,https://opac.lib.nara-wu.ac.jp/?lang=english,,http://opac2.lib.nara-wu.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/1055,iLiswave-J V3
 591,1056,jp,http://www.oita-u.ac.jp/,iliswave j,11003.0,institutional,http://opac.lib.oita-u.ac.jp/?page_id=211,0.0,http://opac2.lib.oita-u.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/1056,iLiswave-J
 592,1057,jp,http://www.u-ryukyu.ac.jp/,nalis r,11481.0,institutional,http://ir.lib.u-ryukyu.ac.jp/ir/repo_top_en.htm,3.0,http://ir.lib.u-ryukyu.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1057,NALIS-R
 593,1058,jp,http://www.tdc.ac.jp/,dspace,4305.0,institutional,http://ir.tdc.ac.jp/?locale=en,6.0,http://ir.tdc.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1058,
 594,1059,jp,http://harp.lib.hiroshima-u.ac.jp/haul/index.html,dspace,1909.0,institutional,http://harp.lib.hiroshima-u.ac.jp/,750.0,http://harp.lib.hiroshima-u.ac.jp/hijiyama-u/oai/request,https://v2.sherpa.ac.uk/id/repository/1059,
 595,1060,jp,http://harp.lib.hiroshima-u.ac.jp/haul/index.html,xoonips,29.0,institutional,http://harpir.cc.it-hiroshima.ac.jp/xoops/html/modules/xoonips/,,,https://v2.sherpa.ac.uk/id/repository/1060,
 596,1061,ie,http://www.ucd.ie/,dspace,8122.0,institutional,http://researchrepository.ucd.ie/,,http://researchrepository.ucd.ie/oai/request,https://v2.sherpa.ac.uk/id/repository/1061,
-597,1062,jp,http://www.kit.ac.jp/,e catslibrary,701.0,institutional,http://repository.lib.kit.ac.jp/repo/repository/10212/,0.0,http://repository.lib.kit.ac.jp/repo/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/1062,E-CatsLibrary
+597,1062,jp,http://www.kit.ac.jp/,e cats,701.0,institutional,http://repository.lib.kit.ac.jp/repo/repository/10212/,0.0,http://repository.lib.kit.ac.jp/repo/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/1062,E-CatsLibrary
 598,1063,gb,http://www.jisc.ac.uk/,eprints,3849.0,institutional,http://repository.jisc.ac.uk/,0.0,http://repository.jisc.ac.uk/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/1063,
 599,1064,gb,http://www.ox.ac.uk/,fedora,239671.0,institutional,http://ora.ox.ac.uk,20.0,https://ora.ox.ac.uk/oai2,https://v2.sherpa.ac.uk/id/repository/1064,
 600,1066,jp,http://www.saga-u.ac.jp/,dspace,4376.0,institutional,http://portal.dl.saga-u.ac.jp/,3898.0,http://portal.dl.saga-u.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1066,
@@ -995,7 +995,7 @@
 993,1637,us,http://www.valdosta.edu/,dspace,3191.0,institutional,http://vtext.valdosta.edu:8080/xmlui/,701.0,http://vtext.valdosta.edu/oai/request,https://v2.sherpa.ac.uk/id/repository/1637,
 994,1638,es,http://www.bne.es/es/Inicio/index.html,digitool,164490.0,institutional,http://www.bne.es/es/Catalogos/BibliotecaDigitalHispanica/Inicio/index.html,,,https://v2.sherpa.ac.uk/id/repository/1638,
 995,1640,de,http://www.dlr.de/,eprints,101210.0,institutional,https://elib.dlr.de,,https://elib.dlr.de/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/1640,
-996,1641,es,https://www.ulpgc.es,dspace cris,700.0,institutional,https://accedacris.ulpgc.es,,https://acceda.ulpgc.es/oai/request,https://v2.sherpa.ac.uk/id/repository/1641,
+996,1641,es,https://www.ulpgc.es,dspace,700.0,institutional,https://accedacris.ulpgc.es,,https://acceda.ulpgc.es/oai/request,https://v2.sherpa.ac.uk/id/repository/1641,
 997,1642,de,http://www.ulb.tu-darmstadt.de/,,625.0,institutional,http://www.ulb.tu-darmstadt.de/spezialabteilungen/digitale_sammlungen_2/digitale_sammlungen.de.jsp,,,https://v2.sherpa.ac.uk/id/repository/1642,
 998,1645,us,http://www.law.duke.edu/,digital commons,14576.0,institutional,http://scholarship.law.duke.edu/,12683.0,http://scholarship.law.duke.edu/do/oai/,https://v2.sherpa.ac.uk/id/repository/1645,Digital Commons
 999,1647,za,http://www.cput.ac.za/,dspace,2963.0,institutional,http://digitalknowledge.cput.ac.za/xmlui/,0.0,http://digitalknowledge.cput.ac.za/oai/request,https://v2.sherpa.ac.uk/id/repository/1647,
@@ -1017,7 +1017,7 @@
 1015,1670,hr,http://www.unizg.hr/,dspace,52.0,institutional,http://dlib.foi.hr/,0.0,http://dlib.foi.hr/oai/request,https://v2.sherpa.ac.uk/id/repository/1670,
 1016,1672,ca,http://www.dal.ca/,dspace,28745.0,institutional,http://dalspace.library.dal.ca/,,,https://v2.sherpa.ac.uk/id/repository/1672,
 1017,1673,gb,http://www.arts.ac.uk/,eprints,10851.0,institutional,http://ualresearchonline.arts.ac.uk/,2622.0,http://ualresearchonline.arts.ac.uk/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/1673,
-1018,1674,ca,http://www.nrc-cnrc.gc.ca/index.html,custom software,57949.0,institutional,https://nrc-publications.canada.ca/eng/home/,478.0,http://oai-pmh.nrc-cnrc.gc.ca/ctrl,https://v2.sherpa.ac.uk/id/repository/1674,Custom software
+1018,1674,ca,http://www.nrc-cnrc.gc.ca/index.html,custom,57949.0,institutional,https://nrc-publications.canada.ca/eng/home/,478.0,http://oai-pmh.nrc-cnrc.gc.ca/ctrl,https://v2.sherpa.ac.uk/id/repository/1674,Custom software
 1019,1675,gb,http://www.cumbria.ac.uk/home.aspx,eprints,4300.0,institutional,http://insight.cumbria.ac.uk/,2378.0,http://insight.cumbria.ac.uk/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/1675,
 1020,1676,ca,http://www.uregina.ca/,dspace,7218.0,institutional,http://ourspace.uregina.ca/,,,https://v2.sherpa.ac.uk/id/repository/1676,
 1021,1678,za,http://www.uwc.ac.za,dspace,2873.0,institutional,http://repository.uwc.ac.za/xmlui/,,http://repository.uwc.ac.za/oai/request,https://v2.sherpa.ac.uk/id/repository/1678,
@@ -1087,7 +1087,7 @@
 1085,1761,sn,http://www.ucad.sn/,dspace,321.0,institutional,http://bca.ucad.sn/jspui/,0.0,http://bca.ucad.sn/oai/request,https://v2.sherpa.ac.uk/id/repository/1761,
 1086,1762,us,http://www.nyu.edu/,,118570.0,institutional,http://bjpa.org/,,,https://v2.sherpa.ac.uk/id/repository/1762,
 1087,1765,pt,http://www.ubi.pt/,dspace,4513.0,institutional,http://ubibliorum.ubi.pt/,,,https://v2.sherpa.ac.uk/id/repository/1765,
-1088,1766,jp,http://www.jamstec.go.jp/e/,infolib dbr,42812.0,institutional,http://www.jamstec.go.jp/jir/,405.0,http://www.jamstec.go.jp/jir/infolib/oai_repository/repository,https://v2.sherpa.ac.uk/id/repository/1766,Infolib-DBR
+1088,1766,jp,http://www.jamstec.go.jp/e/,infolib,42812.0,institutional,http://www.jamstec.go.jp/jir/,405.0,http://www.jamstec.go.jp/jir/infolib/oai_repository/repository,https://v2.sherpa.ac.uk/id/repository/1766,Infolib-DBR
 1089,1767,gb,http://www.abdn.ac.uk/,dspace,13039.0,institutional,http://aura.abdn.ac.uk/,9678.0,http://aura.abdn.ac.uk/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1767,
 1090,1768,in,http://www.cusat.nic.in/,dspace,4721.0,institutional,http://dyuthi.cusat.ac.in/,0.0,http://dyuthi.cusat.ac.in/oai/request,https://v2.sherpa.ac.uk/id/repository/1768,
 1091,1769,ec,http://www.uasb.edu.ec/,dspace,5609.0,institutional,http://repositorio.uasb.edu.ec/,,http://repositorio.uasb.edu.ec/oai/request?,https://v2.sherpa.ac.uk/id/repository/1769,
@@ -1158,7 +1158,7 @@
 1156,1854,tw,https://www.csmu.edu.tw,dspace,5897.0,institutional,http://ir.lib.csmu.edu.tw:8080/,0.0,http://ir.lib.csmu.edu.tw:8080/ir-oai/request,https://v2.sherpa.ac.uk/id/repository/1854,
 1157,1855,eg,https://www.aucegypt.edu/,digital commons,4537.0,institutional,https://fount.aucegypt.edu/,0.0,,https://v2.sherpa.ac.uk/id/repository/1855,
 1158,1856,es,http://www.euskomedia.org/,eprints,5986.0,institutional,http://edtb.euskomedia.org/,10.0,http://edtb.euskomedia.org/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/1856,
-1159,1857,si,http://www.um.si/Strani/default.aspx,dkum   digital library platform from uni,64814.0,institutional,https://dk.um.si/info/index.php/eng/,503.0,https://dk.um.si/oai/oai2.php,https://v2.sherpa.ac.uk/id/repository/1857,DKUM - digital library platform from Uni
+1159,1857,si,http://www.um.si/Strani/default.aspx,dkum,64814.0,institutional,https://dk.um.si/info/index.php/eng/,503.0,https://dk.um.si/oai/oai2.php,https://v2.sherpa.ac.uk/id/repository/1857,DKUM - digital library platform from Uni
 1160,1859,ua,http://lp.edu.ua/,dspace,39561.0,institutional,http://ena.lp.edu.ua:8080/,,http://ena.lp.edu.ua:8080/oai/request,https://v2.sherpa.ac.uk/id/repository/1859,
 1161,1862,tr,https://www.ozyegin.edu.tr,dspace,2664.0,institutional,http://eresearch.ozyegin.edu.tr,,http://eresearch.ozyegin.edu.tr/oai/request,https://v2.sherpa.ac.uk/id/repository/1862,
 1162,1863,mx,http://www.ipn.mx/,dspace,22263.0,institutional,http://itzamna.bnct.ipn.mx/,,,https://v2.sherpa.ac.uk/id/repository/1863,
@@ -1197,20 +1197,20 @@
 1195,1910,jp,http://www.kait.jp/,iliswave j,947.0,institutional,http://lib.kait.jp/?page_id=1044,,http://202.250.70.181/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/1910,iLiswave-J
 1196,1912,es,http://www.unav.edu/,digibib,4079.0,institutional,http://coleccionfff.unav.es/bvunav/i18n/estaticos/contenido.cmd?pagina=estaticos/presentacion,,http://coleccionfff.unav.es/bvunav/i18n/oai/oai.cmd,https://v2.sherpa.ac.uk/id/repository/1912,
 1197,1914,jp,http://www.aichi-edu.ac.jp/,weko,8100.0,institutional,https://aue.repo.nii.ac.jp/,53.0,http://aue.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1914,
-1198,1915,jp,http://www.josai.ac.jp/,infolib asp,6344.0,institutional,https://libir.josai.ac.jp/il/meta_pub/engG0000284repository,5447.0,https://libir.josai.ac.jp/il/oai_repository/pmh/G0000284-repository,https://v2.sherpa.ac.uk/id/repository/1915,Infolib-ASP
+1198,1915,jp,http://www.josai.ac.jp/,infolib,6344.0,institutional,https://libir.josai.ac.jp/il/meta_pub/engG0000284repository,5447.0,https://libir.josai.ac.jp/il/oai_repository/pmh/G0000284-repository,https://v2.sherpa.ac.uk/id/repository/1915,Infolib-ASP
 1199,1916,se,http://ki.se/,dspace,8964.0,institutional,https://openarchive.ki.se/xmlui/,3941.0,https://openarchive.ki.se/oai/request,https://v2.sherpa.ac.uk/id/repository/1916,
-1200,1917,jp,http://univ.kanto-gakuin.ac.jp/,iliswave j v3,2761.0,institutional,https://kguopac.kanto-gakuin.ac.jp/webopac/ufirdi.do?ufi_target=ctlsrh,0.0,http://kguopac.kanto-gakuin.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/1917,iLiswave-J V3
+1200,1917,jp,http://univ.kanto-gakuin.ac.jp/,iliswave j,2761.0,institutional,https://kguopac.kanto-gakuin.ac.jp/webopac/ufirdi.do?ufi_target=ctlsrh,0.0,http://kguopac.kanto-gakuin.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/1917,iLiswave-J V3
 1201,1918,gb,http://www.dur.ac.uk/,eprints,12823.0,institutional,http://etheses.dur.ac.uk/,12276.0,http://etheses.dur.ac.uk/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/1918,
 1202,1919,br,http://portal.fiocruz.br/,,2431.0,institutional,http://www4.ensp.fiocruz.br/biblioteca/home/,,,https://v2.sherpa.ac.uk/id/repository/1919,
 1203,1920,jp,http://www.shiga-med.ac.jp/,weko,3046.0,institutional,https://shiga-med.repo.nii.ac.jp/,0.0,http://shiga-med.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1920,
 1204,1921,jp,http://www.shiga-u.ac.jp/,weko,12875.0,institutional,https://shiga-u.repo.nii.ac.jp/,,http://shiga-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1921,
 1205,1922,fr,http://www.upmc.fr/,pleade,1306.0,institutional,http://jubilotheque.upmc.fr/,,http://oai.upmc.fr/oai/provider,https://v2.sherpa.ac.uk/id/repository/1922,PLEADE
 1206,1923,jp,http://www.kochi-u.ac.jp/,weko,6066.0,institutional,https://kochi.repo.nii.ac.jp/,2930.0,http://kochi.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1923,
-1207,1924,jp,http://www.kyokyo-u.ac.jp/,富士通　iliswave j,5842.0,institutional,https://www-std01.ufinity.jp/kyokyolib/,,http://tosho2.kyokyo-u.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/1924,富士通　iLiswave-J
+1207,1924,jp,http://www.kyokyo-u.ac.jp/,iliswave j,5842.0,institutional,https://www-std01.ufinity.jp/kyokyolib/,,http://tosho2.kyokyo-u.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/1924,富士通　iLiswave-J
 1208,1925,gb,https://www.uca.ac.uk,eprints,2578.0,institutional,https://research.uca.ac.uk,475.0,http://research.uca.ac.uk/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/1925,
 1209,1926,jp,http://sun.ac.jp/,dspace,990.0,institutional,http://reposit.sun.ac.jp/dspace/,,http://reposit.sun.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1926,
 1210,1927,jp,http://www.wilmina.ac.jp/ojc,dspace,2623.0,institutional,http://ir-lib.wilmina.ac.jp/dspace/,,http://ir-lib.wilmina.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1927,
-1211,1929,jp,http://www.chubu.ac.jp/,iliswave j v3,3589.0,institutional,https://library.bliss.chubu.ac.jp/?action=pages_view_main&active_action=v3search_view_main_init&block_id=323&tab_num=3&change_locale=en,0.0,http://elib.bliss.chubu.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/1929,iLiswave-J V3
+1211,1929,jp,http://www.chubu.ac.jp/,iliswave j,3589.0,institutional,https://library.bliss.chubu.ac.jp/?action=pages_view_main&active_action=v3search_view_main_init&block_id=323&tab_num=3&change_locale=en,0.0,http://elib.bliss.chubu.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/1929,iLiswave-J V3
 1212,1930,jp,http://www.beppu-u.ac.jp/,xoonips,4983.0,institutional,http://repo.beppu-u.ac.jp,,http://repo.beppu-u.ac.jp/modules/xoonips/oai.php,https://v2.sherpa.ac.uk/id/repository/1930,
 1213,1931,de,https://www.uni-osnabrueck.de,dspace,1650.0,institutional,https://osnadocs.ub.uni-osnabrueck.de,,https://osnadocs.ub.uni-osnabrueck.de/oai/request,https://v2.sherpa.ac.uk/id/repository/1931,
 1214,1932,br,https://www.ufba.br/,dspace,23757.0,institutional,https://repositorio.ufba.br/ri/,0.0,https://repositorio.ufba.br/oai/request,https://v2.sherpa.ac.uk/id/repository/1932,
@@ -1219,7 +1219,7 @@
 1217,1936,jp,http://www.u-ryukyu.ac.jp/,dspace,5794.0,institutional,http://okinawa-repo.lib.u-ryukyu.ac.jp/,,,https://v2.sherpa.ac.uk/id/repository/1936,
 1218,1937,jp,http://www.hokkyodai.ac.jp/,dspace,8433.0,institutional,http://s-ir.sap.hokkyodai.ac.jp/,,http://s-ir.sap.hokkyodai.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1937,
 1219,1938,jp,http://www.yamanashi.ac.jp/,e repository,3176.0,institutional,https://yamanashi.repo.nii.ac.jp/,0.0,http://opac.lib.yamanashi.ac.jp/opac/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/1938,E-Repository
-1220,1939,jp,http://www.osaka-cu.ac.jp/,infolibクラウドサービス,15815.0,institutional,https://dlisv03.media.osaka-cu.ac.jp/il/meta_pub/engG0000438repository,9056.0,https://dlisv03.media.osaka-cu.ac.jp/il/oai_repository/pmh/G0000438-repository,https://v2.sherpa.ac.uk/id/repository/1939,InfoLibクラウドサービス
+1220,1939,jp,http://www.osaka-cu.ac.jp/,infolib,15815.0,institutional,https://dlisv03.media.osaka-cu.ac.jp/il/meta_pub/engG0000438repository,9056.0,https://dlisv03.media.osaka-cu.ac.jp/il/oai_repository/pmh/G0000438-repository,https://v2.sherpa.ac.uk/id/repository/1939,InfoLibクラウドサービス
 1221,1940,jp,http://www.hamamatsu-u.ac.jp/,weko,3205.0,institutional,https://hama-med.repo.nii.ac.jp/,,http://hama-med.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1940,
 1222,1941,jp,http://www.nifs.ac.jp/,weko,10485.0,institutional,https://nifs-repository.repo.nii.ac.jp/,0.0,http://nifs-repository.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1941,
 1223,1942,jp,http://www.nara-u.ac.jp/,xoonips,3818.0,institutional,http://repo.nara-u.ac.jp,81.0,http://repo.nara-u.ac.jp/modules/xoonips/oai.php,https://v2.sherpa.ac.uk/id/repository/1942,
@@ -1249,11 +1249,11 @@
 1247,1969,tw,http://www.ncue.edu.tw/front/bin/home.phtml,dspace,11662.0,institutional,http://ir.ncue.edu.tw/ir/,2163.0,http://ir.ncue.edu.tw/ir-oai/request,https://v2.sherpa.ac.uk/id/repository/1969,
 1248,1970,us,http://www.sjsu.edu,digital commons,27262.0,institutional,https://scholarworks.sjsu.edu,21626.0,https://scholarworks.sjsu.edu/do/oai,https://v2.sherpa.ac.uk/id/repository/1970,
 1249,1971,pe,http://www.unmsm.edu.pe/,dspace,21.0,institutional,http://ateneo.unmsm.edu.pe/ateneo/index.jsp,,http://ateneo.unmsm.edu.pe/ateneo/oai,https://v2.sherpa.ac.uk/id/repository/1971,
-1250,1973,jp,http://www.aoyama.ac.jp/,e catslibrary ver.6,16245.0,institutional,https://www.agulin.aoyama.ac.jp/repo/repository/1000/,0.0,https://www.agulin.aoyama.ac.jp/repo/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/1973,E-CatsLibrary ver.6
+1250,1973,jp,http://www.aoyama.ac.jp/,e cats,16245.0,institutional,https://www.agulin.aoyama.ac.jp/repo/repository/1000/,0.0,https://www.agulin.aoyama.ac.jp/repo/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/1973,E-CatsLibrary ver.6
 1251,1974,jp,http://www.kokushikan.ac.jp/,shunsaku,,institutional,https://kiss.kokushikan.ac.jp/pages/sa.aspx,,,https://v2.sherpa.ac.uk/id/repository/1974,Shunsaku
 1252,1975,jp,http://www.jikei.ac.jp/,weko,5003.0,institutional,https://ir.jikei.ac.jp/,,http://ir.jikei.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1975,
 1253,1976,jp,http://www.twmu.ac.jp/,weko,37906.0,institutional,https://twinkle.repo.nii.ac.jp/,,http://twinkle.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1976,
-1254,1977,jp,http://www.ryukoku.ac.jp/,iliswave j v3,5976.0,institutional,https://library.ryukoku.ac.jp/?action=pages_view_main&active_action=v3search_view_main_init&block_id=296&tab_num=1,0.0,http://opac.ryukoku.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/1977,iLiswave-J V3
+1254,1977,jp,http://www.ryukoku.ac.jp/,iliswave j,5976.0,institutional,https://library.ryukoku.ac.jp/?action=pages_view_main&active_action=v3search_view_main_init&block_id=296&tab_num=1,0.0,http://opac.ryukoku.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/1977,iLiswave-J V3
 1255,1979,jp,http://www.mukogawa-u.ac.jp/,weko,946.0,institutional,https://mukogawa.repo.nii.ac.jp/,,http://mukogawa.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1979,
 1256,1980,jp,http://www.tsuyama-ct.ac.jp/,weko,902.0,institutional,https://tsuyama-nit.repo.nii.ac.jp/,0.0,http://tsuyama-nit.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1980,
 1257,1981,jp,http://www.nabunken.go.jp/,dspace,7079.0,institutional,http://repository.nabunken.go.jp/dspace/index.jsp?locale=en,222.0,http://repository.nabunken.go.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1981,
@@ -1734,7 +1734,7 @@
 1732,2586,ir,http://www.kmu.ac.ir/,eprints,14163.0,institutional,http://eprints.kmu.ac.ir/,10285.0,http://eprints.kmu.ac.ir/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/2586,
 1733,2587,co,http://www.unisabana.edu.co/,dspace,16290.0,institutional,http://intellectum.unisabana.edu.co/,1832.0,http://intellectum.unisabana.edu.co/oai/request?,https://v2.sherpa.ac.uk/id/repository/2587,
 1734,2588,au,https://www.canberra.edu.au,pure,11427.0,institutional,https://researchprofiles.canberra.edu.au,,https://researchsystem.canberra.edu.au/ws/oai?verb=Identify,https://v2.sherpa.ac.uk/id/repository/2588,
-1735,2590,us,http://www.asu.edu/,django/python,43305.0,institutional,http://repository.asu.edu/,0.0,http://repository.asu.edu/oai-pmh,https://v2.sherpa.ac.uk/id/repository/2590,Django/Python
+1735,2590,us,http://www.asu.edu/,django,43305.0,institutional,http://repository.asu.edu/,0.0,http://repository.asu.edu/oai-pmh,https://v2.sherpa.ac.uk/id/repository/2590,Django/Python
 1736,2592,fr,http://www.univ-paris-diderot.fr/,hal,2652184.0,institutional,http://hal-univ-diderot.archives-ouvertes.fr/,13213.0,https://api.archives-ouvertes.fr/oai/univ-diderot,https://v2.sherpa.ac.uk/id/repository/2592,
 1737,2593,pe,http://www.unac.edu.pe/,dspace,905.0,institutional,http://repositorio.unac.edu.pe/,0.0,http://repositorio.unac.edu.pe/oai,https://v2.sherpa.ac.uk/id/repository/2593,
 1738,2594,pt,http://www.ipl.pt/,dspace,12688.0,institutional,http://repositorio.ipl.pt/,6341.0,http://repositorio.ipl.pt/oaiextended/request,https://v2.sherpa.ac.uk/id/repository/2594,
@@ -1748,7 +1748,7 @@
 1746,2606,cz,http://www.cvut.cz/,dspace,43535.0,institutional,https://dspace.cvut.cz/,6788.0,https://dspace.cvut.cz/oai/request,https://v2.sherpa.ac.uk/id/repository/2606,
 1747,2607,gb,https://www.qub.ac.uk,pure,85722.0,institutional,https://pure.qub.ac.uk,10400.0,https://pureadmin.qub.ac.uk/ws/oai,https://v2.sherpa.ac.uk/id/repository/2607,
 1748,2608,ua,http://oneu.edu.ua/index_uk.php,dspace,6822.0,institutional,http://dspace.oneu.edu.ua/jspui/,,,https://v2.sherpa.ac.uk/id/repository/2608,
-1749,2610,jp,http://www.toho-u.ac.jp/,富士通 iliswave j,52.0,institutional,https://mylibrary.toho-u.ac.jp/webopac/ufirdi.do?ufi_target=ctlsrh,,http://mylibrary.toho-u.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/2610,富士通 iLiswave-J
+1749,2610,jp,http://www.toho-u.ac.jp/,iliswave j,52.0,institutional,https://mylibrary.toho-u.ac.jp/webopac/ufirdi.do?ufi_target=ctlsrh,,http://mylibrary.toho-u.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/2610,富士通 iLiswave-J
 1750,2611,us,http://www.wpi.edu/,digital commons,23551.0,institutional,http://digitalcommons.wpi.edu/,15110.0,http://digitalcommons.wpi.edu/do/oai/,https://v2.sherpa.ac.uk/id/repository/2611,Digital Commons
 1751,2612,gr,http://www.unipi.gr/,dspace,10356.0,institutional,http://dione.lib.unipi.gr/xmlui/,,,https://v2.sherpa.ac.uk/id/repository/2612,
 1752,2613,my,http://www.umk.edu.my/,eprints,7909.0,institutional,http://umkeprints.umk.edu.my/,,http://umkeprints.umk.edu.my/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/2613,
@@ -1792,14 +1792,14 @@
 1790,2657,gr,http://www.uoc.gr/,eprints,239.0,institutional,http://preprints.acmac.uoc.gr/,,http://preprints.acmac.uoc.gr/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/2657,
 1791,2658,lu,http://www.uni.lu/,dspace,43203.0,institutional,https://orbilu.uni.lu,9012.0,https://orbilu.uni.lu/oai/request,https://v2.sherpa.ac.uk/id/repository/2658,
 1792,2660,mx,http://www.iteso.mx/,dspace,5058.0,institutional,http://rei.iteso.mx/,,http://rei.iteso.mx/oai/request,https://v2.sherpa.ac.uk/id/repository/2660,
-1793,2661,tr,https://iyte.edu.tr,dspace cris,6665.0,institutional,https://gcris.iyte.edu.tr,6.0,https://gcris.iyte.edu.tr/oai,https://v2.sherpa.ac.uk/id/repository/2661,
+1793,2661,tr,https://iyte.edu.tr,dspace,6665.0,institutional,https://gcris.iyte.edu.tr,6.0,https://gcris.iyte.edu.tr/oai,https://v2.sherpa.ac.uk/id/repository/2661,
 1794,2662,tr,http://www.dogus.edu.tr/en/,dspace,2834.0,institutional,http://openaccess.dogus.edu.tr/,,http://openaccess.dogus.edu.tr:8080/oai/request,https://v2.sherpa.ac.uk/id/repository/2662,
-1795,2664,nc,http://www.univ-nc.nc/,ori oai 1.7,1720.0,institutional,http://orioai.univ-nc.nc/,,,https://v2.sherpa.ac.uk/id/repository/2664,ORI-OAI 1.7
+1795,2664,nc,http://www.univ-nc.nc/,ori oai,1720.0,institutional,http://orioai.univ-nc.nc/,,,https://v2.sherpa.ac.uk/id/repository/2664,ORI-OAI 1.7
 1796,2667,ua,http://www.diit.edu.ua/,dspace,5796.0,institutional,http://eadnurt.diit.edu.ua:82/jspui/,0.0,http://eadnurt.diit.edu.ua:82/oai/request,https://v2.sherpa.ac.uk/id/repository/2667,
 1797,2668,pk,http://www.aku.edu/,digital commons,8827.0,institutional,http://ecommons.aku.edu/,,http://ecommons.aku.edu/do/oai/,https://v2.sherpa.ac.uk/id/repository/2668,Digital Commons
 1798,2670,pe,http://www.upc.edu.pe/,open repository,100.0,institutional,http://repositorioacademico.upc.edu.pe/,32.0,http://upc.openrepository.com/upc/oai/request,https://v2.sherpa.ac.uk/id/repository/2670,Open Repository
 1799,2674,in,http://www.wbpublibnet.gov.in:8080/openenrichv41/LIBRARY_new/html/home.jsp,dspace,33905.0,institutional,http://dspace.wbpublibnet.gov.in:8080/jspui/,,,https://v2.sherpa.ac.uk/id/repository/2674,
-1800,2675,cl,http://www.uchile.cl/,omp (open monograph press),589.0,institutional,http://libros.uchile.cl/,,http://www.libros.uchile.cl/index.php/sisib/oai/,https://v2.sherpa.ac.uk/id/repository/2675,OMP (Open Monograph Press)
+1800,2675,cl,http://www.uchile.cl/,omp,589.0,institutional,http://libros.uchile.cl/,,http://www.libros.uchile.cl/index.php/sisib/oai/,https://v2.sherpa.ac.uk/id/repository/2675,OMP (Open Monograph Press)
 1801,2676,it,http://www.unisalento.it/,pkp   ojs,12189.0,institutional,http://siba-ese.unisalento.it/,7873.0,http://siba-ese.unisalento.it/index.php/index/oai,https://v2.sherpa.ac.uk/id/repository/2676,PKP - OJS
 1802,2677,iq,http://www.uobabylon.edu.iq/,,10.0,institutional,http://repository.uobabylon.edu.iq/,,,https://v2.sherpa.ac.uk/id/repository/2677,
 1803,2678,dz,http://www.univ-tlemcen.dz/,dspace,11667.0,institutional,http://dspace.univ-tlemcen.dz/,0.0,http://dspace.univ-tlemcen.dz/oai/request,https://v2.sherpa.ac.uk/id/repository/2678,
@@ -1838,7 +1838,7 @@
 1836,2728,ca,http://www.etsmtl.ca/,eprints,15770.0,institutional,http://espace2.etsmtl.ca/,,,https://v2.sherpa.ac.uk/id/repository/2728,
 1837,2729,ar,http://www.agro.uba.ar/,greenstone,3823.0,institutional,http://ri.agro.uba.ar/,3262.0,http://ri.agro.uba.ar/greenstone/cgi-bin/oaiserver.cgi,https://v2.sherpa.ac.uk/id/repository/2729,
 1838,2730,ke,http://www.jkuat.ac.ke/,dspace,3627.0,institutional,http://ir.jkuat.ac.ke/,,,https://v2.sherpa.ac.uk/id/repository/2730,
-1839,2731,us,https://www.unc.edu/,dataverse network,251548.0,institutional,https://dataverse.unc.edu/,,,https://v2.sherpa.ac.uk/id/repository/2731,Dataverse Network
+1839,2731,us,https://www.unc.edu/,dataverse,251548.0,institutional,https://dataverse.unc.edu/,,,https://v2.sherpa.ac.uk/id/repository/2731,Dataverse Network
 1840,2733,co,http://www.upb.edu.co/,dspace,3639.0,institutional,http://repository.upb.edu.co/,,,https://v2.sherpa.ac.uk/id/repository/2733,
 1841,2734,pl,http://www.wsb-nlu.edu.pl/,dspace,1348.0,institutional,http://repozytorium.wsb-nlu.edu.pl/,398.0,http://repozytorium.wsb-nlu.edu.pl/oai/driver,https://v2.sherpa.ac.uk/id/repository/2734,
 1842,2738,us,http://www.iadb.org/,dspace,6087.0,institutional,http://www.iadb.org/publications,0.0,http://repository.iadb.org/oai/request,https://v2.sherpa.ac.uk/id/repository/2738,
@@ -1988,7 +1988,7 @@
 1986,2929,us,http://www.TWU.edu/,dspace,2479.0,institutional,http://Poar.twu.edu/,,http://poar.twu.edu/oai/request,https://v2.sherpa.ac.uk/id/repository/2929,
 1987,2930,cn,http://www.tsinghua.edu.cn/,dspace,114678.0,institutional,http://ir.lib.tsinghua.edu.cn/,0.0,http://ir.lib.tsinghua.edu.cn/oai/request,https://v2.sherpa.ac.uk/id/repository/2930,
 1988,2931,pl,http://www.pjwstk.edu.pl/,dspace,181.0,institutional,https://repin.pjwstk.edu.pl/,,,https://v2.sherpa.ac.uk/id/repository/2931,
-1989,2932,de,http://www.uni-paderborn.de/,visual library server,5741.0,institutional,http://digital.ub.uni-paderborn.de/,,http://digital.ub.uni-paderborn.de/oai,https://v2.sherpa.ac.uk/id/repository/2932,Visual Library Server
+1989,2932,de,http://www.uni-paderborn.de/,visual library,5741.0,institutional,http://digital.ub.uni-paderborn.de/,,http://digital.ub.uni-paderborn.de/oai,https://v2.sherpa.ac.uk/id/repository/2932,Visual Library Server
 1990,2933,us,http://www.seminolestate.edu/,sobekcm,189.0,institutional,http://seminolestate.sobek.ufl.edu/,0.0,http://seminolestate.sobek.ufl.edu/sobekcm_oai.aspx,https://v2.sherpa.ac.uk/id/repository/2933,SobekCM
 1991,2934,us,http://www.ncf.edu/,sobekcm,8986.0,institutional,http://ncf.sobek.ufl.edu/,26.0,http://ncf.sobek.ufl.edu/sobekcm_oai.aspx,https://v2.sherpa.ac.uk/id/repository/2934,SobekCM
 1992,2936,cl,http://www.uc.cl/,dspace,17927.0,institutional,http://repositorio.uc.cl/xmlui,,,https://v2.sherpa.ac.uk/id/repository/2936,
@@ -2007,7 +2007,7 @@
 2005,2951,ng,http://loadedmovies.com/,dspace,1166.0,institutional,http://www.repository.fuoye.edu.ng/,,,https://v2.sherpa.ac.uk/id/repository/2951,
 2006,2952,rs,http://instifdt.bg.ac.rs/index.html,dspace,1763.0,institutional,http://rifdt.instifdt.bg.ac.rs/,,http://rifdt.instifdt.bg.ac.rs/oai/request,https://v2.sherpa.ac.uk/id/repository/2952,
 2007,2953,dz,http://univ-biskra.dz/,dspace,10431.0,institutional,http://archives.univ-biskra.dz/,0.0,http://archives.univ-biskra.dz/oai/request,https://v2.sherpa.ac.uk/id/repository/2953,
-2008,2954,us,http://www.harvard.edu/,dataverse network,81160.0,institutional,https://dataverse.harvard.edu/,0.0,https://dataverse.harvard.edu/oai,https://v2.sherpa.ac.uk/id/repository/2954,Dataverse Network
+2008,2954,us,http://www.harvard.edu/,dataverse,81160.0,institutional,https://dataverse.harvard.edu/,0.0,https://dataverse.harvard.edu/oai,https://v2.sherpa.ac.uk/id/repository/2954,Dataverse Network
 2009,2955,pl,http://www.bg.utp.edu.pl/,dlibra,559.0,institutional,http://dlibra.utp.edu.pl/dlibra,0.0,http://dlibra.utp.edu.pl/dlibra/oai-pmh-repository.xml,https://v2.sherpa.ac.uk/id/repository/2955,
 2010,2957,pl,http://www.igik.edu.pl/,dlibra,761.0,institutional,http://bc.igik.edu.pl/dlibra,,,https://v2.sherpa.ac.uk/id/repository/2957,
 2011,2958,us,http://www.csuohio.edu/,digital commons,15480.0,institutional,http://engagedscholarship.csuohio.edu/,,,https://v2.sherpa.ac.uk/id/repository/2958,Digital Commons
@@ -2020,7 +2020,7 @@
 2018,2968,sa,http://www.nauss.edu.sa/,dspace,13072.0,institutional,http://repository.nauss.edu.sa/,,http://repository.nauss.edu.sa/oai/request,https://v2.sherpa.ac.uk/id/repository/2968,
 2019,2969,br,http://www.ufpb.br/,dspace,3616.0,institutional,https://repositorio.ufpb.br/,,https://repositorio.ufpb.br/oai/request,https://v2.sherpa.ac.uk/id/repository/2969,
 2020,2971,br,http://www.utfpr.edu.br/,dspace,8886.0,institutional,http://repositorio.roca.utfpr.edu.br/jspui/,,,https://v2.sherpa.ac.uk/id/repository/2971,
-2021,2973,tr,http://www.mersin.edu.tr/,mi̇tos,1040.0,institutional,http://mersin.mitosweb.com/,,http://mersin.mitosweb.com/services_oai2/,https://v2.sherpa.ac.uk/id/repository/2973,MİTOS
+2021,2973,tr,http://www.mersin.edu.tr/,mitos,1040.0,institutional,http://mersin.mitosweb.com/,,http://mersin.mitosweb.com/services_oai2/,https://v2.sherpa.ac.uk/id/repository/2973,MİTOS
 2022,2974,us,http://denison.edu/,contentdm,642.0,institutional,http://cdm15963.contentdm.oclc.org/cdm/landingpage/collection/p15963coll43,,,https://v2.sherpa.ac.uk/id/repository/2974,
 2023,2975,us,http://denison.edu/,contentdm,310.0,institutional,http://cdm15963.contentdm.oclc.org/cdm/landingpage/collection/p15963coll3,,,https://v2.sherpa.ac.uk/id/repository/2975,
 2024,2976,us,http://denison.edu/,dspace,4419.0,institutional,http://ohio5.openrepository.com/ohio5/,,,https://v2.sherpa.ac.uk/id/repository/2976,
@@ -2050,7 +2050,7 @@
 2048,3004,fr,http://www.univ-tlse2.fr/,hal,48752.0,institutional,http://hal-univ-tlse2.archives-ouvertes.fr/,6041.0,https://api.archives-ouvertes.fr/oai/univ-tlse2,https://v2.sherpa.ac.uk/id/repository/3004,
 2049,3005,jm,http://www.jcsc.edu.jm/,dspace,,institutional,http://seek.jcsc.edu.jm:8080/,,,https://v2.sherpa.ac.uk/id/repository/3005,
 2050,3006,id,http://uin-suka.ac.id/,eprints,16895.0,institutional,http://digilib.uin-suka.ac.id/,2621.0,http://digilib.uin-suka.ac.id/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/3006,
-2051,3007,at,http://www.uni-graz.at/,visual library server,17297.0,institutional,http://unipub.uni-graz.at/,,http://unipub.uni-graz.at/oai,https://v2.sherpa.ac.uk/id/repository/3007,Visual Library Server
+2051,3007,at,http://www.uni-graz.at/,visual library,17297.0,institutional,http://unipub.uni-graz.at/,,http://unipub.uni-graz.at/oai,https://v2.sherpa.ac.uk/id/repository/3007,Visual Library Server
 2052,3008,in,http://www.iimahd.ernet.in/library/,dspace,18554.0,institutional,http://vslir.iimahd.ernet.in:8080/xmlui,0.0,http://vslir.iimahd.ernet.in:8080/oai/request?verb=Identify,https://v2.sherpa.ac.uk/id/repository/3008,
 2053,3009,cn,http://www.xjtu.edu.cn/,dspace,120195.0,institutional,http://www.ir.xjtu.edu.cn/jspui/index.do,0.0,http://ir.xjtu.edu.cn.jspui/oai/,https://v2.sherpa.ac.uk/id/repository/3009,
 2054,3010,ma,http://uh2c.ac.ma/,dspace,2220.0,institutional,http://dspace.univcasa.ma/jspui/,,,https://v2.sherpa.ac.uk/id/repository/3010,
@@ -2101,7 +2101,7 @@
 2099,3068,tr,http://www.yalova.edu.tr/,dspace,8.0,institutional,http://dspace.yalova.edu.tr/,1.0,http://dspace.yalova.edu.tr/oai/request,https://v2.sherpa.ac.uk/id/repository/3068,
 2100,3069,tr,https://www.igdir.edu.tr,dspace,1104.0,institutional,http://acikerisim.igdir.edu.tr/xmlui,10.0,https://acikerisim.igdir.edu.tr/oai/request,https://v2.sherpa.ac.uk/id/repository/3069,
 2101,3070,tr,http://www.nevsehir.edu.tr/,dspace,54.0,institutional,http://acikerisim.nevsehir.edu.tr/,0.0,,https://v2.sherpa.ac.uk/id/repository/3070,
-2102,3071,ch,https://www.unibe.ch/,dspace cris,119382.0,institutional,https://boris-portal.unibe.ch/,25049.0,https://boris-portal.unibe.ch/oai/,https://v2.sherpa.ac.uk/id/repository/3071,
+2102,3071,ch,https://www.unibe.ch/,dspace,119382.0,institutional,https://boris-portal.unibe.ch/,25049.0,https://boris-portal.unibe.ch/oai/,https://v2.sherpa.ac.uk/id/repository/3071,
 2103,3072,tr,http://www.yok.gov.tr/,dspace,39.0,institutional,http://acikarsiv.yok.gov.tr/,,,https://v2.sherpa.ac.uk/id/repository/3072,
 2104,3074,ir,http://www.ajaums.ac.ir/,eprints,3511.0,institutional,http://eprints.ajaums.ac.ir/,,,https://v2.sherpa.ac.uk/id/repository/3074,
 2105,3075,au,http://www.gbrmpa.gov.au/,dspace,2321.0,institutional,http://elibrary.gbrmpa.gov.au/,627.0,http://elibrary.gbrmpa.gov.au/oai/request?verb=Identify,https://v2.sherpa.ac.uk/id/repository/3075,
@@ -2124,7 +2124,7 @@
 2122,3097,tr,http://www.beykent.edu.tr,dspace,43.0,institutional,https://earsiv.beykent.edu.tr/xmlui/,,https://earsiv.beykent.edu.tr/oai,https://v2.sherpa.ac.uk/id/repository/3097,
 2123,3098,tr,http://www.marmara.edu.tr,dspace,4871.0,institutional,http://openaccess.marmara.edu.tr,,http://openaccess.marmara.edu.tr/oai/request,https://v2.sherpa.ac.uk/id/repository/3098,
 2124,3100,co,http://www.ut.edu.co/,dspace,490.0,institutional,http://repository.ut.edu.co/,,http://repository.ut.edu.co/oai/request,https://v2.sherpa.ac.uk/id/repository/3100,
-2125,3101,de,http://tu-freiberg.de/,typo3,257.0,institutional,http://digital.ub.tu-freiberg.de/,0.0,http://digital.ub.tu-freiberg.de/oai/,https://v2.sherpa.ac.uk/id/repository/3101,TYPO3
+2125,3101,de,http://tu-freiberg.de/,typo,257.0,institutional,http://digital.ub.tu-freiberg.de/,0.0,http://digital.ub.tu-freiberg.de/oai/,https://v2.sherpa.ac.uk/id/repository/3101,TYPO3
 2126,3102,ma,http://www.um5.ac.ma/um5r,dspace,1870.0,institutional,http://ao.um5.ac.ma/xmlui,,http://ao.um5s.ac.ma/oai/request,https://v2.sherpa.ac.uk/id/repository/3102,4.0
 2127,3103,my,http://www.unikl.edu.my/,dspace,13981.0,institutional,http://ir.unikl.edu.my/jspui/,,,https://v2.sherpa.ac.uk/id/repository/3103,
 2128,3104,tr,http://www.cumhuriyet.edu.tr/,dspace,88.0,institutional,http://acikerisim.cumhuriyet.edu.tr/xmlui,0.0,,https://v2.sherpa.ac.uk/id/repository/3104,
@@ -2147,7 +2147,7 @@
 2145,3128,pe,http://www.usil.edu.pe/,wordpress,,institutional,http://repositorio.usil.edu.pe/,,,https://v2.sherpa.ac.uk/id/repository/3128,WordPress
 2146,3130,gb,http://www.bbc.co.uk/,,1749.0,institutional,http://www.bbc.co.uk/programmes/b00f6hbp/podcasts/,,,https://v2.sherpa.ac.uk/id/repository/3130,
 2147,3131,tr,https://aybu.edu.tr,dspace,573.0,institutional,http://acikerisim.ybu.edu.tr:8080/xmlui,,http://acikerisim.ybu.edu.tr:8080/oai,https://v2.sherpa.ac.uk/id/repository/3131,
-2148,3132,at,http://www.uibk.ac.at/,visual library software,5584.0,institutional,https://diglib.uibk.ac.at/,,https://diglib.uibk.ac.at/oai/,https://v2.sherpa.ac.uk/id/repository/3132,Visual Library Software
+2148,3132,at,http://www.uibk.ac.at/,visual library,5584.0,institutional,https://diglib.uibk.ac.at/,,https://diglib.uibk.ac.at/oai/,https://v2.sherpa.ac.uk/id/repository/3132,Visual Library Software
 2149,3133,kr,https://www.krivet.re.kr,,3151.0,institutional,https://www.krivet.re.kr:8443/repository,0.0,https://krivet.re.kr:8443/oai/request,https://v2.sherpa.ac.uk/id/repository/3133,
 2150,3134,kr,http://lib.seoul.go.kr/,dspace,12722.0,institutional,http://lib.seoul.go.kr/oak/,,http://lib.seoul.go.kr/oak/oai/request,https://v2.sherpa.ac.uk/id/repository/3134,
 2151,3135,hu,http://www.konyvtar.mta.hu/,eprints,11138.0,institutional,http://real-j.mtak.hu/,,http://real-j.mtak.hu/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/3135,
@@ -2347,7 +2347,7 @@
 2345,3358,tw,http://www2.ntnu.edu.tw/,dspace,44760.0,institutional,http://www.lib.ntnu.edu.tw/english/index.jsp,0.0,,https://v2.sherpa.ac.uk/id/repository/3358,
 2346,3359,us,http://www.furman.edu/Pages/default.aspx,digital commons,681.0,institutional,http://scholarexchange.furman.edu/,,,https://v2.sherpa.ac.uk/id/repository/3359,Digital Commons
 2347,3360,es,http://www.tecnalia.com/es/,dspace,521.0,institutional,http://dsp.tecnalia.com/,,http://dsp.tecnalia.com/oai/request,https://v2.sherpa.ac.uk/id/repository/3360,
-2348,3361,at,http://www.jku.at/,visual library server,3818.0,institutional,http://epub.jku.at/,9.0,http://epub.jku.at/oai/,https://v2.sherpa.ac.uk/id/repository/3361,Visual Library Server
+2348,3361,at,http://www.jku.at/,visual library,3818.0,institutional,http://epub.jku.at/,9.0,http://epub.jku.at/oai/,https://v2.sherpa.ac.uk/id/repository/3361,Visual Library Server
 2349,3362,us,http://www.framingham.edu/,digital commons,6999.0,institutional,http://digitalcommons.framingham.edu/,509.0,http://digitalcommons.framingham.edu/do/oai/,https://v2.sherpa.ac.uk/id/repository/3362,Digital Commons
 2350,3363,at,https://www.ihs.ac.at,eprints,5308.0,institutional,https://irihs.ihs.ac.at,2096.0,https://irihs.ihs.ac.at/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/3363,
 2351,3364,de,https://www.fz-juelich.de,invenio,263792.0,institutional,http://juser.fz-juelich.de/,9835.0,http://juser.fz-juelich.de/oai2d,https://v2.sherpa.ac.uk/id/repository/3364,
@@ -2451,7 +2451,7 @@
 2449,3467,ni,http://www.una.edu.ni/,eprints,2713.0,institutional,http://repositorio.una.edu.ni/,,http://repositorio.una.edu.ni/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/3467,
 2450,3468,cz,http://www.techlib.cz/,invenio,,institutional,http://repozitar.techlib.cz/,,http://repozitar.techlib.cz/oai2d,https://v2.sherpa.ac.uk/id/repository/3468,
 2451,3469,gr,http://www.libver.gr/,dspace,10037.0,institutional,http://medusa.libver.gr/,268.0,http://medusa.libver.gr/oai/request,https://v2.sherpa.ac.uk/id/repository/3469,
-2452,3473,fr,http://www.upmc.fr/en/,polaris by mysciencework,174.0,institutional,https://cdv-upmc.mysciencework.com/,,,https://v2.sherpa.ac.uk/id/repository/3473,Polaris by MyScienceWork
+2452,3473,fr,http://www.upmc.fr/en/,polaris os,174.0,institutional,https://cdv-upmc.mysciencework.com/,,,https://v2.sherpa.ac.uk/id/repository/3473,Polaris by MyScienceWork
 2453,3474,de,http://www.helmholtz-muenchen.de/,,32560.0,institutional,http://push-zb.helmholtz-muenchen.de/,0.0,http://push-zb.helmholtz-muenchen.de/oai2/oai2.php,https://v2.sherpa.ac.uk/id/repository/3474,
 2454,3475,fr,http://www.univ-angers.fr/,drupal,18301.0,institutional,http://okina.univ-angers.fr/,16420.0,http://okina.univ-angers.fr/oai,https://v2.sherpa.ac.uk/id/repository/3475,
 2455,3476,ke,http://www.embuni.ac.ke/,dspace,1467.0,institutional,http://repository.embuni.ac.ke/,,,https://v2.sherpa.ac.uk/id/repository/3476,
@@ -2480,7 +2480,7 @@
 2478,3502,ng,http://www.unn.edu.ng/,dspace,6464.0,institutional,http://www.repository.unn.edu.ng,0.0,http://www.repository.unn.edu.ng/oai,https://v2.sherpa.ac.uk/id/repository/3502,
 2479,3503,gb,http://www.shu.ac.uk/,eprints,42.0,institutional,http://shurda.shu.ac.uk/,0.0,http://shurda.shu.ac.uk/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/3503,
 2480,3504,gb,http://www.stir.ac.uk/,dspace,49.0,institutional,https://datastorre.stir.ac.uk/,0.0,http://shurda.shu.ac.uk/information.html,https://v2.sherpa.ac.uk/id/repository/3504,
-2481,3505,si,https://www.uni-lj.si/,custom software,81102.0,institutional,https://repozitorij.uni-lj.si/,,https://repozitorij.uni-lj.si/oai/oai2.php,https://v2.sherpa.ac.uk/id/repository/3505,Custom software
+2481,3505,si,https://www.uni-lj.si/,custom,81102.0,institutional,https://repozitorij.uni-lj.si/,,https://repozitorij.uni-lj.si/oai/oai2.php,https://v2.sherpa.ac.uk/id/repository/3505,Custom software
 2482,3506,si,http://www.upr.si/,dkum,15511.0,institutional,https://repozitorij.upr.si/info/index.php/eng/,2899.0,http://repozitorij.upr.si/oai/oai2.php,https://v2.sherpa.ac.uk/id/repository/3506,DKUM
 2483,3507,si,http://www.ung.si,dkum,5581.0,institutional,https://repozitorij.ung.si/info/index.php,53.0,https://repozitorij.ung.si/oai/oai2.php,https://v2.sherpa.ac.uk/id/repository/3507,DKUM
 2484,3509,nl,http://www.windesheiminternational.nl/,fedora,1323.0,institutional,https://hbo-kennisbank.nl/en/page/search?q=&f=o_windesheimhogeschool,0.0,http://surfsharekit.nl:8080/oai/chw/,https://v2.sherpa.ac.uk/id/repository/3509,
@@ -2527,7 +2527,7 @@
 2525,3553,us,http://www.ucdenver.edu/,digital commons,1409.0,institutional,http://source.ucdenver.edu/,,,https://v2.sherpa.ac.uk/id/repository/3553,Digital Commons
 2526,3554,us,http://gardner-webb.edu/,digital commons,1375.0,institutional,http://digitalcommons.gardner-webb.edu/,,http://digitalcommons.gardner-webb.edu/do/oai/,https://v2.sherpa.ac.uk/id/repository/3554,Digital Commons
 2527,3555,cu,http://www.upr.edu.cu/,dspace,1507.0,institutional,https://rc.upr.edu.cu/,,https://rc.upr.edu.cu/oai/request,https://v2.sherpa.ac.uk/id/repository/3555,
-2528,3556,nl,http://www.eurocris.org/,dspace cris,793.0,institutional,http://dspacecris.eurocris.org/,0.0,http://dspacecris.eurocris.org/oai/request,https://v2.sherpa.ac.uk/id/repository/3556,
+2528,3556,nl,http://www.eurocris.org/,dspace,793.0,institutional,http://dspacecris.eurocris.org/,0.0,http://dspacecris.eurocris.org/oai/request,https://v2.sherpa.ac.uk/id/repository/3556,
 2529,3557,de,https://www.h-brs.de/,opus,5022.0,institutional,https://pub.h-brs.de/home,211.0,https://pub.h-brs.de/oai,https://v2.sherpa.ac.uk/id/repository/3557,
 2530,3558,hk,http://buwww.hkbu.edu.hk/eng/main/index.jsp,digital commons,10029.0,institutional,http://repository.hkbu.edu.hk/,,,https://v2.sherpa.ac.uk/id/repository/3558,Digital Commons
 2531,3560,at,http://www.tugraz.at/,,888.0,institutional,http://openlib.tugraz.at/,471.0,http://openlib.tugraz.at/oai,https://v2.sherpa.ac.uk/id/repository/3560,
@@ -2540,7 +2540,7 @@
 2538,3571,tr,http://www.mevlana.edu.tr/,dspace,543.0,institutional,http://openaccess.mevlana.edu.tr:8080/xmlui/,0.0,http://openaccess.mevlana.edu.tr:8080/oai/request,https://v2.sherpa.ac.uk/id/repository/3571,
 2539,3572,gb,http://www.mba.ac.uk/,eprints,6429.0,institutional,http://plymsea.ac.uk/,,http://plymsea.ac.uk/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/3572,
 2540,3573,us,https://www.cca.edu/,equella,3433.0,institutional,http://vault.cca.edu/,54.0,https://vault.cca.edu/oai,https://v2.sherpa.ac.uk/id/repository/3573,
-2541,3574,lu,http://www.jonk-fuerscher.lu/,polaris by mysciencework,,institutional,https://fjsl.mysciencework.com/,,,https://v2.sherpa.ac.uk/id/repository/3574,Polaris by MyScienceWork
+2541,3574,lu,http://www.jonk-fuerscher.lu/,polaris os,,institutional,https://fjsl.mysciencework.com/,,,https://v2.sherpa.ac.uk/id/repository/3574,Polaris by MyScienceWork
 2542,3577,ca,https://www.sheridancollege.ca/,digital commons,759.0,institutional,http://source.sheridancollege.ca/,,http://source.sheridancollege.ca/do/oai/,https://v2.sherpa.ac.uk/id/repository/3577,Digital Commons
 2543,3578,de,https://www.ostfalia.de/cms/de/,opus,678.0,institutional,https://opus.ostfalia.de/,,https://opus.ostfalia.de/oai,https://v2.sherpa.ac.uk/id/repository/3578,
 2544,3579,de,https://www.ruhr-uni-bochum.de,opus,8040.0,institutional,http://hss-opus.ub.ruhr-uni-bochum.de/opus4/home,0.0,http://hss-opus.ub.ruhr-uni-bochum.de/opus4/oai,https://v2.sherpa.ac.uk/id/repository/3579,
@@ -2614,7 +2614,7 @@
 2612,3651,au,http://www.acu.edu.au/,haplo,27143.0,institutional,https://acuresearchbank.acu.edu.au,3088.0,https://acuresearchbank.acu.edu.au/oai2,https://v2.sherpa.ac.uk/id/repository/3651,Haplo
 2613,3652,gb,http://www.london.edu/,eprints,1444.0,institutional,http://lbsresearch.london.edu/,340.0,http://lbsresearch.london.edu/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/3652,
 2614,3653,de,http://www.uni-weimar.de,opus,2800.0,institutional,https://e-pub.uni-weimar.de/opus4/home,2052.0,https://e-pub.uni-weimar.de/opus4/oai?,https://v2.sherpa.ac.uk/id/repository/3653,
-2615,3654,us,http://seti.org/,polaris by mysciencework,,institutional,http://seti.mysciencework.com/,,,https://v2.sherpa.ac.uk/id/repository/3654,Polaris by MyScienceWork
+2615,3654,us,http://seti.org/,polaris os,,institutional,http://seti.mysciencework.com/,,,https://v2.sherpa.ac.uk/id/repository/3654,Polaris by MyScienceWork
 2616,3656,it,http://www.uniurb.it/,dspace,37430.0,institutional,https://ora.uniurb.it/,163.0,https://ora.uniurb.it/oai/request?,https://v2.sherpa.ac.uk/id/repository/3656,
 2617,3657,it,http://www.unipd.it/,dspace,251278.0,institutional,https://www.research.unipd.it/,3250.0,https://www.research.unipd.it/oai/request,https://v2.sherpa.ac.uk/id/repository/3657,
 2618,3658,it,https://www.unipa.it,dspace,120011.0,institutional,https://iris.unipa.it/,12723.0,https://iris.unipa.it/oai/request?,https://v2.sherpa.ac.uk/id/repository/3658,
@@ -2858,7 +2858,7 @@
 2856,3920,pe,http://www.ulasalle.edu.pe/,dspace,9.0,institutional,http://repositorio.ulasalle.edu.pe/,0.0,http://repositorio.ulasalle.edu.pe/oai/,https://v2.sherpa.ac.uk/id/repository/3920,
 2857,3921,id,http://trisakti.ac.id/,eprints,668.0,institutional,http://libprint.trisakti.ac.id/,,http://libprint.trisakti.ac.id/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/3921,
 2858,3924,br,https://www.uffs.edu.br/,dspace,,institutional,https://rd.uffs.edu.br/,,,https://v2.sherpa.ac.uk/id/repository/3924,
-2859,3925,sg,http://www.ntu.edu.sg/,dataverse network,264.0,institutional,https://researchdata.ntu.edu.sg,,https://researchdata.ntu.edu.sg/oai,https://v2.sherpa.ac.uk/id/repository/3925,Dataverse Network
+2859,3925,sg,http://www.ntu.edu.sg/,dataverse,264.0,institutional,https://researchdata.ntu.edu.sg,,https://researchdata.ntu.edu.sg/oai,https://v2.sherpa.ac.uk/id/repository/3925,Dataverse Network
 2860,3926,my,https://university.sunway.edu.my/,eprints,1445.0,institutional,http://eprints.sunway.edu.my/,935.0,http://eprints.sunway.edu.my/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/3926,
 2861,3927,uy,http://www.ort.edu.uy/,dspace,0.0,institutional,https://dspace.ort.edu.uy/,0.0,https://dspace.ort.edu.uy/oai/,https://v2.sherpa.ac.uk/id/repository/3927,
 2862,3928,ps,http://www.qou.edu/home/englishIndexPage.do,dspace,,institutional,http://dspace.qou.edu/,,,https://v2.sherpa.ac.uk/id/repository/3928,
@@ -2874,7 +2874,7 @@
 2872,3938,id,http://st3telkom.ac.id/,eprints,17.0,institutional,http://repository.st3telkom.ac.id/,1.0,http://repository.st3telkom.ac.id/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/3938,
 2873,3939,in,https://www.unigoa.ac.in/,dspace,,institutional,http://irgu.unigoa.ac.in/,,,https://v2.sherpa.ac.uk/id/repository/3939,
 2874,3940,ir,http://kaums.ac.ir/,eprints,2858.0,institutional,http://eprints.kaums.ac.ir/,,http://eprints.kaums.ac.ir/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/3940,
-2875,3941,at,https://www.uni-salzburg.at,visual library server,1649.0,institutional,http://eplus.uni-salzburg.at,312.0,http://eplus.uni-salzburg.at/oai,https://v2.sherpa.ac.uk/id/repository/3941,Visual Library Server
+2875,3941,at,https://www.uni-salzburg.at,visual library,1649.0,institutional,http://eplus.uni-salzburg.at,312.0,http://eplus.uni-salzburg.at/oai,https://v2.sherpa.ac.uk/id/repository/3941,Visual Library Server
 2876,3942,ua,http://www.ogasa.org.ua/,dspace,,institutional,http://mx.ogasa.org.ua/,,,https://v2.sherpa.ac.uk/id/repository/3942,
 2877,3943,sd,http://iua.edu.sd/,dspace,3016.0,institutional,http://dspace.iua.edu.sd/,,http://dspace.iua.edu.sd/oai/request,https://v2.sherpa.ac.uk/id/repository/3943,
 2878,3944,br,http://www.unisul.br/,dspace,,institutional,http://www.riuni.unisul.br/,,,https://v2.sherpa.ac.uk/id/repository/3944,
@@ -2989,7 +2989,7 @@
 2987,4069,ke,https://www.kim.ac.ke/,dspace,13.0,institutional,http://41.89.43.7/,,,https://v2.sherpa.ac.uk/id/repository/4069,
 2988,4070,fr,http://vers.univ-lorraine.fr/,hal,15745.0,institutional,https://hal.univ-lorraine.fr/,,,https://v2.sherpa.ac.uk/id/repository/4070,
 2989,4072,zw,https://www.hit.ac.zw/,dspace,1503.0,institutional,http://ir.hit.ac.zw:8080/jspui/,,,https://v2.sherpa.ac.uk/id/repository/4072,
-2990,4073,at,https://www.meduniwien.ac.at/web/,visual library server,12885.0,institutional,http://repositorium.meduniwien.ac.at/,,http://repositorium.meduniwien.ac.at/oai,https://v2.sherpa.ac.uk/id/repository/4073,Visual Library Server
+2990,4073,at,https://www.meduniwien.ac.at/web/,visual library,12885.0,institutional,http://repositorium.meduniwien.ac.at/,,http://repositorium.meduniwien.ac.at/oai,https://v2.sherpa.ac.uk/id/repository/4073,Visual Library Server
 2991,4074,fr,http://bib.insa-toulouse.fr/fr/index.html,hal,2965.0,institutional,https://hal.insa-toulouse.fr/,,https://api.archives-ouvertes.fr/oai/insa-toulouse/,https://v2.sherpa.ac.uk/id/repository/4074,
 2992,4075,ar,https://www.utdt.edu/,dspace,3868.0,institutional,https://repositorio.utdt.edu/,,https://repositorio.utdt.edu/oai,https://v2.sherpa.ac.uk/id/repository/4075,
 2993,4077,co,https://www.banrep.gov.co,,304.0,institutional,https://repositorio.banrep.gov.co,,https://repositorio.banrep.gov.co/oai/request,https://v2.sherpa.ac.uk/id/repository/4077,
@@ -3085,7 +3085,7 @@
 3083,4189,ec,http://www.utn.edu.ec,dspace,,institutional,http://repositorio.utn.edu.ec/,,http://repositorio.utn.edu.ec/oai/request?verb=Identify,https://v2.sherpa.ac.uk/id/repository/4189,
 3084,4190,ec,https://umet.edu.ec,dspace,,institutional,http://koha.umet.edu.ec:8011/,,,https://v2.sherpa.ac.uk/id/repository/4190,
 3085,4192,bg,http://www.uni-svishtov.bg,dspace,,institutional,http://dlib.uni-svishtov.bg/,,https://dlib.uni-svishtov.bg/oai/request,https://v2.sherpa.ac.uk/id/repository/4192,
-3086,4193,at,https://www.aau.at/,visual library server,,institutional,http://netlibrary.aau.at/,,,https://v2.sherpa.ac.uk/id/repository/4193,Visual Library Server
+3086,4193,at,https://www.aau.at/,visual library,,institutional,http://netlibrary.aau.at/,,,https://v2.sherpa.ac.uk/id/repository/4193,Visual Library Server
 3087,4195,ro,http://eme.ro/,dspace,,institutional,https://eda.eme.ro,,https://eda.eme.ro/oai/request,https://v2.sherpa.ac.uk/id/repository/4195,
 3088,4198,fr,https://www.univ-lille.fr/,dspace,,institutional,https://lilloa.univ-lille.fr/,,https://lilloa.univ-lille.fr/oai/,https://v2.sherpa.ac.uk/id/repository/4198,
 3089,4199,de,http://www.uni-rostock.de,mycore,,institutional,http://rosdok.uni-rostock.de/,,http://rosdok.uni-rostock.de/oai,https://v2.sherpa.ac.uk/id/repository/4199,
@@ -3699,10 +3699,10 @@
 3697,5409,ru,http://www.jinr.ru,invenio,61302.0,institutional,http://jds.jinr.ru,,http://jds.jinr.ru/oai2d,https://v2.sherpa.ac.uk/id/repository/5409,Invenio
 3698,5413,us,https://www.ithaca.edu/,digital commons,13530.0,institutional,http://digitalcommons.ithaca.edu,9756.0,http://digitalcommons.ithaca.edu/do/oai/,https://v2.sherpa.ac.uk/id/repository/5413,
 3699,5414,iq,https://tiu.edu.iq,eprints,119.0,institutional,http://eprints.tiu.edu.iq,119.0,http://eprints.tiu.edu.iq/cgij/oai2,https://v2.sherpa.ac.uk/id/repository/5414,
-3700,5441,cn,http://iswc.cas.cn/,cspace.,7076.0,institutional,http://159.226.153.81,,http://159.226.153.81/casirgrid-oai/request,https://v2.sherpa.ac.uk/id/repository/5441,CSpace.
+3700,5441,cn,http://iswc.cas.cn/,cspace,7076.0,institutional,http://159.226.153.81,,http://159.226.153.81/casirgrid-oai/request,https://v2.sherpa.ac.uk/id/repository/5441,CSpace.
 3701,5446,cn,,cspace,20122.0,institutional,http://ir.ihb.ac.cn,502.0,http://ir.ihb.ac.cn/casirgrid-oai/request,https://v2.sherpa.ac.uk/id/repository/5446,Cspace
 3702,5451,gb,https://www.icr.ac.uk,,4424.0,institutional,https://repository.icr.ac.uk,1933.0,https://repository.icr.ac.uk/oai/request,https://v2.sherpa.ac.uk/id/repository/5451,
-3703,5456,cn,http://english.cas.cn/,cspace.,22791.0,institutional,http://dspace.imech.ac.cn,640.0,http://dspace.imech.ac.cn/casirgrid-oai/request,https://v2.sherpa.ac.uk/id/repository/5456,CSpace.
+3703,5456,cn,http://english.cas.cn/,cspace,22791.0,institutional,http://dspace.imech.ac.cn,640.0,http://dspace.imech.ac.cn/casirgrid-oai/request,https://v2.sherpa.ac.uk/id/repository/5456,CSpace.
 3704,5458,id,https://isi-ska.ac.id/,eprints,4437.0,institutional,http://repository.isi-ska.ac.id,2253.0,http://repository.isi-ska.ac.id/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/5458,
 3705,5466,us,https://www.iup.edu,digital commons,3607.0,institutional,https://knowledge.library.iup.edu,,http://knowledge.library.iup.edu/do/oai,https://v2.sherpa.ac.uk/id/repository/5466,
 3706,5470,us,https://www.indiana.edu/,drupal,21184.0,institutional,http://scholarworks.iu.edu,5476.0,http://scholarworks.iu.edu/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/5470,
@@ -3828,7 +3828,7 @@
 3826,6266,co,https://unisucre.edu.co,dspace,,institutional,https://repositorio.unisucre.edu.co,,https://repositorio.unisucre.edu.co/oai/request,https://v2.sherpa.ac.uk/id/repository/6266,
 3827,6290,pe,https://upla.edu.pe,dspace,1906.0,institutional,http://repositorio.upla.edu.pe,,http://repositorio.upla.edu.pe/oai/request,https://v2.sherpa.ac.uk/id/repository/6290,
 3828,6304,pe,http://www.unh.edu.pe/web,dspace,,institutional,http://repositorio.unh.edu.pe,,http://repositorio.unh.edu.pe/oai/openaire,https://v2.sherpa.ac.uk/id/repository/6304,
-3829,6307,pe,http://www.untels.edu.pe,dspace cris,501.0,institutional,https://repositorio.untels.edu.pe/jspui/,,http://repositorio.untels.edu.pe/oai/request,https://v2.sherpa.ac.uk/id/repository/6307,
+3829,6307,pe,http://www.untels.edu.pe,dspace,501.0,institutional,https://repositorio.untels.edu.pe/jspui/,,http://repositorio.untels.edu.pe/oai/request,https://v2.sherpa.ac.uk/id/repository/6307,
 3830,6315,ec,https://www.uide.edu.ec,dspace,2.0,institutional,https://repositorio.uide.edu.ec,2.0,https://repositorio.uide.edu.ec/oai/openaire,https://v2.sherpa.ac.uk/id/repository/6315,
 3831,6318,ec,https://www.upse.edu.ec,dspace,4928.0,institutional,https://repositorio.upse.edu.ec,52.0,https://repositorio.upse.edu.ec/oai/request,https://v2.sherpa.ac.uk/id/repository/6318,
 3832,6325,pe,http://ual.edu.pe/,dspace,,institutional,http://repositorio.ual.edu.pe,,http://repositorio.ual.edu.pe/oai/openaire,https://v2.sherpa.ac.uk/id/repository/6325,
@@ -4361,7 +4361,7 @@
 4359,8906,jp,https://www.doho.ac.jp,weko,2264.0,institutional,https://doho.repo.nii.ac.jp/,448.0,http://doho.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8906,
 4360,8919,cz,https://www.upce.cz,dspace,972.0,institutional,https://dspace.upce.cz,,https://dspace.upce.cz/oai/openaire,https://v2.sherpa.ac.uk/id/repository/8919,
 4361,8920,de,https://staatsbibliothek-berlin.de/en/,,,institutional,https://digital.staatsbibliothek-berlin.de,,https://digital.staatsbibliothek-berlin.de/oai/openaire,https://v2.sherpa.ac.uk/id/repository/8920,
-4362,8921,de,https://www.uni-mannheim.de/en,typo3,3648.0,institutional,https://digi.bib.uni-mannheim.de,,https://digi.bib.uni-mannheim.de/oai,https://v2.sherpa.ac.uk/id/repository/8921,TYPO3
+4362,8921,de,https://www.uni-mannheim.de/en,typo,3648.0,institutional,https://digi.bib.uni-mannheim.de,,https://digi.bib.uni-mannheim.de/oai,https://v2.sherpa.ac.uk/id/repository/8921,TYPO3
 4363,8923,de,https://www.uni-stuttgart.de/en/,goobi viewer,2301.0,institutional,https://digibus.ub.uni-stuttgart.de,,https://digibus.ub.uni-stuttgart.de/viewer/oai,https://v2.sherpa.ac.uk/id/repository/8923,Goobi Viewer
 4364,8924,de,https://www.zlb.de/de.html,goobi viewer,48931.0,institutional,https://digital.zlb.de,,https://digital.zlb.de/viewer/oai,https://v2.sherpa.ac.uk/id/repository/8924,Goobi Viewer
 4365,8925,de,https://www.uni-halle.de,,74017.0,institutional,http://digitale.bibliothek.uni-halle.de,,http://digitale.bibliothek.uni-halle.de/oai,https://v2.sherpa.ac.uk/id/repository/8925,
@@ -4533,7 +4533,7 @@
 4531,9467,ch,https://www.wsl.ch,islandora,,institutional,https://www.dora.lib4ri.ch/wsl,,https://www.dora.lib4ri.ch/wsl/oai2,https://v2.sherpa.ac.uk/id/repository/9467,
 4532,9468,ch,https://www.psi.ch,islandora,,institutional,https://www.dora.lib4ri.ch/psi,,https://www.dora.lib4ri.ch/psi/oai2,https://v2.sherpa.ac.uk/id/repository/9468,
 4533,9469,gb,https://www.sheffield.ac.uk,figshare,,institutional,https://orda.shef.ac.uk/,,https://orda.shef.ac.uk/,https://v2.sherpa.ac.uk/id/repository/9469,Figshare
-4534,9470,in,http://deccancollegeofmedicalsciences.com,dspace cris,,institutional,http://183.82.11.228:8282/jspui,,http://183.82.11.228:8282/oai/request,https://v2.sherpa.ac.uk/id/repository/9470,
+4534,9470,in,http://deccancollegeofmedicalsciences.com,dspace,,institutional,http://183.82.11.228:8282/jspui,,http://183.82.11.228:8282/oai/request,https://v2.sherpa.ac.uk/id/repository/9470,
 4535,9474,at,https://www.fhv.at,opus,,institutional,https://opus.fhv.at,,https://opus.fhv.at/oai,https://v2.sherpa.ac.uk/id/repository/9474,
 4536,9476,pe,https://www.ulcb.edu.pe,dspace,,institutional,http://repositorio.ulcb.edu.pe,,http://repositorio.ulcb.edu.pe/oai/request,https://v2.sherpa.ac.uk/id/repository/9476,
 4537,9477,tr,https://www.medipol.edu.tr,dspace,,institutional,https://acikerisim.medipol.edu.tr,,https://acikerisim.medipol.edu.tr/oai/request,https://v2.sherpa.ac.uk/id/repository/9477,
@@ -4663,7 +4663,7 @@
 4661,9699,us,https://www.library.northwestern.edu,fedora,,institutional,https://arch.library.northwestern.edu,,https://oai.datacite.org/oai,https://v2.sherpa.ac.uk/id/repository/9699,
 4662,9701,at,https://www.iaea.org,custom,,institutional,http://inis.iaea.org/search,,,https://v2.sherpa.ac.uk/id/repository/9701,Custom
 4663,9704,lk,http://www.vpa.ac.lk,dspace,,institutional,http://repository.lib.vpa.ac.lk,,http://repository.lib.vpa.ac.lk/oai/request,https://v2.sherpa.ac.uk/id/repository/9704,
-4664,9705,lt,https://www.ku.lt,dspace cris,,institutional,https://www.ku.lt/cris,,https://portalcris.ku.lt/server/oai,https://v2.sherpa.ac.uk/id/repository/9705,
+4664,9705,lt,https://www.ku.lt,dspace,,institutional,https://www.ku.lt/cris,,https://portalcris.ku.lt/server/oai,https://v2.sherpa.ac.uk/id/repository/9705,
 4665,9711,br,https://iffarroupilha.edu.br,dspace,,institutional,http://arandu.iffarroupilha.edu.br,,http://arandu.iffarroupilha.edu.br/oai/request,https://v2.sherpa.ac.uk/id/repository/9711,
 4666,9712,rs,http://www.bg.ac.rs,dspace,,institutional,http://smile.stomf.bg.ac.rs,,http://smile.stomf.bg.ac.rs/oai/request,https://v2.sherpa.ac.uk/id/repository/9712,
 4667,9713,jp,https://www.nims.go.jp,fedora,,institutional,https://mdr.nims.go.jp,,https://mdr.nims.go.jp/catalog/oai,https://v2.sherpa.ac.uk/id/repository/9713,
@@ -4683,7 +4683,7 @@
 4681,9745,pe,https://www.ensad.edu.pe,dspace,,institutional,http://repositorio.ensad.edu.pe,,http://repositorio.ensad.edu.pe/oai/request,https://v2.sherpa.ac.uk/id/repository/9745,
 4682,9746,us,https://www.ace.edu,dspace,,institutional,https://scholarworks.ace.edu,,https://scholarworks.ace.edu/oai/request,https://v2.sherpa.ac.uk/id/repository/9746,
 4683,9747,ca,https://www.greo.ca/en/index.aspx,dataverse,,institutional,https://dataverse.scholarsportal.info/dataverse/GREO,,,https://v2.sherpa.ac.uk/id/repository/9747,Dataverse
-4684,9748,de,https://www.iass-potsdam.de/en,pubman/inge,,institutional,https://publications.iass-potsdam.de,,https://publications.iass-potsdam.de/oai,https://v2.sherpa.ac.uk/id/repository/9748,Pubman/Inge
+4684,9748,de,https://www.iass-potsdam.de/en,pubman,,institutional,https://publications.iass-potsdam.de,,https://publications.iass-potsdam.de/oai,https://v2.sherpa.ac.uk/id/repository/9748,Pubman/Inge
 4685,9749,by,,dspace,,institutional,http://elib.minda.by,,http://elib.minda.by/oai/request,https://v2.sherpa.ac.uk/id/repository/9749,
 4686,9750,ar,https://www.fau.unlp.edu.ar,greenstone,,institutional,http://bdzalba.fau.unlp.edu.ar,,http://bdzalba.fau.unlp.edu.ar/greenstone/cgi-bin/oaiserver.cgi,https://v2.sherpa.ac.uk/id/repository/9750,
 4687,9751,ru,https://www.tltsu.ru,dspace,,institutional,https://dspace.tltsu.ru,,https://dspace.tltsu.ru/oai/request,https://v2.sherpa.ac.uk/id/repository/9751,
@@ -4718,23 +4718,23 @@
 4716,9793,jp,https://www.tci.ac.jp/,weko,,institutional,https://tcu.repo.nii.ac.jp/,,https://tcu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9793,
 4717,9795,jp,https://www.tokoha-u.ac.jp/,weko,,institutional,https://tokoha-u.repo.nii.ac.jp/,,https://tokoha-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9795,
 4718,9796,jp,https://www.tokiwa.ac.jp/,weko,,institutional,https://tokiwa.repo.nii.ac.jp/,,https://tokiwa.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9796,
-4719,9797,jp,https://www.u-tokai.ac.jp/,iliswave j　e lib,,institutional,https://library.time.u-tokai.ac.jp/index.php?action=pages_view_main&active_action=v3search_view_main_lnklst&block_id=296&tab_num=0#v3search_view_main_lnklst,,,https://v2.sherpa.ac.uk/id/repository/9797,iLiswave-J　e-Lib
-4720,9798,jp,,iliswave j v3,,institutional,https://webopac.tohomusic.ac.jp,,http://opactoho.tohomusic.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/9798,iLiswave-J V3
+4719,9797,jp,https://www.u-tokai.ac.jp/,iliswave j,,institutional,https://library.time.u-tokai.ac.jp/index.php?action=pages_view_main&active_action=v3search_view_main_lnklst&block_id=296&tab_num=0#v3search_view_main_lnklst,,,https://v2.sherpa.ac.uk/id/repository/9797,iLiswave-J　e-Lib
+4720,9798,jp,,iliswave j,,institutional,https://webopac.tohomusic.ac.jp,,http://opactoho.tohomusic.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/9798,iLiswave-J V3
 4721,9799,jp,https://www.usp.ac.jp/english/,dspace,,institutional,http://usprepo.office.usp.ac.jp/?locale=en,,http://usprepo.office.usp.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/9799,
 4722,9800,jp,http://www.ndu.ac.jp/en/,weko,,institutional,https://ndu-rep.repo.nii.ac.jp/,,https://ndu-rep.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9800,
-4723,9802,jp,https://www.tenri-u.ac.jp/en/,e catslibrary,,institutional,https://opac.tenri-u.ac.jp/opac/repository/metadata/?lang=1,,http://opac.tenri-u.ac.jp/opac/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/9802,E-CatsLibrary
-4724,9803,jp,https://www.teikyo-u.ac.jp/en/,iliswave j v3,,institutional,https://tk-opac.main.teikyo-u.ac.jp/?page_id=122,,http://tk-opac2.main.teikyo-u.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/9803,iLiswave-J V3
+4723,9802,jp,https://www.tenri-u.ac.jp/en/,e cats,,institutional,https://opac.tenri-u.ac.jp/opac/repository/metadata/?lang=1,,http://opac.tenri-u.ac.jp/opac/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/9802,E-CatsLibrary
+4724,9803,jp,https://www.teikyo-u.ac.jp/en/,iliswave j,,institutional,https://tk-opac.main.teikyo-u.ac.jp/?page_id=122,,http://tk-opac2.main.teikyo-u.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/9803,iLiswave-J V3
 4725,9804,jp,https://www.thu.ac.jp/english/about,iliswave j,,institutional,https://www-std01.ufinity.jp/thulib/index.php?action=pages_view_main&active_action=v3search_view_main_init&block_id=296&change_locale=en,,https://lib.thu.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/9804,iLiswave-J
 4726,9805,jp,https://lang.takushoku-u.ac.jp/en/,weko,,institutional,https://takushoku-u.repo.nii.ac.jp/,,https://takushoku-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9805,
 4727,9806,jp,https://www.sus.ac.jp/en/,weko,,institutional,https://sus.repo.nii.ac.jp/,,https://sus.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9806,
-4728,9807,jp,https://www.tosei-showa-music.ac.jp/,iliswave j v3,,institutional,https://lib.tosei-showa-music.ac.jp/index.php?action=pages_view_main&active_action=v3search_view_main_init&block_id=296&tab_num=3&search_mode=detail,,https://opac.tosei-showa-music.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/9807,iLiswave-J-V3
+4728,9807,jp,https://www.tosei-showa-music.ac.jp/,iliswave j,,institutional,https://lib.tosei-showa-music.ac.jp/index.php?action=pages_view_main&active_action=v3search_view_main_init&block_id=296&tab_num=3&search_mode=detail,,https://opac.tosei-showa-music.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/9807,iLiswave-J-V3
 4729,9808,jp,https://sums.ac.jp/,weko,,institutional,https://shonan-ums.repo.nii.ac.jp/,,http://shonan-ums.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9808,
 4730,9812,jp,https://www.setsunan.ac.jp/,weko,,institutional,https://setsunan.repo.nii.ac.jp/,,https://setsunan.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9812,
 4731,9814,jp,https://www.pu-kumamoto.ac.jp/,dspace,,institutional,http://rp-kumakendai.pu-kumamoto.ac.jp/dspace/?locale=en,,http://rp-kumakendai.pu-kumamoto.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/9814,
 4732,9815,jp,https://www.otsuma.ac.jp/,weko,,institutional,https://otsuma.repo.nii.ac.jp/,,http://otsuma.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9815,
 4733,9816,jp,https://www.otemon.ac.jp/english.html,infolib,,institutional,https://www.i-repository.net/il/meta_pub/G0000145OTEMON,,https://www.i-repository.net/il/oai_repository/pmh/G0000145-repository,https://v2.sherpa.ac.uk/id/repository/9816,InfoLib
 4734,9817,jp,https://www.otemae.ac.jp/,weko,,institutional,https://otemae.repo.nii.ac.jp/,,http://otemae.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9817,
-4735,9819,jp,https://www.osaka-ue.ac.jp/english/,infolib asp,,institutional,https://www.i-repository.net/il/meta_pub/G0000031Repository,,https://www.i-repository.net/il/oai_repository/pmh/G0000031-repository,https://v2.sherpa.ac.uk/id/repository/9819,Infolib-ASP
+4735,9819,jp,https://www.osaka-ue.ac.jp/english/,infolib,,institutional,https://www.i-repository.net/il/meta_pub/G0000031Repository,,https://www.i-repository.net/il/oai_repository/pmh/G0000031-repository,https://v2.sherpa.ac.uk/id/repository/9819,Infolib-ASP
 4736,9820,jp,https://www.ous.ac.jp/en/,weko,,institutional,https://ous.repo.nii.ac.jp/,,http://ous.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9820,
 4737,9822,jp,https://nur.ac.jp/,weko,,institutional,https://nur.repo.nii.ac.jp,,http://nur.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9822,
 4738,9823,jp,https://www.n-seiryo.ac.jp/,weko,,institutional,https://n-seiryo.repo.nii.ac.jp/,,http://n-seiryo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9823,
@@ -4750,11 +4750,11 @@
 4748,9837,jp,https://www.andrew.ac.jp/,weko,,institutional,https://stars.repo.nii.ac.jp/,,http://stars.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9837,
 4749,9838,jp,https://www.myu.ac.jp/english/,weko,,institutional,https://myu.repo.nii.ac.jp/,,http://myu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9838,
 4750,9839,jp,https://www.meisei-u.ac.jp/english/,weko,,institutional,https://meisei.repo.nii.ac.jp/,,http://meisei.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9839,
-4751,9840,jp,https://www.meijo-u.ac.jp/,ilisweb j  e lib,,institutional,https://opac.meijo-u.ac.jp/,,http://mylib.meijo-u.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/9840,iLisweb-J  e-Lib
+4751,9840,jp,https://www.meijo-u.ac.jp/,iliswave j,,institutional,https://opac.meijo-u.ac.jp/,,http://mylib.meijo-u.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/9840,iLisweb-J  e-Lib
 4752,9841,jp,https://www.meijigakuin.ac.jp/en/,weko,,institutional,https://meigaku.repo.nii.ac.jp/,,http://meigaku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9841,
 4753,9842,jp,https://www.kyoto-art.ac.jp/en/,weko,,institutional,https://kyoto-art.repo.nii.ac.jp/,,http://kyoto-art.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9842,
 4754,9844,jp,https://www.kusa.ac.jp/,weko,,institutional,https://kusa.repo.nii.ac.jp/,,http://kusa.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9844,
-4755,9845,jp,https://www.komazawa-u.ac.jp/,e catslibrary,,institutional,http://repo.komazawa-u.ac.jp/opac/repository/all/,,http://repo.komazawa-u.ac.jp/opac/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/9845,E-CatsLibrary
+4755,9845,jp,https://www.komazawa-u.ac.jp/,e cats,,institutional,http://repo.komazawa-u.ac.jp/opac/repository/all/,,http://repo.komazawa-u.ac.jp/opac/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/9845,E-CatsLibrary
 4756,9846,jp,https://www.komajo.ac.jp/uni/,weko,,institutional,https://komajo.repo.nii.ac.jp/,,http://komajo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9846,
 4757,9847,jp,https://www.kokugakuin.ac.jp/,iliswave j,,institutional,https://kaiser.kokugakuin.ac.jp/,,http://opac.kokugakuin.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/9847,iLiswave-J
 4758,9849,jp,https://www.hosplib.info/,dspace,,institutional,http://kintore.hosplib.info/dspace/index.jsp?locale=en,,http://kintore.hosplib.info/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/9849,
@@ -4779,7 +4779,7 @@
 4777,9870,jp,https://www.gifu-cn.ac.jp/,weko,,institutional,https://gcnr.repo.nii.ac.jp/,,http://gcnr.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9870,
 4778,9871,jp,https://www.fukuoka-pu.ac.jp/,weko,,institutional,https://fukuoka-pu.repo.nii.ac.jp/,,http://fukuoka-pu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9871,
 4779,9873,jp,http://www.fuji-u.ac.jp/,weko,,institutional,https://fuji.repo.nii.ac.jp/,,http://fuji.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9873,
-4780,9874,jp,https://www.ehime-u.ac.jp/en/,iliswavej,,institutional,https://opac.lib.ehime-u.ac.jp/index.php?action=pages_view_main&active_action=v3search_view_main_init&block_id=6311&change_locale=en,,http://opac1.lib.ehime-u.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/9874,iLiswaveJ
+4780,9874,jp,https://www.ehime-u.ac.jp/en/,iliswave j,,institutional,https://opac.lib.ehime-u.ac.jp/index.php?action=pages_view_main&active_action=v3search_view_main_init&block_id=6311&change_locale=en,,http://opac1.lib.ehime-u.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/9874,iLiswaveJ
 4781,9875,jp,https://www.daito.ac.jp/english/,e repository,,institutional,http://opac.daito.ac.jp/repo/repository/daito/?lang=0,,http://opac.daito.ac.jp/repo/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/9875,E-Repository
 4782,9876,jp,https://www.it-chiba.ac.jp/,weko,,institutional,http://cit.repo.nii.ac.jp,,http://cit.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9876,
 4783,9877,jp,https://www.cis.ac.jp/en/index.html,weko,,institutional,https://cis.repo.nii.ac.jp/,,http://cis.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9877,
