@@ -7,3 +7,4 @@ __pycache__/config.cpython-310.pyc
 .vscode/settings.json
 data/.ipynb_checkpoints/*
 vals.csv
+.~lock.all_data_manual_software.csv#
