@@ -43,6 +43,44 @@ def scrape_hal_full_query(url: str) -> int:
         print("CONNECTION ERROR", url)
     except requests.exceptions.TooManyRedirects:
         print("REDIRECT ERROR", url)
+        
+def scrape_weko_url(url: str) -> int:
+    #url1 = 'https://niigata-u.repo.nii.ac.jp'
+    #url2 = 'https://hirosaki.repo.nii.ac.jp'
+
+    search1 = '/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&filedate_from=&filedate_to=&fd_attr=&srctitle=&type=43&dategranted_from=&dategranted_to=&dissno=&wid='
+    #search2 = '/?action=pages_view_main&active_action=repository_view_main_item_snippet&all=&title=&creator=&typeList=12&pubYearFrom=&pubYearUntil=&idx=&wekoAuthorId=&count=20&order=7&pn=1&page_id=13&block_id=21' # seems to not allow this to be directly visited
+    host = 'niigata-u.repo.nii.ac.jp'
+
+    headers = headers=set_headers(url)
+
+    url_string1 = url + search1 
+    #url_string2 = url2 + search2
+
+
+    try:
+    # TODO move out to config file
+        driver = webdriver.Chrome("/snap/bin/chromium.chromedriver")
+        driver.get(url_string1)
+        time.sleep(5)
+        html = driver.page_source
+        soup = BeautifulSoup(html, "html5lib")
+        if '404 Not Found' in soup.text:
+            return '404 error'
+        else:
+            x = soup.find("div", attrs={"class": "invenio-search-results"}).text
+        if 'No results' in x:
+            return 0
+        else:
+            return x
+    except AttributeError:
+        print("attribute error")
+        return 0
+
+    except ConnectionResetError:
+        print("Connection reset", url)
+    finally:
+        driver.quit()  
 
 
 def scrape_eprints_full_query(url: str) -> int:
