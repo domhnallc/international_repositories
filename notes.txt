@@ -1,0 +1,8 @@
+found 
+https://scholars.cmich.edu/en/publications/?format=&type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fnontextual%2Fsoftware&nofollow=true
+by searching through their site.  The link from the dataset is to the library! Should we do this more?
+
+Some are EXCEPTIOMALLY hard to find 
+e.g. https://experts.nebraska.edu/en/publications/ took 15 mins of searching their main site.  No obv sign it's a repo, pure too
+
+some have none and seems personal web pages are normal https://www.uidaho.edu/sci/physics/people/faculty/zachariah or domain-specific repos https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20author%20hiller%2Cj
