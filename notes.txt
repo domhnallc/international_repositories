@@ -6,3 +6,52 @@ Some are EXCEPTIOMALLY hard to find
 e.g. https://experts.nebraska.edu/en/publications/ took 15 mins of searching their main site.  No obv sign it's a repo, pure too
 
 some have none and seems personal web pages are normal https://www.uidaho.edu/sci/physics/people/faculty/zachariah or domain-specific repos https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20author%20hiller%2Cj
+
+
+
+ContentDM
+
+Get list of collections:
+https://cdm16122.contentdm.oclc.org/digital/bl/dmwebservices/index.php?q=dmGetCollectionList/json
+
+
+Get vocab per collection
+
+https://cdm16122.contentdm.oclc.org/digital/bl/dmwebservices/index.php?q=dmGetCollectionFieldVocabulary/COLLECTION_ALIAS/type/forcedict/forcefullvoc=1/json
+
+
+
+API: 
+
+  {
+    "name": "File Type",
+    "nick": "type",
+    "type": "TEXT",
+    "size": 0,
+    "find": "d5",
+    "req": 0,
+    "search": 1,
+    "hide": 0,
+    "vocdb": "",
+    "vocab": 1,
+    "dc": "type",
+    "admin": 0,
+    "readonly": 0
+  },
+  
+Will show if any repo using contentdm has software in defined vocab for dc.Type
+
+
+DIGITAL Commons
+
+seems to allow you to search all digital commons:
+
+https://scholarworks.uaeu.ac.ae/do/search/advanced/?q=document_type%3Asoftware&start=0&context=1&sort=score&facet=
+
+one record in this for Boise was cross referenced and matched the 91 result
+
+use cat links_sware_digCom.txt | while read line; do awk -F/ '{print $3}' <<< $line; done > urls_digicom.txt
+to extract domains from full urls
+
+
+all insts using Digital Commmons https://bepress.com/categories_wdc/all-institutions/
