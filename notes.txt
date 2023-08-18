@@ -55,3 +55,30 @@ to extract domains from full urls
 
 
 all insts using Digital Commmons https://bepress.com/categories_wdc/all-institutions/
+
+
+http://dosird.uns.ac.rs/phd-uns-digital-library-phd-dissertations 
+The first step in this project was analysis of various systems that contain metadata about theses and dissertations.
+
+The following are international initiatives:
+
+• NDLTD is an international organization that aims to create a worldwide network of ETDs. Each digital repository that is a network member has to enable metadata exchange in the ETD-MS format (developed by DNLTD) in accordance with OAI-PMH.21
+
+• DART-Europe E-Thesis Portal aims to collect details of the open access research theses stored in Europe’s digital repositories (doctoral and master theses). It collects metadata in DC using OAI-PMH.
+
+• DRIVER is an international organization co-funded by the European Commission with the goal of creating a network of freely accessible digital repositories with content across all academic disciplines. Each digital repository that is a network member has to enable metadata exchange in DC in accordance with the OAI-PMH protocol.
+
+In addition, many academic and research institutions and research communities may implement and manage the following approaches to collecting, preserving, accessing, and disseminating research:
+
+• IRs are online systems that collect, preserve, and disseminate the intellectual output in digital form of an institution. IRs may use open-source software, such as EPrints,DSpace and Fedora,  or hosted, proprietary software, such as Digital Commons and SimpleDL. Many IRs support the exchange of data in DC via OAI-PMH.
+
+• A CRIS is a database of other information system for storing data on current research (e.g., data about institutions, researchers, research projects, equipment, published results, etc.). The European Union encourages the development of national research management systems in accordance with the CERIF standard. CERIF compatible research management systems are called CRIS. Due to specific local or national requirements, CRIS systems are built on different modifications (or extensions) of CERIF data model.
+
+• A Library Information System (LIS) is a software system for acquiring, cataloging, and circulating library holdings. LIS are built on various bibliographic standards; most are based on MARC 21 formats.
+
+Across these systems, different standards and protocols—CERIF, OAI-PMH, DC, ETD-MS, and MARC—enable interoperability. After analysis was completed, a comprehensive metadata set was defined to develop a repository that is compatible with all previously mentioned systems. An object-oriented method was used for the module modeling. Object-oriented modeling creates models using object-oriented diagrams (class diagram, sequence diagram, etc.), which is the starting point for implementing a system using object-oriented programming language. The modeling was carried out using the Sybase PowerDesigner tool that supports OMG’s  Unified Modeling Language (UML) 2.0. The module model can be obtained by contacting the DOSIRD UNS team members via email dosird@uns.ac.rs. The implementation was realized using “bestof- breed” open-source components written in Java.
+
+
+https://www.iaea.org/resources/databases/inis has
+Record Type: Journal Article
+Literature Type: Software
