@@ -82,3 +82,9 @@ Across these systems, different standards and protocols—CERIF, OAI-PMH, DC, ET
 https://www.iaea.org/resources/databases/inis has
 Record Type: Journal Article
 Literature Type: Software
+
+
+
+problem with translation sometimes e.g.
+http://bonga.unisimon.edu.co/browse?type=programa
+program is translated as software, but it means course pathway
