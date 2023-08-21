@@ -88,3 +88,7 @@ Literature Type: Software
 problem with translation sometimes e.g.
 http://bonga.unisimon.edu.co/browse?type=programa
 program is translated as software, but it means course pathway
+
+the italian irus systems seem to also include populated results for 0 terms
+5.11 Software: [0] Collection home page
+https://iris.gssi.it/handle/123456789/35
