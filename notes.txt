@@ -95,3 +95,31 @@ https://iris.gssi.it/handle/123456789/35
 
 scholarworks at IU.edu doesnt have software, but their datacore does:
 https://datacore.iu.edu/catalog?f%5Bresource_type_sim%5D%5B%5D=Software&locale=en
+
+dspace scraping for .edu domains:
+either successful query string works for those with software.
+If no software or type search:
+/browse?type=type&value=Software gives Invalid parameters
+but
+/discover?filtertype_1=type&filter_relational_operator_1=contains&filter_1=software&submit_apply_filter=&query=&grid-layout=0 
+gives search produced no results
+means the browse string can be used as a decent test for whether they accept type search or not.
+element is <h2 class="ds-div-head page-header first-page-header">Invalid parameters</h2>
+
+
+
+CERIF 
+
+https://eurocris.org/services/main-features-cerif
+
+types:
+https://github.com/EuroCRIS/CERIF-Vocabularies/blob/master/OutputTypes.xml
+
+
+Growth of CRIS in uk:
+https://dspacecris.eurocris.org/handle/11366/75
+
+look at DRIS for additional info
+https://github.com/jdvorak001/DRIS-API-testing
+https://api.eurocris.org/dris/entries (first 100)
+https://dspacecris.eurocris.org/bitstream/11366/1788/1/DRIS%2b_project_slides_webinar_PDeCastro_JDvorak_20210518.pdf
