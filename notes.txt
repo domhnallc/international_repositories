@@ -92,3 +92,6 @@ program is translated as software, but it means course pathway
 the italian irus systems seem to also include populated results for 0 terms
 5.11 Software: [0] Collection home page
 https://iris.gssi.it/handle/123456789/35
+
+scholarworks at IU.edu doesnt have software, but their datacore does:
+https://datacore.iu.edu/catalog?f%5Bresource_type_sim%5D%5B%5D=Software&locale=en
