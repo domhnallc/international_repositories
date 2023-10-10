@@ -1,572 +1,659 @@
-country_name,repository_metadata_software_name,country_name
-Aland Islands,eprints,1
-Albania,dspace,1
-Algeria,dspace,16
-Algeria,eprints,1
-Algeria,self build cms,1
-Algeria,wordpress,1
-Andorra,digital commons,1
-Argentina,bdunco,1
-Argentina,bespoke system,1
-Argentina,dspace,35
-Argentina,eprints,7
-Argentina,greenstone,10
-Argentina,omeka,1
-Argentina,pmb,2
-Armenia,eprints,1
-Armenia,greenstone,1
-Australia,contentdm,1
-Australia,digital commons,9
-Australia,digitool,3
-Australia,drupal,1
-Australia,dspace,16
-Australia,eprints,11
-Australia,equella,1
-Australia,ex libris primo,1
-Australia,fedora,1
-Australia,fez,4
-Australia,figshare,1
-Australia,haplo,1
-Australia,oaicat,1
-Australia,omeka,1
-Australia,opus,1
-Australia,pure,4
-Australia,vital,4
-Austria,custom,1
-Austria,django,1
-Austria,dspace,2
-Austria,eprints,7
-Austria,eyebase mediasuite,1
-Austria,fedora,5
-Austria,hyperwave,1
-Austria,librecat,1
-Austria,opus,2
-Austria,phiadra,1
-Austria,visual library,2
-Austria,visual library server,5
-Austria,visual library software,1
-Austria,web based application (php & mysql),1
-Azerbaijan,dspace,2
-Bangladesh,dspace,11
-Bangladesh,greenstone,2
-Belarus,dspace,34
-Belarus,perl based,1
-Belgium,brocade,1
-Belgium,doks,3
-Belgium,drupal,3
-Belgium,dspace,7
-Belgium,etd db,1
-Belgium,html,1
-Belgium,librecat,1
-Belgium,pure,2
-Belgium,vital,1
-Belgium,vufind,1
-Bolivia,cybertesis,1
-Bolivia,dspace,1
-Bosnia and Herzegovina,fedora,2
-Botswana,dspace,3
-Brazil,dataverse,1
-Brazil,drupal,3
-Brazil,dspace,109
-Brazil,etd db,1
-Brazil,maxwell,1
-Brazil,nou rau,1
-Brazil,open journal systems,1
-Brazil,tede,2
-Bulgaria,dspace,8
-Bulgaria,eprints,1
-Cabo Verde,dspace,1
-Canada,contentdm,3
-Canada,custom,1
-Canada,custom software,1
-Canada,dataverse,1
-Canada,digital commons,8
-Canada,drupal,2
-Canada,dspace,33
-Canada,eprints,16
-Canada,fedora,2
-Canada,html,2
-Canada,islandora,5
-Canada,omp,1
-Canada,open repository,1
-Canada,samvera,1
-Chile,cybertesis,3
-Chile,dspace,14
-Chile,ohs (open harvester system),2
-Chile,omp (open monograph press),1
-Chile,sirsi corporation,1
-China,cspace,12
-China,cspace.,2
-China,dspace,34
-China,vufind,1
-Colombia,contentdm,1
-Colombia,digital commons,1
-Colombia,dspace,83
-Colombia,eprints,2
-Costa Rica,dspace,8
-Croatia,drupal,1
-Croatia,dspace,1
-Croatia,eprints,6
-Croatia,indigo,1
-Croatia,islandora,131
-Cuba,cwis,3
-Cuba,dspace,7
-Cuba,eprints,1
-Cyprus,dspace,6
-Czech Republic,advanced rapid library,1
-Czech Republic,digitool,1
-Czech Republic,dspace,16
-Czech Republic,invenio,1
-Czech Republic,is mu,1
-Denmark,contentdm,1
-Denmark,eprints,1
-Denmark,invenio,1
-Denmark,pure,8
-Dominican Republic,dspace,2
-Ecuador,dspace,33
-Ecuador,html,1
-Egypt,digital commons,1
-Egypt,dot net,1
-Egypt,dspace,2
-Egypt,eprints,1
-El Salvador,dspace,7
-El Salvador,eprints,2
-Estonia,dspace,3
-Estonia,eprints,1
-Estonia,mysql database,1
-Ethiopia,dspace,3
-Ethiopia,invenio,1
-Fiji,eprints,1
-Fiji,greenstone,1
-Finland,dspace,14
-Finland,fedora,1
-Finland,pure,3
-France,cadic,1
-France,contentdm,2
-France,drupal,3
-France,dspace,8
-France,eprints,8
-France,flora (ever team),1
-France,greenstone,1
-France,hal,66
-France,html,1
-France,hubzero,1
-France,islandora,1
-France,joai,1
-France,omeka,1
-France,open repository,2
-France,ori oai,2
-France,pleade,2
-France,polaris by mysciencework,1
-France,polaris os,1
-France,spire,1
-Georgia,dspace,1
-Germany,bibdia,1
-Germany,cera,1
-Germany,ckan,1
-Germany,contentdm,2
-Germany,digibib,1
-Germany,django,1
-Germany,dspace,31
-Germany,edoc,1
-Germany,eprints,27
-Germany,escidoc,1
-Germany,fedora,9
-Germany,geoportal conterra,1
-Germany,goobi viewer,4
-Germany,grunt metaparser,1
-Germany,html,3
-Germany,hzb oai/pmh,1
-Germany,imperia,1
-Germany,intranda,1
-Germany,intranda viewer,1
-Germany,invenio,5
-Germany,kit bibliothek,1
-Germany,librecat,1
-Germany,mediatum,1
-Germany,memory alpha,1
-Germany,"microsoft access, editor",1
-Germany,mycore,11
-Germany,nps,1
-Germany,opus,84
-Germany,oracle,1
-Germany,pubman/inge,1
-Germany,pure,1
-Germany,star database,1
-Germany,tind,1
-Germany,typo,1
-Germany,typo3,5
-Germany,ubka,1
-Germany,visual library server,1
-Germany,vts,1
-Germany,vufind,1
-Ghana,dspace,6
-Greece,dspace,20
-Greece,eprints,1
-Greece,fedora,2
-Greece,html,1
-Greece,invenio,1
-Greece,keystone dls (tklite),1
-Greece,open journal systems,1
-Guatemala,eprints,1
-Honduras,dspace,4
-Hong Kong,digital commons,3
-Hong Kong,drupal,1
-Hong Kong,dspace,2
-Hong Kong,figshare,1
-Hong Kong,wordpress,1
-Hungary,digitool,1
-Hungary,dspace,9
-Hungary,eprints,25
-Hungary,jadox,3
-Iceland,dspace,2
-Iceland,open repository,1
-India,csir central,1
-India,drupal,1
-India,dspace,48
-India,dspace cris,1
-India,eprints,29
-India,greenstone,1
-India,nitya,1
-Indonesia,digital commons,1
-Indonesia,django,1
-Indonesia,dspace,14
-Indonesia,eprints,121
-Indonesia,gae,1
-Indonesia,ispektra,1
-Indonesia,jsp mysql alfresco,1
-Indonesia,neliti,1
-Indonesia,omeka,1
-Indonesia,open repository,1
-Indonesia,setiadi,1
-Indonesia,slims,2
-Indonesia,slims senayan,1
-Indonesia,weko,1
-Indonesia,wordpress,1
-Iran,dspace,1
-Iran,eprints,14
-Iraq,eprints,1
-Ireland,digital commons,2
-Ireland,dspace,8
-Ireland,eprints,8
-Ireland,figshare,1
-Ireland,open repository,1
-Italy,cdsware,1
-Italy,cdsware and apache,1
-Italy,custom,1
-Italy,dataverse,1
-Italy,digital commons,1
-Italy,drupal,1
-Italy,dspace,70
-Italy,eprints,18
-Italy,esploro,1
-Italy,etd db,1
-Italy,fedora,1
-Italy,html,1
-Italy,iliswave j,1
-Italy,invenio,2
-Italy,iris,16
-Italy,micro cds/isis,1
-Italy,ocs,1
-Italy,omeka,1
-Italy,pkp   ojs,1
-Jamaica,contentdm,1
-Jamaica,dspace,2
-Jamaica,weko,1
-Japan,amlad,1
-Japan,dspace,52
-Japan,e cats,1
-Japan,e cats library,3
-Japan,e catslibrary,3
-Japan,e catslibrary ver.6,1
-Japan,e lib,1
-Japan,e repository,5
-Japan,earmas,14
-Japan,eprints,2
-Japan,fedora,1
-Japan,iliswave j,6
-Japan,iliswave j v3,7
-Japan,iliswave j　e lib,1
-Japan,iliswavej,1
-Japan,ilisweb j  e lib,1
-Japan,infolib,5
-Japan,infolib asp,2
-Japan,infolib dbr,1
-Japan,infolibクラウドサービス,1
-Japan,jopss,1
-Japan,nalis r,2
-Japan,nalis r(dspace),1
-Japan,shunsaku,1
-Japan,t2r2システム,1
-Japan,weko,524
-Japan,xoonips,7
-Japan,xoops,1
-Japan,富士通 iliswave j,1
-Japan,富士通　iliswave j,1
-Japan,独自,1
-Kazakhstan,dspace,10
-Kenya,dspace,38
-Kenya,eprints,1
-Kenya,greenstone,1
-Kosovo,digital commons,1
-Kosovo,dspace,1
-Kuwait,dspace,1
-Kyrgyz Republic,dspace,1
-Laos,dspace,1
-Latvia,dspace,3
-Latvia,eprints,1
-Lebanon,dspace,1
-Lebanon,eprints,1
-Lebanon,scholarworks,1
-Libya,dspace,3
-Lithuania,dspace,6
-Lithuania,dspace cris,1
-Lithuania,fedora,7
-Luxembourg,dspace,1
-Luxembourg,polaris by mysciencework,1
-Malawi,dspace,1
-Malaysia,dspace,5
-Malaysia,eprints,18
-Malaysia,greenstone,1
-Malta,dspace,1
-Mexico,custom,1
-Mexico,cwis,1
-Mexico,digital commons,1
-Mexico,dspace,30
-Mexico,eprints,3
-Mexico,html,1
-Mexico,islandora,1
-Mexico,vufind,1
-Moldova,dspace,9
-Morocco,dspace,3
-Mozambique,dspace,1
-Myanmar,dspace,2
-Namibia,dspace,2
-Netherlands,artudis,1
-Netherlands,dare,1
-Netherlands,drupal,2
-Netherlands,dspace,7
-Netherlands,dspace cris,1
-Netherlands,eprints,1
-Netherlands,fedora,2
-Netherlands,fez,1
-Netherlands,imis,1
-Netherlands,islandora,1
-Netherlands,pure,12
-Netherlands,wildfire,22
-New Caledonia,ori oai 1.7,1
-New Zealand,dspace,11
-New Zealand,eprints,2
-New Zealand,figshare,2
-Nicaragua,dspace,3
-Nicaragua,eprints,7
-Nigeria,dspace,24
-Nigeria,eprints,4
-Nigeria,open repository,1
-North Macedonia,dspace,2
-North Macedonia,eprints,3
-Norway,dspace,61
-Pakistan,contentdm,1
-Pakistan,digital commons,1
-Pakistan,greenstone,1
-Palestine,dspace,7
-Panama,dspace,5
-Paraguay,dspace,1
-Paraguay,scielo,1
-Peru,atom,1
-Peru,cybertesis,1
-Peru,dspace,138
-Peru,dspace cris,1
-Peru,open repository,1
-Peru,vufind,1
-Peru,wordpress,1
-Philippines,digital commons,1
-Philippines,dspace,7
-Philippines,greenstone,1
-Poland,crispa,1
-Poland,dataverse,1
-Poland,dlibra,57
-Poland,drupal,1
-Poland,dspace,25
-Poland,eprints,3
-Poland,invenio,1
-Poland,omega psir,1
-Poland,open repository,1
-Poland,proprietary,1
-Poland,vital,1
-Portugal,digitool,2
-Portugal,dspace,49
-Portugal,open repository,1
-Puerto Rico,dspace,1
-Qatar,dspace,1
-Romania,dspace,6
-Russia,dspace,31
-Russia,eprints,3
-Russia,invenio,1
-Russia,socionet,3
-Russia,vital,2
-Rwanda,dspace,2
-Saudi Arabia,dspace,6
-Saudi Arabia,eprints,1
-Saudi Arabia,marz content management system,1
-Senegal,dspace,2
-Serbia,custom,1
-Serbia,dspace,31
-Serbia,eprints,3
-Serbia,fedora,1
-Serbia,islandora,2
-Singapore,dataverse network,1
-Singapore,digital commons,1
-Singapore,dspace,3
-Singapore,figshare,1
-Slovakia,advanced rapid library,1
-Slovakia,dspace,2
-Slovenia,custom software,1
-Slovenia,dkum,2
-Slovenia,dkum   digital library platform from uni,1
-Slovenia,eprints,2
-Slovenia,repox,1
-Slovenia,scix,1
-South Africa,contentpro,1
-South Africa,digitool,1
-South Africa,dspace,31
-South Africa,eprints,1
-South Africa,etd db,2
-South Africa,figshare,1
-South Africa,vital,2
-South Korea,dspace,28
-Spain,contentdm,2
-Spain,dataverse,1
-Spain,digibib,9
-Spain,digitool,1
-Spain,dspace,90
-Spain,dspace cris,1
-Spain,eprints,5
-Spain,fedora,1
-Spain,fez,1
-Spain,greenstone,1
-Spain,invenio,2
-Spain,ojs,1
-Spain,pandora,3
-Spain,pubman,1
-Sri Lanka,dspace,15
-Sri Lanka,inmagic dbtextworks,1
-Sudan,dspace,12
-Sweden,digital commons,1
-Sweden,diva portal,31
-Sweden,dspace,5
-Sweden,eprints,4
-Sweden,figshare,1
-Sweden,librecat,1
-Switzerland,contentdm,1
-Switzerland,dlcm technology,1
-Switzerland,dspace,4
-Switzerland,dspace cris,1
-Switzerland,eprints,6
-Switzerland,invenio,7
-Switzerland,islandora,4
-Switzerland,lightgallery,1
-Switzerland,limb gallery,1
-Switzerland,open archive,1
-Switzerland,open repository,1
-Taiwan,dspace,58
-Taiwan,etd db,1
-Taiwan,weko,1
-Tanzania,dspace,10
-Tanzania,eprints,2
-Thailand,dspace,13
-Thailand,ir+,1
-Thailand,wordpress,1
-Trinidad and Tobago,dspace,1
-Tunisia,eprints,1
-Türkiye,avesis,10
-Türkiye,axsis,1
-Türkiye,açıkarşiv,1
-Türkiye,contentdm,1
-Türkiye,cybertesis,1
-Türkiye,digitool,1
-Türkiye,drupal,1
-Türkiye,dspace,129
-Türkiye,dspace cris,1
-Türkiye,eprints,3
-Türkiye,mitos,2
-Türkiye,mi̇tos,1
-Türkiye,ptcloud,1
-Uganda,drupal,1
-Uganda,dspace,10
-Ukraine,dspace,88
-Ukraine,eprints,9
-Ukraine,vnau`s repository code (php),1
-United Arab Emirates,digital commons,1
-United Arab Emirates,dspace,3
-United Kingdom,cocoon,1
-United Kingdom,collection index+,1
-United Kingdom,contentdm,4
-United Kingdom,custom,1
-United Kingdom,digitool,1
-United Kingdom,drupal,2
-United Kingdom,dspace,41
-United Kingdom,eprints,116
-United Kingdom,epub,1
-United Kingdom,equella,1
-United Kingdom,esploro,1
-United Kingdom,fedora,1
-United Kingdom,figshare,5
-United Kingdom,haplo,5
-United Kingdom,html,4
-United Kingdom,open repository,2
-United Kingdom,plone,1
-United Kingdom,pure,30
-United Kingdom,samvera,6
-United Kingdom,vufind,1
-United Kingdom,weko,2
-United Kingdom,worktribe,5
-United States,4.1,1
-United States,aubrey,1
-United States,cloudflare,1
-United States,contentdm,58
-United States,custom,3
-United States,dataverse,2
-United States,dataverse network,2
-United States,digital commons,400
-United States,digitool,3
-United States,django/python,1
-United States,drupal,4
-United States,dspace,136
-United States,eprints,20
-United States,equella,1
-United States,esploro,4
-United States,etd db,6
-United States,fedora,14
-United States,fez,3
-United States,figshare for institutions,1
-United States,greenstone,5
-United States,html,2
-United States,hyku,1
-United States,hyrax,1
-United States,invenio,2
-United States,ir+,1
-United States,islandora,6
-United States,mediawiki,1
-United States,oaicat,1
-United States,omeka,4
-United States,open repository,2
-United States,opencourseware,1
-United States,perl based,1
-United States,polaris by mysciencework,1
-United States,samvera,3
-United States,sobekcm,4
-United States,sunsite,1
-United States,vital,2
-United States,vufind,1
-United States,weko,1
-United States Minor Outlying Islands,digital commons,1
-Uruguay,dspace,5
-Venezuela,dspace,9
-Venezuela,eprints,1
-Venezuela,open repository,1
-Vietnam,dspace,1
-Zambia,dspace,3
-Zimbabwe,dspace,8
-Zimbabwe,eprints,1
-Zimbabwe,greenstone,2
+,full_query_x,manual_software_count_x,category_x,clickable_url,Unnamed: 0,system_metadata_id,organisation_country,organisation_url,repository_metadata_software_name,repository_metadata_metadata_record_count,repository_metadata_type,repository_metadata_url,manual_software_count_y,url_check,category_y,full_query_y,repository_metadata_full_text_record_count,repository_metadata_oai_url,system_metadata_uri,repository_metadata_software_name_other
+0,,,,kanazawa-u.repo.nii.ac.jp/,334,601,jp,http://www.kanazawa-u.ac.jp/,weko,42085.0,institutional,https://kanazawa-u.repo.nii.ac.jp/,1.0,200,Contains software,https://kanazawa-u.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_snippet&meta=&title=&creator=&typeList=12&idDes=&idList=&jtitle=&pubYearFrom=&pubYearUntil=&idx=&wekoAuthorId=&count=20&order=17&pn=1&page_id=13&block_id=21,,http://kanazawa-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/601,
+1,,,,t2r2.star.titech.ac.jp/index_en.html,4714,9791,jp,https://www.titech.ac.jp/english,t2r2システム,,institutional,https://t2r2.star.titech.ac.jp/index_en.html,13.0,200,Contains software,https://t2r2.star.titech.ac.jp/cgi-bin/publicationsearchresult.cgi,,http://t2r2.star.titech.ac.jp/oaipmh/OAIHandler,https://v2.sherpa.ac.uk/id/repository/9791,T2R2システム
+2,,,,grips.repo.nii.ac.jp/,2213,3209,jp,http://www.grips.ac.jp/,weko,1284.0,institutional,https://grips.repo.nii.ac.jp/,2.0,200,Contains software,https://grips.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,729.0,http://grips.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3209,
+3,,,,ir.kagoshima-u.ac.jp/?lang=en,523,964,jp,http://www.kagoshima-u.ac.jp/,weko,13006.0,institutional,http://ir.kagoshima-u.ac.jp/?lang=en,0.0,200,Does not contain software,https://ir.kagoshima-u.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_snippet&all=&title=&creator=&typeList=12&jtitle=&idx=&wekoAuthorId=&count=50&order=17&pn=1&page_id=15&block_id=22,10674.0,http://ir.kagoshima-u.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/964,
+4,,,,tsukuba.repo.nii.ac.jp/,312,569,jp,http://www.tsukuba.ac.jp/,weko,41208.0,institutional,http://tsukuba.repo.nii.ac.jp/,0.0,200,Does not contain software,https://tsukuba.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&filedate_from=&filedate_to=&fd_attr=&srctitle=&type=43&dategranted_from=&dategranted_to=&dissno=&wid=,,http://tsukuba.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/569,
+5,,,,yamato-u.repo.nii.ac.jp,4811,9910,jp,https://www.yamato-u.ac.jp/,weko,,institutional,http://yamato-u.repo.nii.ac.jp,0.0,200,Does not contain software,https://yamato-u.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&subject=&sbjscheme=&spatial=&des=&publisher=&cname=&filedate_from=&filedate_to=&fd_attr=&mimetype=&id=&id_attr=&srctitle=&type=43&itemtype=&lang=&temporal=&dategranted_from=&dategranted_to=&version=&dissno=&degreename=&dgname=&wid=&iid=&license=&text1=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,http://yamato-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9910,
+6,,,,akitan.repo.nii.ac.jp,4814,9913,jp,https://www.akikusa.ac.jp/akitan/,weko,,institutional,https://akitan.repo.nii.ac.jp,0.0,200,Does not contain software,https://akitan.repo.nii.ac.jp/search?page=1&size=50&sort=-createdate&search_type=0&q=&title=&creator=&subject=&sbjscheme=&spatial=&des=&publisher=&cname=&filedate_from=&filedate_to=&fd_attr=&mimetype=&id=&id_attr=&srctitle=&type=&itemtype=Software&lang=&temporal=&dategranted_from=&dategranted_to=&version=&dissno=&degreename=&dgname=&wid=&iid=&license=&text1=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,http://akitan.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9913,
+7,,,,hirosaki.repo.nii.ac.jp/,516,950,jp,http://www.hirosaki-u.ac.jp/,weko,5241.0,institutional,https://hirosaki.repo.nii.ac.jp/,0.0,200,Does not contain software,https://hirosaki.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_snippet&all=&title=&creator=&typeList=12&pubYearFrom=&pubYearUntil=&idx=&wekoAuthorId=&count=20&order=17&pn=1&page_id=13&block_id=33,4.0,http://hirosaki.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/950,
+8,,,,iuj.repo.nii.ac.jp,4769,9860,jp,https://www.iuj.ac.jp/,,,institutional,https://iuj.repo.nii.ac.jp,0.0,200,Does not contain software,https://iuj.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&subject=&sbjscheme=&spatial=&des=&publisher=&cname=&filedate_from=&filedate_to=&fd_attr=&mimetype=&id=&id_attr=&srctitle=&type=43&itemtype=&lang=&temporal=&dategranted_from=&dategranted_to=&version=&dissno=&degreename=&dgname=&wid=&iid=&license=&text1=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,https://iuj.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9860,
+9,,,,kumadai.repo.nii.ac.jp/,426,797,jp,http://www.kumamoto-u.ac.jp/,weko,14287.0,institutional,https://kumadai.repo.nii.ac.jp/,0.0,200,Does not contain software,https://kumadai.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_snippet&all=&title=&creator=&typeList=12&pubYearFrom=&pubYearUntil=&idx=&count=50&order=17&pn=1&page_id=13&block_id=21,,https://kumadai.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/797,
+10,,,,kwassui.repo.nii.ac.jp,4817,9916,jp,http://kwassui-int.ac.jp/,weko,,institutional,https://kwassui.repo.nii.ac.jp,0.0,ConnectionError,Does not contain software,https://kwassui.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&subject=&sbjscheme=&spatial=&des=&publisher=&cname=&filedate_from=&filedate_to=&fd_attr=&mimetype=&id=&id_attr=&srctitle=&type=43&itemtype=&lang=&temporal=&dategranted_from=&dategranted_to=&version=&dissno=&degreename=&dgname=&wid=&iid=&license=&text1=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,http://kwassui.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9916,
+11,,,,mie-u.repo.nii.ac.jp/,531,973,jp,http://www.mie-u.ac.jp/,weko,11928.0,institutional,https://mie-u.repo.nii.ac.jp/,0.0,200,Does not contain software,https://mie-u.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_snippet&all=&title=&creator=&typeList=12&pubYearFrom=&pubYearUntil=&idx=&wekoAuthorId=&count=20&order=7&pn=1&page_id=13&block_id=21,0.0,http://mie-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/973,
+12,,,,nagoya.repo.nii.ac.jp/?lang=english,285,523,jp,http://www.nagoya-u.ac.jp/,weko,100.0,institutional,https://nagoya.repo.nii.ac.jp/?lang=english,0.0,200,Does not contain software,https://nagoya.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&filedate_from=&filedate_to=&fd_attr=&id=&id_attr=&srctitle=&type=43&dissno=&lang=english,69.0,http://nagoya.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/523,
+13,,,,niigata-u.repo.nii.ac.jp/,533,975,jp,http://www.niigata-u.ac.jp/index_e.html,weko,31612.0,institutional,https://niigata-u.repo.nii.ac.jp/,0.0,200,Does not contain software,https://niigata-u.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&subject=&sbjscheme=&spatial=&des=&publisher=&cname=&filedate_from=&filedate_to=&fd_attr=&mimetype=&id=&id_attr=&srctitle=&type=43&itemtype=&lang=&temporal=&dategranted_from=&dategranted_to=&version=&dissno=&degreename=&dgname=&wid=&iid=&license=&text1=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,http://niigata-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/975,
+14,,,,nuhm.repo.nii.ac.jp,4809,9907,jp,https://shitoku.ac.jp/,weko,,institutional,https://nuhm.repo.nii.ac.jp,0.0,200,Does not contain software,https://nuhm.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,http://nuhm.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9907,
+15,,,,repository.dl.itc.u-tokyo.ac.jp/?lang=english,490,914,jp,http://www.u-tokyo.ac.jp/,weko,47690.0,institutional,https://repository.dl.itc.u-tokyo.ac.jp/?lang=english,0.0,200,Does not contain software,https://repository.dl.itc.u-tokyo.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&des=&publisher=&cname=&filedate_from=&filedate_to=&fd_attr=&mimetype=&id=&id_attr=&srctitle=&type=43&dategranted_from=&dategranted_to=&dissno=&lang=english,,http://repository.dl.itc.u-tokyo.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/914,
+16,,,,s-otani.repo.nii.ac.jp,4812,9911,jp,,weko,,institutional,https://s-otani.repo.nii.ac.jp,0.0,ConnectionError,Does not contain software,https://s-otani.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&subject=&sbjscheme=&spatial=&des=&publisher=&cname=&filedate_from=&filedate_to=&fd_attr=&mimetype=&id=&id_attr=&srctitle=&type=43&itemtype=&lang=&temporal=&dategranted_from=&dategranted_to=&version=&dissno=&degreename=&dgname=&wid=&iid=&license=&text1=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,http://s-otani.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9911,
+17,,,,shukugawa.repo.nii.ac.jp,4818,9917,jp,https://www.kobe-c.ac.jp/ekc/,weko,,institutional,https://shukugawa.repo.nii.ac.jp,0.0,200,Does not contain software,https://shukugawa.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&subject=&sbjscheme=&spatial=&des=&publisher=&cname=&filedate_from=&filedate_to=&fd_attr=&mimetype=&id=&id_attr=&srctitle=&type=43&itemtype=&lang=&temporal=&dategranted_from=&dategranted_to=&version=&dissno=&degreename=&dgname=&wid=&iid=&license=&text1=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,http://shukugawa.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9917,
+18,,,,suica.repo.nii.ac.jp,4813,9912,jp,https://www.yg.kobe-wu.ac.jp/wu/,,,institutional,https://suica.repo.nii.ac.jp,0.0,200,Does not contain software,https://suica.repo.nii.ac.jp/search?page=1&size=20&sort=-pyear&search_type=0&q=&title=&creator=&type=43&wid=&iid=,,http://suica.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9912,
+19,,,,tohoku-gakuin.repo.nii.ac.jp/,3888,6463,jp,https://www.tohoku-gakuin.ac.jp/en/,weko,8673.0,institutional,https://tohoku-gakuin.repo.nii.ac.jp/,0.0,200,Does not contain software,https://tohoku-gakuin.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&subject=&sbjscheme=&spatial=&des=&publisher=&cname=&filedate_from=&filedate_to=&fd_attr=&mimetype=&id=&id_attr=&srctitle=&type=43&itemtype=&lang=&temporal=&dategranted_from=&dategranted_to=&version=&dissno=&degreename=&dgname=&wid=&iid=&license=&text1=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,822.0,http://tohoku-gakuin.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6463,
+20,,,,waseda.repo.nii.ac.jp/,51,117,jp,https://www.waseda.jp/top/en,weko,46388.0,institutional,https://waseda.repo.nii.ac.jp/,,200,Does not contain software,https://waseda.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_snippet&meta=&title=&creator=&des=&typeList=12&jtitle=&pubYearFrom=&pubYearUntil=&idx=&wekoAuthorId=&count=20&order=7&pn=1&page_id=13&block_id=21,39513.0,http://waseda.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/117,
+21,,,,www-std01.ufinity.jp/thulib/index.php?action=pages_view_main&active_action=v3search_view_main_init&block_id=296&change_locale=en,4725,9804,jp,https://www.thu.ac.jp/english/about,iliswave j,,institutional,https://www-std01.ufinity.jp/thulib/index.php?action=pages_view_main&active_action=v3search_view_main_init&block_id=296&change_locale=en,0.0,ReadTimeoutError,Does not contain software,https://www-std01.ufinity.jp/thulib/index.php?action=pages_view_main&active_action=v3search_view_main_init&op_param=gcattp_flag%3Dall%26srhclm1%3Dwords%26valclm1%3D%26optclm1%3DAND%26srhclm2%3Dtitle%26valclm2%3D%26optclm2%3DAND%26srhclm3%3Dauth%26valclm3%3D%26optclm3%3DAND%26srhclm4%3Dpub%26valclm4%3D%26body%3D%26cont%3D%26year_y%3D%26year_m%3D%26year_d%3D%26code_type%3D%26code%3D%26bibid%3D%26lang%3D%26niitype%3D32%26format%3D%26sortkey%3Dsyear%252Csauth%252FDESC%26listcnt%3D10%26startpos%3D%26fromDsp%3Dcatsrr%26searchDsp%3Dcatsrr%26initFlg%3D_RESULT_SET%26hitcnt%3D%26searchsql%3D%26searchhis%3D%26akey%3D%26sdi%3D%26fct_gcattp%3D%26fct_auth%3D%26fct_pub%3D%26fct_year%3D%26fct_cls%3D%26fct_sh%3D%26fct_lang%3D%26fct_holar%3D%26fct_tag%3D%26fct_campus%3D%26fct_range_year%3D%26fct_stamp%3D%26fct_holstat%3D%26words%3D%26title%3D%26auth%3D%26pub%3D%26sh%3D%26ncid%3D%26hasbody%3D&block_id=296&tab_num=1&search_mode=detail#search_list-1,,https://lib.thu.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/9804,iLiswave-J
+22,,,,yashima.repo.nii.ac.jp,4816,9915,jp,https://www.yashima.ac.jp/univ/,weko,,institutional,https://yashima.repo.nii.ac.jp,0.0,200,Does not contain software,https://yashima.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&subject=&sbjscheme=&spatial=&des=&publisher=&cname=&filedate_from=&filedate_to=&fd_attr=&mimetype=&id=&id_attr=&srctitle=&type=43&itemtype=&lang=&temporal=&dategranted_from=&dategranted_to=&version=&dissno=&degreename=&dgname=&wid=&iid=&license=&text1=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,http://yashima.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9915,
+23,,,,ynu.repo.nii.ac.jp/,524,965,jp,http://www.ynu.ac.jp/,weko,7836.0,institutional,https://ynu.repo.nii.ac.jp/,0.0,ConnectionError,Does not contain software,https://ynu.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_snippet&all=&title=&creator=&typeList=12&jtitle=&pubYearFrom=&pubYearUntil=&ln=&idx=&wekoAuthorId=&count=20&order=18&pn=1&page_id=59&block_id=74,0.0,http://ynu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/965,
+24,,,,dspace.bunka.ac.jp/dspace,1192,1906,jp,http://www.bunka.ac.jp/,dspace,98.0,institutional,http://dspace.bunka.ac.jp/dspace,,ConnectionError,error,,1.0,http://dspace.bunka.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1906,
+25,,,,koara-a.lib.keio.ac.jp,3745,5858,jp,https://www.keio.ac.jp/en/,xoops,1778.0,institutional,http://koara-a.lib.keio.ac.jp,,ConnectionError,error,,,http://koara-a.lib.keio.ac.jp/xoonips/modules/xoonips/oai.php,https://v2.sherpa.ac.uk/id/repository/5858,XOOPS
+26,,,,koara.lib.keio.ac.jp,320,578,jp,http://www.keio.ac.jp/,xoonips,71608.0,institutional,http://koara.lib.keio.ac.jp,,ConnectionError,error,,1766.0,http://koara.lib.keio.ac.jp/xoonips/modules/xoonips/oai.php,https://v2.sherpa.ac.uk/id/repository/578,
+27,,,,libopac.fukuoka-edu.ac.jp/dspace/,1232,1952,jp,http://www.fukuoka-edu.ac.jp/,dspace,1415.0,institutional,http://libopac.fukuoka-edu.ac.jp/dspace/,,ConnectionError,error,,,http://libopac.fukuoka-edu.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1952,
+28,,,,m-repo.lib.meiji.ac.jp/dspace/,689,1217,jp,http://www.meiji.ac.jp/,dspace,16392.0,institutional,http://m-repo.lib.meiji.ac.jp/dspace/,,ConnectionError,error,,8515.0,http://m-repo.lib.meiji.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1217,
+29,,,,naosite.lb.nagasaki-u.ac.jp/dspace/?locale=en,464,870,jp,http://sun.ac.jp/,dspace,33233.0,institutional,http://naosite.lb.nagasaki-u.ac.jp/dspace/?locale=en,,ConnectionError,error,,2.0,http://naosite.lb.nagasaki-u.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/870,
+30,,,,nda-repository.nda.ac.jp/,4743,9832,jp,https://www.mod.go.jp/nda/,dspace,,institutional,http://nda-repository.nda.ac.jp/,,ReadTimeoutError,error,,,http://nda-repository.nda.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/9832,
+31,,,,okinawa-repo.lib.u-ryukyu.ac.jp/,1217,1936,jp,http://www.u-ryukyu.ac.jp/,dspace,5794.0,institutional,http://okinawa-repo.lib.u-ryukyu.ac.jp/,,ConnectionError,error,,,,https://v2.sherpa.ac.uk/id/repository/1936,
+32,,,,opac.library.twcu.ac.jp/portal/index.htm,1259,1984,jp,http://www.twcu.ac.jp/,,5436.0,institutional,http://opac.library.twcu.ac.jp/portal/index.htm,,ConnectionError,error,,,,https://v2.sherpa.ac.uk/id/repository/1984,
+33,,,,portal.dl.saga-u.ac.jp/,600,1066,jp,http://www.saga-u.ac.jp/,dspace,4376.0,institutional,http://portal.dl.saga-u.ac.jp/,,ConnectionError,error,,3898.0,http://portal.dl.saga-u.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1066,
+34,,,,repo.flib.u-fukui.ac.jp/dspace/,557,1009,jp,http://www.u-fukui.ac.jp/,dspace,8203.0,institutional,http://repo.flib.u-fukui.ac.jp/dspace/,,ConnectionError,error,,4731.0,http://repo.flib.u-fukui.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1009,
+35,,,,repository.hyogo-u.ac.jp/,1184,1894,jp,http://www.hyogo-u.ac.jp/,dspace,14401.0,institutional,http://repository.hyogo-u.ac.jp/,,ConnectionError,error,,,http://repository.hyogo-u.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1894,
+36,,,,repository.lib.tottori-u.ac.jp/Repository/Index.e,1226,1945,jp,http://www.tottori-u.ac.jp/,earmas,6494.0,institutional,http://repository.lib.tottori-u.ac.jp/Repository/Index.e,,404,error,,5368.0,http://repository.lib.tottori-u.ac.jp/Repository/oai/Request,https://v2.sherpa.ac.uk/id/repository/1945,
+37,,,,repository.niigata-cn.ac.jp/dspace/,1354,2103,jp,http://www.niigata-cn.ac.jp/index2.htm,dspace,992.0,institutional,http://repository.niigata-cn.ac.jp/dspace/,,ConnectionError,error,,0.0,http://repository.niigata-cn.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/2103,
+38,,,,repository.ri.jica.go.jp/dspace/,1216,1935,jp,http://www.jica.go.jp/,dspace,165.0,institutional,http://repository.ri.jica.go.jp/dspace/,,ConnectionError,error,,,,https://v2.sherpa.ac.uk/id/repository/1935,
+39,,,,s-ir.sap.hokkyodai.ac.jp/,1218,1937,jp,http://www.hokkyodai.ac.jp/,dspace,8433.0,institutional,http://s-ir.sap.hokkyodai.ac.jp/,,ConnectionError,error,,,http://s-ir.sap.hokkyodai.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1937,
+40,,,,serve.seigakuin-univ.ac.jp/,1234,1954,jp,http://www.seigakuin.jp/,xoonips,1207.0,institutional,http://serve.seigakuin-univ.ac.jp/,,ConnectionError,error,,0.0,http://serve.seigakuin-univ.ac.jp/reps/modules/xoonips/oai.php,https://v2.sherpa.ac.uk/id/repository/1954,
+41,,,,www.jamstec.go.jp/jir/,1088,1766,jp,http://www.jamstec.go.jp/e/,infolib,42812.0,institutional,http://www.jamstec.go.jp/jir/,,404,error,,405.0,http://www.jamstec.go.jp/jir/infolib/oai_repository/repository,https://v2.sherpa.ac.uk/id/repository/1766,Infolib-DBR
+42,,,,www.repository.lib.tmu.ac.jp/,1340,2086,jp,http://www.tmu.ac.jp/,dspace,4638.0,institutional,http://www.repository.lib.tmu.ac.jp/,,ConnectionError,error,,0.0,http://www.repository.lib.tmu.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/2086,
+43,,,,ir.ide.go.jp/,328,588,jp,http://www.ide.go.jp/,weko,33664.0,institutional,https://ir.ide.go.jp/,,200,error,,17306.0,http://ir.ide.go.jp/oai,https://v2.sherpa.ac.uk/id/repository/588,
+44,,,,kiss.kokushikan.ac.jp/pages/sa.aspx,1251,1974,jp,http://www.kokushikan.ac.jp/,shunsaku,,institutional,https://kiss.kokushikan.ac.jp/pages/sa.aspx,,ConnectionError,error,,,,https://v2.sherpa.ac.uk/id/repository/1974,Shunsaku
+45,,,,nara-edu.repo.nii.ac.jp/,494,921,jp,http://www.nara-edu.ac.jp/,weko,5167.0,institutional,https://nara-edu.repo.nii.ac.jp/,,200,error,,0.0,http://nara-edu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/921,
+46,,,,think-asia.org,3892,6471,jp,https://www.adb.org/adbi/mai,,,institutional,https://think-asia.org,,401,error,,,https://think-asia.org/oai/driver,https://v2.sherpa.ac.uk/id/repository/6471,
+47,,,,ir.acc.senshu-u.ac.jp/,1581,2400,jp,http://www.senshu-u.ac.jp/,weko,8928.0,institutional,http://ir.acc.senshu-u.ac.jp/,,ConnectionError,error,,,http://ir.acc.senshu-u.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/2400,
+48,http://shudo-u.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Error,shudo-u.repo.nii.ac.jp,2219,3215,jp,http://www.shudo-u.ac.jp/,weko,2180.0,institutional,http://shudo-u.repo.nii.ac.jp,,200,error,,,http://shudo-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3215,
+49,,,,tsuda.repo.nii.ac.jp/,3854,6412,jp,https://www.tsuda.ac.jp,weko,299.0,institutional,http://tsuda.repo.nii.ac.jp/,,200,error,,254.0,http://tsuda.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6412,
+50,,,,cur-ren.repo.nii.ac.jp/,885,1497,jp,http://www.cjc.ac.jp/,weko,832.0,institutional,https://cur-ren.repo.nii.ac.jp/,,200,error,,746.0,http://cur-ren.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1497,HTML
+51,,,,daido.repo.nii.ac.jp/,2323,3334,jp,http://www.daido-it.ac.jp/,weko,80.0,institutional,https://daido.repo.nii.ac.jp/,,200,error,,,http://daido.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3334,
+52,,,,dwcla.repo.nii.ac.jp/,1379,2132,jp,http://www.dwc.doshisha.ac.jp/,weko,1979.0,institutional,https://dwcla.repo.nii.ac.jp/,,200,error,,0.0,http://dwcla.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/2132,
+53,,,,gijodai.repo.nii.ac.jp/,2729,3781,jp,http://www.gijodai.ac.jp/,weko,109.0,institutional,https://gijodai.repo.nii.ac.jp/,,200,error,,73.0,http://gijodai.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3781,
+54,,,,ipu.repo.nii.ac.jp/,2287,3294,jp,http://www.iwate-pu.ac.jp/,weko,727.0,institutional,https://ipu.repo.nii.ac.jp/,,200,error,,434.0,http://ipu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3294,
+55,,,,jc.u-aizu.nii.ac.jp/,3899,6490,jp,http://www.jc.u-aizu.ac.jp/,weko,1321.0,institutional,https://jc.u-aizu.nii.ac.jp/,,ConnectionError,error,,68.0,http://jc.u-aizu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6490,
+56,,,,jiia.repo.nii.ac.jp/,3904,6515,jp,http://www2.jiia.or.jp,weko,1210.0,institutional,https://jiia.repo.nii.ac.jp/,,200,error,,79.0,http://jiia.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6515,
+57,,,,kdu.repo.nii.ac.jp/,2722,3774,jp,http://www.kdu.ac.jp/,weko,1246.0,institutional,https://kdu.repo.nii.ac.jp/,,200,error,,677.0,http://kdu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3774,
+58,https://konan-u.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Error,konan-u.repo.nii.ac.jp,2884,3950,jp,http://www.konan-u.ac.jp/,weko,3800.0,institutional,https://konan-u.repo.nii.ac.jp,,200,error,,2955.0,http://konan-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3950,
+59,,,,kwansei.repo.nii.ac.jp/,2811,3868,jp,http://www.kwansei.ac.jp/,weko,29556.0,institutional,https://kwansei.repo.nii.ac.jp/,,200,error,,12331.0,http://kwansei.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3868,
+60,,,,naist.repo.nii.ac.jp/,602,1068,jp,http://www.naist.jp/,weko,9874.0,institutional,https://naist.repo.nii.ac.jp/,,200,error,,,https://naist.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1068,
+61,,,,naragakuen.repo.nii.ac.jp/,2726,3778,jp,http://www.naragakuen-u.jp/,weko,3349.0,institutional,https://naragakuen.repo.nii.ac.jp/,,200,error,,2261.0,http://naragakuen.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3778,
+62,,,,nipr.repo.nii.ac.jp/,2330,3342,jp,http://www.nipr.ac.jp/,weko,15915.0,institutional,https://nipr.repo.nii.ac.jp/,,200,error,,14302.0,http://nipr.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3342,
+63,,,,oacis.repo.nii.ac.jp/,1188,1901,jp,http://www.kaiyodai.ac.jp/,weko,1973.0,institutional,https://oacis.repo.nii.ac.jp/,,200,error,,1728.0,http://oacis.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1901,
+64,https://opera.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Connection not private msg,opera.repo.nii.ac.jp,1164,1866,jp,http://www.osakafu-u.ac.jp/,weko,10942.0,institutional,https://opera.repo.nii.ac.jp,,ConnectionError,error,,,http://opera.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1866,
+65,,,,oups.repo.nii.ac.jp/,4069,7411,jp,https://www.oups.ac.jp,weko,180.0,institutional,https://oups.repo.nii.ac.jp/,,ConnectionError,error,,165.0,http://oups.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7411,
+66,,,,pu-toyama.repo.nii.ac.jp/,3860,6428,jp,https://www.pu-toyama.ac.jp/,weko,32.0,institutional,https://pu-toyama.repo.nii.ac.jp/,,200,error,,15.0,http://pu-toyama.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6428,
+67,,,,rikkyo.repo.nii.ac.jp/,2226,3222,jp,http://www.rikkyo.ac.jp/,weko,13543.0,institutional,https://rikkyo.repo.nii.ac.jp/,,200,error,,,http://rikkyo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3222,
+68,https://seijoh-u.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Error,seijoh-u.repo.nii.ac.jp,3975,6738,jp,http://www.seijoh-u.ac.jp,weko,287.0,institutional,https://seijoh-u.repo.nii.ac.jp,,200,error,,240.0,http://seijoh-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6738,
+69,,,,shikoku-u.repo.nii.ac.jp/,3954,6702,jp,https://www.shikoku-u.ac.jp,weko,540.0,institutional,https://shikoku-u.repo.nii.ac.jp/,,200,error,,418.0,http://shikoku-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6702,
+70,https://shizuoka.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Error,shizuoka.repo.nii.ac.jp,796,1380,jp,http://www.shizuoka.ac.jp/,weko,9362.0,institutional,https://shizuoka.repo.nii.ac.jp,,200,error,,,http://shizuoka.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1380,
+71,,,,shujitsu.repo.nii.ac.jp/,1194,1909,jp,http://www.shujitsu.ac.jp/,weko,362.0,institutional,https://shujitsu.repo.nii.ac.jp/,,200,error,,,http://shujitsu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1909,
+72,,,,sojo-u.repo.nii.ac.jp/,2203,3199,jp,http://www.lib.sojo-u.ac.jp/,weko,170.0,institutional,https://sojo-u.repo.nii.ac.jp/,,200,error,,,,https://v2.sherpa.ac.uk/id/repository/3199,
+73,https://sozo-air.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,sozo-air.repo.nii.ac.jp,4006,6830,jp,http://www.sozo.ac.jp,weko,500.0,institutional,https://sozo-air.repo.nii.ac.jp,,200,error,,399.0,http://sozo-air.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6830,
+74,,,,sugino-fc.repo.nii.ac.jp/,3929,6620,jp,https://www.sugino-fc.ac.jp,weko,1254.0,institutional,https://sugino-fc.repo.nii.ac.jp/,,200,error,,666.0,http://sugino-fc.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6620,
+75,https://tenshi.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Error,tenshi.repo.nii.ac.jp,3938,6669,jp,https://www.tenshi.ac.jp,weko,338.0,institutional,https://tenshi.repo.nii.ac.jp,,200,error,,323.0,http://tenshi.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6669,
+76,https://tiu-tijc.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Error,tiu-tijc.repo.nii.ac.jp,3853,6411,jp,http://www.tsukuba.ac.jp,weko,645.0,institutional,https://tiu-tijc.repo.nii.ac.jp,,200,error,,569.0,http://tiu-tijc.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6411,
+77,,,,toutan.repo.nii.ac.jp/,3883,6456,jp,http://www.toutan.ac.jp,weko,100.0,institutional,https://toutan.repo.nii.ac.jp/,,200,error,,1.0,http://toutan.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6456,
+78,,,,toyo.repo.nii.ac.jp/,3740,5735,jp,https://www.toyo.ac.jp,weko,10758.0,institutional,https://toyo.repo.nii.ac.jp/,,200,error,,3580.0,http://toyo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/5735,
+79,,,,tsuyama-nit.repo.nii.ac.jp/,1256,1980,jp,http://www.tsuyama-ct.ac.jp/,weko,902.0,institutional,https://tsuyama-nit.repo.nii.ac.jp/,,200,error,,0.0,http://tsuyama-nit.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1980,
+80,,,,tuat.repo.nii.ac.jp/,3871,6441,jp,https://www.tuat.ac.jp,weko,1848.0,institutional,https://tuat.repo.nii.ac.jp/,,200,error,,370.0,http://tuat.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6441,
+81,,,,tuis.repo.nii.ac.jp/,2220,3216,jp,http://www.tuis.ac.jp/,weko,596.0,institutional,https://tuis.repo.nii.ac.jp/,,200,error,,496.0,http://tuis.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3216,
+82,,,,tust.repo.nii.ac.jp/,2717,3769,jp,http://www.ntu.ac.jp/,weko,772.0,institutional,https://tust.repo.nii.ac.jp/,,200,error,,246.0,http://tust.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3769,
+83,,,,uekusa.repo.nii.ac.jp/,3835,6346,jp,https://www.uekusa.ac.jp,weko,506.0,institutional,https://uekusa.repo.nii.ac.jp/,,200,error,,423.0,http://uekusa.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6346,
+84,,,,amcor.asahikawa-med.ac.jp,517,952,jp,http://www.asahikawa-med.ac.jp/,xoonips,5978.0,institutional,http://amcor.asahikawa-med.ac.jp,,200,No software search,,,http://amcor.asahikawa-med.ac.jp/modules/xoonips/oai.php,https://v2.sherpa.ac.uk/id/repository/952,
+85,,,,bud.beppu-u.ac.jp,1239,1959,jp,http://www.beppu-u.ac.jp/,xoonips,4432.0,institutional,http://bud.beppu-u.ac.jp,,200,No software search,,,http://bud.beppu-u.ac.jp/modules/xoonips/oai.php,https://v2.sherpa.ac.uk/id/repository/1959,
+86,,,,digital-archives.sophia.ac.jp/repository/?lang=en,1225,1944,jp,http://www.sophia.ac.jp/,amlad,21156.0,institutional,http://digital-archives.sophia.ac.jp/repository/?lang=en,0.0,200,No software search,,,http://digital-archives.sophia.ac.jp/amlad-oai/repository/oaipmh,https://v2.sherpa.ac.uk/id/repository/1944,AMLAD
+87,,,,harpir.cc.it-hiroshima.ac.jp/xoops/html/modules/xoonips/,595,1060,jp,http://harp.lib.hiroshima-u.ac.jp/haul/index.html,xoonips,29.0,institutional,http://harpir.cc.it-hiroshima.ac.jp/xoops/html/modules/xoonips/,,ConnectionError,No software search,,,,https://v2.sherpa.ac.uk/id/repository/1060,
+88,,,,ir.tdc.ac.jp/?locale=en,593,1058,jp,http://www.tdc.ac.jp/,dspace,4305.0,institutional,http://ir.tdc.ac.jp/?locale=en,,ConnectionError,No software search,,6.0,http://ir.tdc.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1058,
+89,,,,iroha.scitech.lib.keio.ac.jp:8080/sigma/,579,1043,jp,http://www.keio.ac.jp/,,2961.0,institutional,http://iroha.scitech.lib.keio.ac.jp:8080/sigma/,,200,No software search,,0.0,http://iroha.scitech.lib.keio.ac.jp/oai/request,https://v2.sherpa.ac.uk/id/repository/1043,
+90,,,,repo.beppu-u.ac.jp,1212,1930,jp,http://www.beppu-u.ac.jp/,xoonips,4983.0,institutional,http://repo.beppu-u.ac.jp,,200,No software search,,,http://repo.beppu-u.ac.jp/modules/xoonips/oai.php,https://v2.sherpa.ac.uk/id/repository/1930,
+91,,,,repo.nara-u.ac.jp,1223,1942,jp,http://www.nara-u.ac.jp/,xoonips,3818.0,institutional,http://repo.nara-u.ac.jp,,200,No software search,,81.0,http://repo.nara-u.ac.jp/modules/xoonips/oai.php,https://v2.sherpa.ac.uk/id/repository/1942,
+92,http://hsuh.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,No software search,hsuh.repo.nii.ac.jp,2388,3402,jp,http://www.hoku-iryo-u.ac.jp/,weko,3502.0,institutional,http://hsuh.repo.nii.ac.jp,,ConnectionError,No software search,,,http://hsuh.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3402,
+93,https://ismrepo.ism.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,No software search,ismrepo.ism.ac.jp,4048,7151,jp,http://www.kurims.kyoto-u.ac.jp,weko,34137.0,institutional,https://ismrepo.ism.ac.jp,,200,No software search,,2793.0,http://ismrepo.ism.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7151,
+94,,,,iwatemed.repo.nii.ac.jp/,1967,2904,jp,http://www.iwate-med.ac.jp/,weko,5493.0,institutional,https://iwatemed.repo.nii.ac.jp/,,200,No software search,,,http://iwatemed.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/2904,
+95,,,,jpf.repo.nii.ac.jp/,3905,6516,jp,https://www.jpf.org.uk,weko,812.0,institutional,https://jpf.repo.nii.ac.jp/,,200,No software search,,491.0,http://jpf.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6516,
+96,https://mgu.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,No software search,mgu.repo.nii.ac.jp,3284,4432,jp,https://www.mgu.ac.jp/,weko,,institutional,https://mgu.repo.nii.ac.jp,,200,No software search,,,http://mgu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/4432,
+97,,,,muroran-it.repo.nii.ac.jp/,586,1051,jp,http://www.muroran-it.ac.jp/,weko,3540.0,institutional,https://muroran-it.repo.nii.ac.jp/,,200,No software search,,,http://muroran-it.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1051,
+98,,,,sitereports.nabunken.go.jp/en,585,1050,jp,http://www.nabunken.go.jp/,独自,45.0,institutional,http://sitereports.nabunken.go.jp/en,,200,not academic repo,,,http://sitereports.nabunken.go.jp/api/oai/request,https://v2.sherpa.ac.uk/id/repository/1050,独自
+99,,,,www.pdbj.org/,2013,2962,jp,http://pdbj.org/,,131205.0,institutional,http://www.pdbj.org/,,200,not academic repo,,,,https://v2.sherpa.ac.uk/id/repository/2962,
+100,,,,momat.repo.nii.ac.jp/,4810,9909,jp,https://www.momat.go.jp/english/,weko,,institutional,https://momat.repo.nii.ac.jp/,,200,not academic repo,,,http://momat.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9909,
+101,,,,arch.luke.ac.jp,3930,6633,jp,http://university.luke.ac.jp/,dspace,,institutional,http://arch.luke.ac.jp,,ConnectionError,,,,http://arch.luke.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/6633,
+102,,,,archives.bukkyo-u.ac.jp/repository/baker/,4786,9880,jp,https://www.bukkyo-u.ac.jp/,infolib,,institutional,http://archives.bukkyo-u.ac.jp/repository/baker/,,200,,,,http://archives.bukkyo-u.ac.jp/il4/oai_repository/pmh/G0000019-repository,https://v2.sherpa.ac.uk/id/repository/9880,Infolib
+103,http://cit.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,cit.repo.nii.ac.jp,4782,9876,jp,https://www.it-chiba.ac.jp/,weko,,institutional,http://cit.repo.nii.ac.jp,,200,,,,http://cit.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9876,
+104,,,,eprints.lib.hokudai.ac.jp,3709,5483,jp,https://www.global.hokudai.ac.jp/,eprints,68294.0,institutional,http://eprints.lib.hokudai.ac.jp,,200,,,150.0,http://eprints.lib.hokudai.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/5483,
+105,,,,eprints.lib.okayama-u.ac.jp/,578,1042,jp,http://www.okayama-u.ac.jp/,eprints,14443.0,institutional,http://eprints.lib.okayama-u.ac.jp/,,200,,,,http://eprints.lib.okayama-u.ac.jp/cgi/oai2,https://v2.sherpa.ac.uk/id/repository/1042,
+106,http://fukuyama-u.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,fukuyama-u.repo.nii.ac.jp,4334,8671,jp,http://www.fukuyama-u.ac.jp,weko,8905.0,institutional,http://fukuyama-u.repo.nii.ac.jp,,200,,,3530.0,http://fukuyama-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8671,
+107,,,,ginmu.naramed-u.ac.jp/,1061,1733,jp,http://www.naramed-u.ac.jp/,dspace,3399.0,institutional,http://ginmu.naramed-u.ac.jp/,,200,,,27.0,http://ginmu.naramed-u.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1733,
+108,,,,harp.lib.hiroshima-u.ac.jp/,594,1059,jp,http://harp.lib.hiroshima-u.ac.jp/haul/index.html,dspace,1909.0,institutional,http://harp.lib.hiroshima-u.ac.jp/,,200,,,750.0,http://harp.lib.hiroshima-u.ac.jp/hijiyama-u/oai/request,https://v2.sherpa.ac.uk/id/repository/1059,
+109,,,,harp.lib.hiroshima-u.ac.jp/,2241,3238,jp,http://www.hue.ac.jp/,earmas,1650.0,institutional,http://harp.lib.hiroshima-u.ac.jp/,,200,,,1465.0,http://harp.lib.hiroshima-u.ac.jp/hue/oai/request,https://v2.sherpa.ac.uk/id/repository/3238,
+110,,,,harp.lib.hiroshima-u.ac.jp/,2321,3332,jp,http://www.pu-hiroshima.ac.jp/soshiki/47/01-en.html,earmas,1380.0,institutional,http://harp.lib.hiroshima-u.ac.jp/,,200,,,337.0,http://harp.lib.hiroshima-u.ac.jp/pu-hiroshima/oai/request,https://v2.sherpa.ac.uk/id/repository/3332,
+111,,,,hermes-ir.lib.hit-u.ac.jp/da/,4773,9865,jp,https://www.hit-u.ac.jp/eng/,dspace,,institutional,http://hermes-ir.lib.hit-u.ac.jp/da/,,200,,,,http://hermes-ir.lib.hit-u.ac.jp/da-oai/request,https://v2.sherpa.ac.uk/id/repository/9865,
+112,,,,hermes-ir.lib.hit-u.ac.jp/rs/,576,1040,jp,http://www.hit-u.ac.jp/,dspace,25572.0,institutional,http://hermes-ir.lib.hit-u.ac.jp/rs/,,200,,,1.0,http://hermes-ir.lib.hit-u.ac.jp/rs-oai/request,https://v2.sherpa.ac.uk/id/repository/1040,
+113,,,,hokuga.hgu.jp/,4772,9864,jp,https://www.hgu.jp/,dspace,,institutional,http://hokuga.hgu.jp/,,200,,,,http://hokuga.hgu.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/9864,
+114,,,,hokuga.hgu.jp/,4815,9914,jp,http://www.hokkai.ac.jp/,dspace,,institutional,http://hokuga.hgu.jp/,,200,,,,http://hokuga.hgu.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/9914,
+115,,,,ir-lib.wilmina.ac.jp/dspace/,1210,1927,jp,http://www.wilmina.ac.jp/ojc,dspace,2623.0,institutional,http://ir-lib.wilmina.ac.jp/dspace/,,200,,,,http://ir-lib.wilmina.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1927,
+116,,,,ir.jwcpe.ac.jp/,4766,9857,jp,https://www.jwcpe.ac.jp/,dspace,,institutional,http://ir.jwcpe.ac.jp/,,ConnectionError,,,,http://ir.jwcpe.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/9857,
+117,,,,ir.lib.miyazaki-u.ac.jp/dspace/,564,1023,jp,http://www.miyazaki-u.ac.jp/,e lib,4164.0,institutional,http://ir.lib.miyazaki-u.ac.jp/dspace/,,ConnectionError,,,0.0,http://opac2.lib.miyazaki-u.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/1023,e-Lib
+118,,,,ir.lib.shimane-u.ac.jp/en,577,1041,jp,http://www.shimane-u.ac.jp/,earmas,9022.0,institutional,http://ir.lib.shimane-u.ac.jp/en,,200,,,,http://ir.lib.shimane-u.ac.jp/api/oai/request,https://v2.sherpa.ac.uk/id/repository/1041,e-Repository
+119,,,,ir.lib.u-ryukyu.ac.jp/ir/repo_top_en.htm,592,1057,jp,http://www.u-ryukyu.ac.jp/,nalis r,11481.0,institutional,http://ir.lib.u-ryukyu.ac.jp/ir/repo_top_en.htm,,ConnectionError,,,3.0,http://ir.lib.u-ryukyu.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1057,NALIS-R
+120,,,,ir.soken.ac.jp/,1233,1953,jp,http://www.soken.ac.jp/,weko,5999.0,institutional,http://ir.soken.ac.jp/,,200,,,491.0,http://ir.soken.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1953,
+121,,,,jwu.repo.nii.ac.jp/oai,4269,8308,jp,http://www.jwu.ac.jp/eng.html,weko,3250.0,institutional,http://jwu.repo.nii.ac.jp/oai,,200,,,1889.0,http://jwu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8308,
+122,,,,kintore.hosplib.info/dspace/index.jsp?locale=en,4758,9849,jp,https://www.hosplib.info/,dspace,,institutional,http://kintore.hosplib.info/dspace/index.jsp?locale=en,,200,,,,http://kintore.hosplib.info/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/9849,
+123,,,,kochireha.repo.nii.ac.jp/,2281,3287,jp,http://www.kochi-reha.ac.jp/,weko,158.0,institutional,http://kochireha.repo.nii.ac.jp/,,200,,,,http://kochireha.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3287,WECO
+124,http://kuis.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,kuis.repo.nii.ac.jp,3378,4539,jp,http://www.kandagaigo.ac.jp/kuis/,weko,,institutional,http://kuis.repo.nii.ac.jp,,200,,,,http://kuis.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/4539,
+125,,,,lib.kait.jp/?page_id=1044,1195,1910,jp,http://www.kait.jp/,iliswave j,947.0,institutional,http://lib.kait.jp/?page_id=1044,,ConnectionError,,,,http://202.250.70.181/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/1910,iLiswave-J
+126,,,,libir-bw.bss.ac.jp/jspui/,1414,2178,jp,http://www.bss.ac.jp/,dspace,2573.0,institutional,http://libir-bw.bss.ac.jp/jspui/,,ConnectionError,,,7.0,http://libir-bw.bss.ac.jp/oai/request,https://v2.sherpa.ac.uk/id/repository/2178,
+127,,,,library.med.juntendo.ac.jp/il4/meta_pub/G0000002gakui,4763,9854,jp,https://en.juntendo.ac.jp/,infolib,,institutional,http://library.med.juntendo.ac.jp/il4/meta_pub/G0000002gakui,,200,,,,http://library.med.juntendo.ac.jp/il4/oai_repository/pmh/G0000002-repository,https://v2.sherpa.ac.uk/id/repository/9854,InfoLib
+128,http://Meisandai.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,Meisandai.repo.nii.ac.jp,2227,3223,jp,http://www.lib.nagoya-su.ac.jp/,weko,532.0,institutional,http://Meisandai.repo.nii.ac.jp,,200,,,197.0,http://meisandai.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3223,
+129,,,,nebuta.repo.nii.ac.jp/,4472,9335,jp,https://www.nebuta.ac.jp,weko,338.0,institutional,http://nebuta.repo.nii.ac.jp/,,200,,,320.0,http://nebuta.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9335,
+130,,,,nifs-repository.repo.nii.ac.jp/,2719,3771,jp,http://www.nifs.ac.jp/,weko,10501.0,institutional,http://nifs-repository.repo.nii.ac.jp/,,200,,,9133.0,http://nifs-repository.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3771,
+131,,,,nvlu.repo.nii.ac.jp/,4111,7545,jp,https://www.nvlu.ac.jp,weko,248.0,institutional,http://nvlu.repo.nii.ac.jp/,,200,,,199.0,http://nvlu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7545,
+132,,,,opac.daito.ac.jp/repo/repository/daito/?lang=0,4781,9875,jp,https://www.daito.ac.jp/english/,e repository,,institutional,http://opac.daito.ac.jp/repo/repository/daito/?lang=0,,200,,,,http://opac.daito.ac.jp/repo/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/9875,E-Repository
+133,,,,opac.lib.oita-u.ac.jp/?page_id=211,591,1056,jp,http://www.oita-u.ac.jp/,iliswave j,11003.0,institutional,http://opac.lib.oita-u.ac.jp/?page_id=211,,200,,,0.0,http://opac2.lib.oita-u.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/1056,iLiswave-J
+134,,,,ousar.lib.okayama-u.ac.jp,1163,1864,jp,http://www.okayama-u.ac.jp/,earmas,37862.0,institutional,http://ousar.lib.okayama-u.ac.jp,,200,,,,http://ousar.lib.okayama-u.ac.jp/oai/Request,https://v2.sherpa.ac.uk/id/repository/1864,
+135,,,,petit.lib.yamaguchi-u.ac.jp/eng/,601,1067,jp,http://www.yamaguchi-u.ac.jp/,earmas,25448.0,institutional,http://petit.lib.yamaguchi-u.ac.jp/eng/,,200,,,959.0,http://petit.lib.yamaguchi-u.ac.jp/infolib/oai_repository/repository,https://v2.sherpa.ac.uk/id/repository/1067,
+136,,,,r-cube.ritsumei.ac.jp/?locale=en,782,1359,jp,http://www.ritsumei.jp/,dspace,9996.0,institutional,http://r-cube.ritsumei.ac.jp/?locale=en,,200,,,2537.0,http://r-cube.ritsumei.ac.jp/repo/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/1359,
+137,,,,repo.komazawa-u.ac.jp/opac/repository/all/,4755,9845,jp,https://www.komazawa-u.ac.jp/,e cats,,institutional,http://repo.komazawa-u.ac.jp/opac/repository/all/,,200,,,,http://repo.komazawa-u.ac.jp/opac/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/9845,E-CatsLibrary
+138,,,,repo.kyoto-wu.ac.jp/dspace/index.jsp?locale=en,2201,3197,jp,http://www.kyoto-wu.ac.jp/,dspace,2133.0,institutional,http://repo.kyoto-wu.ac.jp/dspace/index.jsp?locale=en,,200,,,,http://repo.kyoto-wu.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/3197,
+139,,,,repo.tsm.toyama.toyama.jp/,3372,4533,jp,http://www.tsm.toyama.toyama.jp/,weko,,institutional,http://repo.tsm.toyama.toyama.jp/,,200,,,,http://repo.tsm.toyama.toyama.jp/oai,https://v2.sherpa.ac.uk/id/repository/4533,
+140,,,,reposit.sun.ac.jp/dspace/,1209,1926,jp,http://sun.ac.jp/,dspace,990.0,institutional,http://reposit.sun.ac.jp/dspace/,,200,,,,http://reposit.sun.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1926,
+141,,,,repository.aitech.ac.jp/dspace/index.jsp?locale=en,4797,9891,jp,https://www.ait.ac.jp/e/,dspace,,institutional,http://repository.aitech.ac.jp/dspace/index.jsp?locale=en,,200,,,,http://repository.aitech.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/9891,
+142,,,,repository.center.wakayama-u.ac.jp/,3367,4527,jp,http://wakayama-u.ac.jp,earmas,,institutional,http://repository.center.wakayama-u.ac.jp/,,200,,,,http://repository.center.wakayama-u.ac.jp/api/oai/request,https://v2.sherpa.ac.uk/id/repository/4527,
+143,,,,repository.fukujo.ac.jp/dspace,4337,8675,jp,https://www.fukujo.ac.jp,dspace,692.0,institutional,http://repository.fukujo.ac.jp/dspace,,200,,,231.0,http://repository.fukujo.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/8675,
+144,,,,repository.ipu-japan.ac.jp/,825,1416,jp,http://www.ipu-japan.jp/,earmas,361.0,institutional,http://repository.ipu-japan.ac.jp/,,ConnectionError,,,233.0,http://repository.ipu-japan.ac.jp/oai/Request,https://v2.sherpa.ac.uk/id/repository/1416,
+145,,,,repository.kulib.kyoto-u.ac.jp/dspace/?locale=en,491,916,jp,http://www.kyoto-u.ac.jp/,dspace,218454.0,institutional,http://repository.kulib.kyoto-u.ac.jp/dspace/?locale=en,,200,,,143533.0,http://repository.kulib.kyoto-u.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/916,
+146,,,,repository.kyusan-u.ac.jp/dspace/index.jsp?locale=en,2253,3252,jp,http://www.kyusan-u.ac.jp/,dspace,7106.0,institutional,http://repository.kyusan-u.ac.jp/dspace/index.jsp?locale=en,,200,,,,http://repository.kyusan-u.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/3252,
+147,,,,repository.lib.gifu-u.ac.jp/?lang=en,589,1054,jp,http://www.gifu-u.ac.jp/,nalis r,10973.0,institutional,http://repository.lib.gifu-u.ac.jp/?lang=en,,200,,,0.0,http://repository.lib.gifu-u.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1054,NALIS-R(DSpace)
+148,,,,repository.lib.kit.ac.jp/repo/repository/10212/,597,1062,jp,http://www.kit.ac.jp/,e cats,701.0,institutional,http://repository.lib.kit.ac.jp/repo/repository/10212/,,200,,,0.0,http://repository.lib.kit.ac.jp/repo/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/1062,E-CatsLibrary
+149,,,,repository.musashi.ac.jp/dspace/index.jsp?locale=en,2318,3329,jp,http://www.musashi.ac.jp/english/index.html,dspace,1637.0,institutional,http://repository.musashi.ac.jp/dspace/index.jsp?locale=en,,200,,,,,https://v2.sherpa.ac.uk/id/repository/3329,
+150,,,,repository.nabunken.go.jp/dspace/index.jsp?locale=en,1257,1981,jp,http://www.nabunken.go.jp/,dspace,7079.0,institutional,http://repository.nabunken.go.jp/dspace/index.jsp?locale=en,,200,,,222.0,http://repository.nabunken.go.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1981,
+151,,,,repository.nihon-u.ac.jp/xmlui/,4739,9825,jp,https://www.nihon-u.ac.jp/,dspace,,institutional,http://repository.nihon-u.ac.jp/xmlui/,,200,,,,http://dspace.cin.nihon-u.ac.jp/oai/request,https://v2.sherpa.ac.uk/id/repository/9825,
+152,,,,repository.ris.ac.jp/dspace/index.jsp?locale=en,4018,6884,jp,http://www.ris.ac.jp/en/,dspace,5829.0,institutional,http://repository.ris.ac.jp/dspace/index.jsp?locale=en,,ConnectionError,,,546.0,http://repository.ris.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/6884,
+153,,,,repository.seikei.ac.jp/,2361,3375,jp,http://www.seikei.ac.jp/university/,dspace,1137.0,institutional,http://repository.seikei.ac.jp/,,200,,,2.0,http://repository.seikei.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/3375,
+154,,,,repository.seinan-gu.ac.jp,3974,6737,jp,http://www.seinan-gu.ac.jp/eng/,dspace,,institutional,http://repository.seinan-gu.ac.jp,,200,,,,http://repository.seinan-gu.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/6737,
+155,,,,repository.tokaigakuen-u.ac.jp/dspace,3880,6453,jp,https://www.tokaigakuen-u.ac.jp,dspace,1132.0,institutional,http://repository.tokaigakuen-u.ac.jp/dspace,,200,,,14.0,http://repository.tokaigakuen-u.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/6453,
+156,,,,repository.tufs.ac.jp/doc/index_e.html,555,1007,jp,http://www.tufs.ac.jp/,dspace,7477.0,institutional,http://repository.tufs.ac.jp/doc/index_e.html,,200,,,2277.0,http://repository.tufs.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1007,
+157,,,,rp-kumakendai.pu-kumamoto.ac.jp/dspace/?locale=en,4731,9814,jp,https://www.pu-kumamoto.ac.jp/,dspace,,institutional,http://rp-kumakendai.pu-kumamoto.ac.jp/dspace/?locale=en,,200,,,,http://rp-kumakendai.pu-kumamoto.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/9814,
+158,http://ryuka.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,ryuka.repo.nii.ac.jp,3799,6135,jp,https://www.umds.ac.jp,weko,1441.0,institutional,http://ryuka.repo.nii.ac.jp,,200,,,75.0,http://ryuka.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6135,
+159,,,,trail.tsuru.ac.jp/dspace/,4708,9784,jp,https://www.tsuru.ac.jp/,dspace,,institutional,http://trail.tsuru.ac.jp/dspace/,,200,,,,http://trail.tsuru.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/9784,
+160,http://urawa.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,urawa.repo.nii.ac.jp,3778,6059,jp,http://www.urawa.ac.jp/,weko,291.0,institutional,http://urawa.repo.nii.ac.jp,,200,,,236.0,http://urawa.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6059,
+161,,,,usprepo.office.usp.ac.jp/?locale=en,4721,9799,jp,https://www.usp.ac.jp/english/,dspace,,institutional,http://usprepo.office.usp.ac.jp/?locale=en,,200,,,,http://usprepo.office.usp.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/9799,
+162,,,,www.lib.fukushima-u.ac.jp/repo/repository/fukuro/,1187,1898,jp,http://www.fukushima-u.ac.jp/,e repository,4344.0,institutional,http://www.lib.fukushima-u.ac.jp/repo/repository/fukuro/,,200,,,0.0,http://www.lib.fukushima-u.ac.jp/repo/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/1898,E-Repository
+163,,,,ypir.lib.yamaguchi-u.ac.jp/fu/,4742,9831,jp,https://www.fish-u.ac.jp/e-index.html,earmas,,institutional,http://ypir.lib.yamaguchi-u.ac.jp/fu/,,200,,,,http://ypir.lib.yamaguchi-u.ac.jp/fu/oai/Request,https://v2.sherpa.ac.uk/id/repository/9831,
+164,,,,ypir.lib.yamaguchi-u.ac.jp/uf/,4707,9783,jp,https://www.frontier-u.jp/,earmas,,institutional,http://ypir.lib.yamaguchi-u.ac.jp/uf/,,200,,,,http://ypir.lib.yamaguchi-u.ac.jp/uf/oai/Request,https://v2.sherpa.ac.uk/id/repository/9783,
+165,,,,ypir.lib.yamaguchi-u.ac.jp/yg/,4703,9778,jp,https://www.yamaguchi-u.ac.jp/,earmas,,institutional,http://ypir.lib.yamaguchi-u.ac.jp/yg/,,200,,,,http://ypir.lib.yamaguchi-u.ac.jp/yg/oai/Request,https://v2.sherpa.ac.uk/id/repository/9778,
+166,,,,ypir.lib.yamaguchi-u.ac.jp/yp/,4702,9777,jp,https://www.yamaguchi-pu.ac.jp/,earmas,,institutional,http://ypir.lib.yamaguchi-u.ac.jp/yp/,,200,,,,http://ypir.lib.yamaguchi-u.ac.jp/yp/oai/Request,https://v2.sherpa.ac.uk/id/repository/9777,
+167,,,,acguacjc.repo.nii.ac.jp/,4801,9898,jp,http://intra.aomoricgu.ac.jp/english/,weko,,institutional,https://acguacjc.repo.nii.ac.jp/,,200,,,,http://acguacjc.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9898,
+168,,,,agi.repo.nii.ac.jp/,2553,3589,jp,http://www.agi.or.jp/,weko,110.0,institutional,https://agi.repo.nii.ac.jp/,,200,,,,http://agi.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3589,
+169,,,,ai-arts.repo.nii.ac.jp/,4792,9886,jp,https://www.aichi-fam-u.ac.jp/english/,weko,,institutional,https://ai-arts.repo.nii.ac.jp/,,200,,,,http://ai-arts.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9886,
+170,,,,aichi-pu.repo.nii.ac.jp/,4796,9890,jp,https://www.aichi-pu.ac.jp/eng/,weko,,institutional,https://aichi-pu.repo.nii.ac.jp/,,200,,,,http://aichi-pu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9890,
+171,,,,aichi-toho.repo.nii.ac.jp/,4794,9888,jp,https://www.aichi-toho.ac.jp/,weko,,institutional,https://aichi-toho.repo.nii.ac.jp/,,200,,,,http://aichi-toho.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9888,
+172,,,,aichiu.repo.nii.ac.jp/,4793,9887,jp,https://www.aichi-u.ac.jp/english,weko,,institutional,https://aichiu.repo.nii.ac.jp/,,200,,,,http://aichiu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9887,
+173,,,,aikoku-u.repo.nii.ac.jp/,4791,9885,jp,https://www.aikoku-u.ac.jp/jp,weko,,institutional,https://aikoku-u.repo.nii.ac.jp/,,200,,,,http://aikoku-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9885,
+174,https://aino.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,aino.repo.nii.ac.jp,4808,9906,jp,http://univ.aino.ac.jp/english/,weko,,institutional,https://aino.repo.nii.ac.jp,,200,,,,http://aino.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9906,
+175,,,,air.repo.nii.ac.jp/,967,1602,jp,http://www.akita-u.ac.jp/honbu/,weko,5276.0,institutional,https://air.repo.nii.ac.jp/,,200,,,43.0,http://air.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1602,
+176,https://akibi.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,akibi.repo.nii.ac.jp,3338,4494,jp,http://www.akibi.ac.jp/index.html,weko,,institutional,https://akibi.repo.nii.ac.jp,,200,,,,http://akibi.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/4494,
+177,,,,akita-pu.repo.nii.ac.jp/,2217,3213,jp,http://www.akita-pu.ac.jp/index.htm,weko,542.0,institutional,https://akita-pu.repo.nii.ac.jp/,,200,,,,http://akita-pu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3213,
+178,,,,akita.repo.nii.ac.jp/,2899,3970,jp,https://akira.repo.nii.ac.jp/,weko,,institutional,https://akita.repo.nii.ac.jp/,,200,,,,http://akita.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3970,
+179,,,,asahi-u.repo.nii.ac.jp/,4467,9314,jp,http://asahibekka-english.mystrikingly.com/,weko,11494.0,institutional,https://asahi-u.repo.nii.ac.jp/,,200,,,132.0,http://asahi-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9314,
+180,,,,ashitech.repo.nii.ac.jp/,4465,9312,jp,http://www.ashitech.ac.jp,weko,149.0,institutional,https://ashitech.repo.nii.ac.jp/,,200,,,100.0,http://ashitech.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9312,
+181,https://asia-u.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,asia-u.repo.nii.ac.jp,4789,9883,jp,https://www.asia-u.ac.jp/,weko,,institutional,https://asia-u.repo.nii.ac.jp,,200,,,,http://asia-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9883,
+182,https://asia-u.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,asia-u.repo.nii.ac.jp,4789,9883,jp,https://www.asia-u.ac.jp/,weko,,institutional,https://asia-u.repo.nii.ac.jp,,200,,,,http://asia-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9883,
+183,,,,aska-r.repo.nii.ac.jp/,4795,9889,jp,https://www.aasa.ac.jp/english/,weko,,institutional,https://aska-r.repo.nii.ac.jp/,,200,,,,http://aska-r.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9889,
+184,,,,atomi.repo.nii.ac.jp/,4464,9292,jp,http://www.atomi.ac.jp,weko,3663.0,institutional,https://atomi.repo.nii.ac.jp/,,200,,,3247.0,https://atomi.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9292,
+185,,,,aue.repo.nii.ac.jp/,1197,1914,jp,http://www.aichi-edu.ac.jp/,weko,8100.0,institutional,https://aue.repo.nii.ac.jp/,,200,,,53.0,http://aue.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1914,
+186,https://auhw.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,auhw.repo.nii.ac.jp,4790,9884,jp,http://www.auhw.ac.jp/,weko,,institutional,https://auhw.repo.nii.ac.jp,,200,,,,http://auhw.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9884,
+187,,,,aulib.repo.nii.ac.jp/,4466,9313,jp,https://www.asahikawa-u.ac.jp/,weko,946.0,institutional,https://aulib.repo.nii.ac.jp/,,200,,,270.0,http://aulib.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9313,
+188,,,,az.repo.nii.ac.jp/,4461,9278,jp,https://www.azabu-u.ac.jp,weko,4038.0,institutional,https://az.repo.nii.ac.jp/,,200,,,661.0,http://az.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9278,
+189,,,,baika.repo.nii.ac.jp/,4788,9882,jp,https://www.baika.ac.jp/english/,weko,,institutional,https://baika.repo.nii.ac.jp/,,200,,,,http://baika.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9882,
+190,,,,barrel.repo.nii.ac.jp/,614,1088,jp,http://www.otaru-uc.ac.jp/,weko,5395.0,institutional,https://barrel.repo.nii.ac.jp/,,200,,,2690.0,http://barrel.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1088,
+191,,,,budo-u.repo.nii.ac.jp/,4278,8430,jp,http://www.budo-u.ac.jp,weko,25.0,institutional,https://budo-u.repo.nii.ac.jp/,,200,,,12.0,http://budo-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8430,
+192,https://bunkyo.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Error,bunkyo.repo.nii.ac.jp,4785,9879,jp,https://www.bunkyo.ac.jp/,weko,,institutional,https://bunkyo.repo.nii.ac.jp,,200,,,,http://bunkyo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9879,
+193,https://cgu.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,cgu.repo.nii.ac.jp,4424,9086,jp,https://www.cgu.ac.jp,weko,1811.0,institutional,https://cgu.repo.nii.ac.jp,,ConnectionError,,,716.0,http://cgu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9086,
+194,,,,chikushi-u.repo.nii.ac.jp/,4429,9096,jp,https://www.chikushi.ac.jp,weko,55.0,institutional,https://chikushi-u.repo.nii.ac.jp/,,200,,,,http://chikushi-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9096,
+195,,,,chikyu.repo.nii.ac.jp/,2720,3772,jp,http://www.chikyu.ac.jp/,weko,4139.0,institutional,https://chikyu.repo.nii.ac.jp/,,200,,,2687.0,http://chikyu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3772,
+196,,,,chiyoda.repo.nii.ac.jp/,4081,7424,jp,https://www.chiyoda.ac.jp/,weko,98.0,institutional,https://chiyoda.repo.nii.ac.jp/,,200,,,70.0,http://chiyoda.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7424,
+197,,,,chubu-gu.repo.nii.ac.jp/,4427,9089,jp,https://www.chubu-gu.ac.jp/,weko,534.0,institutional,https://chubu-gu.repo.nii.ac.jp/,,200,,,347.0,http://chubu-gu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9089,
+198,,,,chukyo-u.repo.nii.ac.jp/,4426,9088,jp,https://www.chukyo-u.ac.jp/english/,weko,18358.0,institutional,https://chukyo-u.repo.nii.ac.jp/,,ConnectionError,,,9568.0,http://chukyo-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9088,
+199,https://chukyogakuin.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,chukyogakuin.repo.nii.ac.jp,4425,9087,jp,http://www.chukyogakuin-u.ac.jp,weko,329.0,institutional,https://chukyogakuin.repo.nii.ac.jp,,200,,,8.0,http://chukyogakuin.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9087,
+200,,,,chuo-u.repo.nii.ac.jp/,4423,9085,jp,https://www.chuo-u.ac.jp/,weko,9502.0,institutional,https://chuo-u.repo.nii.ac.jp/,,200,,,4067.0,http://chuo-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9085,
+201,,,,cis.repo.nii.ac.jp/,4783,9877,jp,https://www.cis.ac.jp/en/index.html,weko,,institutional,https://cis.repo.nii.ac.jp/,,200,,,,http://cis.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9877,
+202,,,,cist.repo.nii.ac.jp/,4428,9093,jp,https://www.chitose.ac.jp,weko,660.0,institutional,https://cist.repo.nii.ac.jp/,,200,,,296.0,http://cist.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9093,
+203,,,,codh.repo.nii.ac.jp/,4784,9878,jp,http://codh.rois.ac.jp/index.html.en,weko,,institutional,https://codh.repo.nii.ac.jp/,,200,,,,http://codh.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9878,
+204,,,,cuc.repo.nii.ac.jp/,4430,9097,jp,https://www.cuc.ac.jp,weko,5809.0,institutional,https://cuc.repo.nii.ac.jp/,,200,,,2267.0,http://cuc.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9097,
+205,,,,cygnus.repo.nii.ac.jp/,3863,6432,jp,https://www.tcn.ac.jp,weko,325.0,institutional,https://cygnus.repo.nii.ac.jp/,,ConnectionError,,,127.0,http://cygnus.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6432,
+206,,,,da.lib.kobe-u.ac.jp/da/kernel/?lang=1,510,943,jp,http://www.kobe-u.ac.jp/,e cats,348736.0,institutional,https://da.lib.kobe-u.ac.jp/da/kernel/?lang=1,,200,,,,https://da.lib.kobe-u.ac.jp/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/943,E-cats
+207,,,,daiichi-cps.repo.nii.ac.jp/,4400,8991,jp,http://www.daiichi-cps.ac.jp,weko,67.0,institutional,https://daiichi-cps.repo.nii.ac.jp/,,200,,,52.0,http://daiichi-cps.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8991,
+208,,,,daiichi-koudai.repo.nii.ac.jp/,4401,8992,jp,http://www.daiichi-koudai.ac.jp,weko,603.0,institutional,https://daiichi-koudai.repo.nii.ac.jp/,,200,,,,http://daiichi-koudai.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8992,
+209,https://dcu.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,dcu.repo.nii.ac.jp,4399,8979,jp,https://www.dcu.ac.jp,weko,638.0,institutional,https://dcu.repo.nii.ac.jp,,200,,,616.0,http://dcu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8979,
+210,,,,dlisv03.media.osaka-cu.ac.jp/il/meta_pub/engG0000438repository,1220,1939,jp,http://www.osaka-cu.ac.jp/,infolib,15815.0,institutional,https://dlisv03.media.osaka-cu.ac.jp/il/meta_pub/engG0000438repository,,200,,,9056.0,https://dlisv03.media.osaka-cu.ac.jp/il/oai_repository/pmh/G0000438-repository,https://v2.sherpa.ac.uk/id/repository/1939,InfoLibクラウドサービス
+211,https://dmu.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,dmu.repo.nii.ac.jp,4358,8905,jp,https://www.dokkyomed.ac.jp/dmu,weko,2204.0,institutional,https://dmu.repo.nii.ac.jp,,200,,,1853.0,http://dmu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8905,
+212,,,,do-bunkyodai.repo.nii.ac.jp/,4302,8577,jp,http://www.do-bunkyodai.ac.jp,weko,860.0,institutional,https://do-bunkyodai.repo.nii.ac.jp/,,200,,,120.0,http://do-bunkyodai.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8577,
+213,,,,doho.repo.nii.ac.jp/,4359,8906,jp,https://www.doho.ac.jp,weko,2264.0,institutional,https://doho.repo.nii.ac.jp/,,200,,,448.0,http://doho.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8906,
+214,,,,dokkyo.repo.nii.ac.jp/,4357,8904,jp,http://www.dokkyo.ac.jp,weko,1952.0,institutional,https://dokkyo.repo.nii.ac.jp/,,200,,,1356.0,http://dokkyo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8904,
+215,https://doshisha.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Error,doshisha.repo.nii.ac.jp,581,1046,jp,http://www.doshisha.ac.jp/,weko,19385.0,institutional,https://doshisha.repo.nii.ac.jp,,200,,,0.0,https://doshisha.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1046,
+216,,,,dspace.jaist.ac.jp/dspace/index.jsp?locale=en,532,974,jp,http://www.jaist.ac.jp/,dspace,13874.0,institutional,https://dspace.jaist.ac.jp/dspace/index.jsp?locale=en,,200,,,18.0,http://dspace.jaist.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/974,
+217,https://edo.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,edo.repo.nii.ac.jp,4350,8806,jp,https://www.edogawa-u.ac.jp,weko,984.0,institutional,https://edo.repo.nii.ac.jp,,200,,,769.0,http://edo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8806,
+218,,,,edu-niigata.repo.nii.ac.jp/,2273,3275,jp,http://www.juen.ac.jp/,weko,2170.0,institutional,https://edu-niigata.repo.nii.ac.jp/,,ConnectionError,,,,http://edu-niigata.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3275,
+219,,,,eprints.lib.hokudai.ac.jp/,81,172,jp,https://www.hokudai.ac.jp,dspace,57986.0,institutional,https://eprints.lib.hokudai.ac.jp/,,200,,,,http://eprints.lib.hokudai.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/172,
+220,,,,fdc.repo.nii.ac.jp/,4338,8676,jp,https://www.fdcnet.ac.jp,weko,105.0,institutional,https://fdc.repo.nii.ac.jp/,,200,,,70.0,http://fdc.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8676,
+221,https://ferris.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,ferris.repo.nii.ac.jp,4341,8698,jp,https://www.ferris.ac.jp/en/,weko,2398.0,institutional,https://ferris.repo.nii.ac.jp,,200,,,1085.0,http://ferris.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8698,
+222,,,,fuji.repo.nii.ac.jp/,4779,9873,jp,http://www.fuji-u.ac.jp/,weko,,institutional,https://fuji.repo.nii.ac.jp/,,200,,,,http://fuji.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9873,
+223,,,,fujijoshi.repo.nii.ac.jp/,2727,3779,jp,http://www.fujijoshi.ac.jp/,weko,1924.0,institutional,https://fujijoshi.repo.nii.ac.jp/,,200,,,1913.0,http://fujijoshi.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3779,
+224,,,,fujita-hu.repo.nii.ac.jp/,4339,8677,jp,https://www.fujita-hu.ac.jp,weko,1051.0,institutional,https://fujita-hu.repo.nii.ac.jp/,,200,,,258.0,http://fujita-hu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8677,
+225,,,,fuksi-kagk-u.repo.nii.ac.jp/,4250,7903,jp,https://www.fuksi-kagk-u.ac.jp/,weko,775.0,institutional,https://fuksi-kagk-u.repo.nii.ac.jp/,,200,,,266.0,http://fuksi-kagk-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7903,
+226,https://fukuchiyama.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,fukuchiyama.repo.nii.ac.jp,3898,6487,jp,https://www.fukuchiyama.ac.jp,weko,379.0,institutional,https://fukuchiyama.repo.nii.ac.jp,,200,,,365.0,http://fukuchiyama.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6487,
+227,,,,fukuoka-pu.repo.nii.ac.jp/,4778,9871,jp,https://www.fukuoka-pu.ac.jp/,weko,,institutional,https://fukuoka-pu.repo.nii.ac.jp/,,200,,,,http://fukuoka-pu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9871,
+228,,,,fukuoka-u.repo.nii.ac.jp/,4336,8673,jp,https://www.fukuoka-u.ac.jp,weko,4967.0,institutional,https://fukuoka-u.repo.nii.ac.jp/,,200,,,382.0,http://fukuoka-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8673,
+229,,,,fukuyamaheisei-u.repo.nii.ac.jp/,4335,8672,jp,https://www.heisei-u.ac.jp,weko,86.0,institutional,https://fukuyamaheisei-u.repo.nii.ac.jp/,,200,,,61.0,http://fukuyamaheisei-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8672,
+230,,,,gair.media.gunma-u.ac.jp/dspace/,587,1052,jp,http://www.gunma-u.ac.jp/,dspace,11054.0,institutional,https://gair.media.gunma-u.ac.jp/dspace/,,200,,,4836.0,http://gair.media.gunma-u.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1052,
+231,,,,gakusen.repo.nii.ac.jp/,4798,9892,jp,http://www.gakusen.ac.jp/u/,weko,,institutional,https://gakusen.repo.nii.ac.jp/,,200,,,,http://gakusen.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9892,
+232,,,,gcnr.repo.nii.ac.jp/,4777,9870,jp,https://www.gifu-cn.ac.jp/,weko,,institutional,https://gcnr.repo.nii.ac.jp/,,200,,,,http://gcnr.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9870,
+233,,,,geidai.repo.nii.ac.jp/,3870,6440,jp,https://www.geidai.ac.jp,weko,1110.0,institutional,https://geidai.repo.nii.ac.jp/,,200,,,757.0,http://geidai.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6440,
+234,https://geitan.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,geitan.repo.nii.ac.jp,4091,7489,jp,https://www.oita-pjc.ac.jp/,weko,1668.0,institutional,https://geitan.repo.nii.ac.jp,,200,,,862.0,http://geitan.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7489,
+235,,,,gifu-cwc.repo.nii.ac.jp/,4324,8643,jp,http://www.gifu-cwc.ac.jp,weko,466.0,institutional,https://gifu-cwc.repo.nii.ac.jp/,,200,,,6.0,http://gifu-cwc.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8643,
+236,,,,gifu-pu.repo.nii.ac.jp/,4776,9868,jp,https://www.gifu-pu.ac.jp/,weko,,institutional,https://gifu-pu.repo.nii.ac.jp/,,200,,,,http://gifu-pu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9868,
+237,https://glim-re.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,glim-re.repo.nii.ac.jp,1625,2454,jp,http://www.gakushuin.ac.jp/,weko,4003.0,institutional,https://glim-re.repo.nii.ac.jp,,200,,,0.0,http://glim-re.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/2454,
+238,,,,hachinohe-hachitan.repo.nii.ac.jp/,4320,8617,jp,https://www.hachinohe-u.ac.jp,weko,1235.0,institutional,https://hachinohe-hachitan.repo.nii.ac.jp/,,200,,,826.0,http://hachinohe-hachitan.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8617,
+239,,,,hakodate-jc.repo.nii.ac.jp/,4318,8615,jp,http://www.hakodate-jc.ac.jp,weko,,institutional,https://hakodate-jc.repo.nii.ac.jp/,,200,,,,http://hakodate-jc.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8615,
+240,,,,hakodate-u.repo.nii.ac.jp/,4775,9867,jp,https://www.hakodate-u.ac.jp/,weko,,institutional,https://hakodate-u.repo.nii.ac.jp/,,200,,,,http://hakodate-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9867,
+241,,,,hakuoh.repo.nii.ac.jp/,4317,8613,jp,https://hakuoh.jp,weko,2548.0,institutional,https://hakuoh.repo.nii.ac.jp/,,200,,,1877.0,http://hakuoh.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8613,
+242,,,,hama-med.repo.nii.ac.jp/,1221,1940,jp,http://www.hamamatsu-u.ac.jp/,weko,3205.0,institutional,https://hama-med.repo.nii.ac.jp/,,200,,,,http://hama-med.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1940,
+243,,,,hamagaku.repo.nii.ac.jp/,4315,8611,jp,https://hamagaku.ac.jp/hgu,weko,222.0,institutional,https://hamagaku.repo.nii.ac.jp/,,200,,,90.0,http://hamagaku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8611,
+244,,,,hannan-u.repo.nii.ac.jp/,4312,8608,jp,https://www.hannan-u.ac.jp/,weko,2420.0,institutional,https://hannan-u.repo.nii.ac.jp/,,200,,,924.0,http://hannan-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8608,
+245,,,,hdu.repo.nii.ac.jp/,4306,8590,jp,https://www.himeji-du.ac.jp/,weko,182.0,institutional,https://hdu.repo.nii.ac.jp/,,200,,,143.0,http://hdu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8590,
+246,,,,hi-tech.repo.nii.ac.jp/,4319,8616,jp,https://www.hi-tech.ac.jp,weko,2372.0,institutional,https://hi-tech.repo.nii.ac.jp/,,200,,,1513.0,https://hi-tech.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8616,
+247,,,,hirogaku-u.repo.nii.ac.jp/,4304,8586,jp,http://www.hirogaku-u.ac.jp,weko,551.0,institutional,https://hirogaku-u.repo.nii.ac.jp/,,200,,,42.0,http://hirogaku-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8586,
+248,,,,hirosakiuhw.repo.nii.ac.jp/,4305,8587,jp,https://www.hirosakiuhw.jp,weko,234.0,institutional,https://hirosakiuhw.repo.nii.ac.jp/,,200,,,32.0,http://hirosakiuhw.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8587,
+249,https://hmjc.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Error,hmjc.repo.nii.ac.jp,4771,9863,jp,http://www.musashi-jc.ac.jp/,weko,,institutional,https://hmjc.repo.nii.ac.jp,,200,,,,https://hmjc.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9863,
+250,,,,hokuriku.repo.nii.ac.jp/,4299,8573,jp,https://www.hokuriku-u.ac.jp/,weko,594.0,institutional,https://hokuriku.repo.nii.ac.jp/,,200,,,281.0,http://hokuriku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8573,
+251,,,,hokurikugakuin.repo.nii.ac.jp/,4300,8574,jp,https://www.hokurikugakuin.ac.jp,weko,1075.0,institutional,https://hokurikugakuin.repo.nii.ac.jp/,,200,,,1004.0,http://hokurikugakuin.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8574,
+252,,,,hokusei.repo.nii.ac.jp/,4298,8572,jp,https://en.hokusei.ac.jp,weko,2446.0,institutional,https://hokusei.repo.nii.ac.jp/,,200,,,2247.0,http://hokusei.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8572,
+253,,,,hokusho.repo.nii.ac.jp/,4297,8571,jp,https://www.hokusho-u.ac.jp,weko,2926.0,institutional,https://hokusho.repo.nii.ac.jp/,,ConnectionError,,,2737.0,http://hokusho.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8571,
+254,,,,honan.repo.nii.ac.jp/,3953,6701,jp,https://www.honan.ac.jp/,weko,305.0,institutional,https://honan.repo.nii.ac.jp/,,200,,,286.0,http://honan.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6701,
+255,,,,hosei.repo.nii.ac.jp/,580,1044,jp,http://www.hosei.ac.jp/,weko,12999.0,institutional,https://hosei.repo.nii.ac.jp/,,200,,,,http://hosei.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1044,
+256,,,,hosen.repo.nii.ac.jp/,4294,8567,jp,https://www.hosen.ac.jp/,weko,237.0,institutional,https://hosen.repo.nii.ac.jp/,,200,,,150.0,http://hosen.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8567,
+257,,,,hu.repo.nii.ac.jp/,4774,9866,jp,https://www.hanazono.ac.jp/,weko,,institutional,https://hu.repo.nii.ac.jp/,,200,,,,https://hu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9866,
+258,,,,huhs.repo.nii.ac.jp/,4291,8556,jp,https://www.huhs.ac.jp,weko,90.0,institutional,https://huhs.repo.nii.ac.jp/,,200,,,69.0,http://huhs.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8556,
+259,,,,hus.repo.nii.ac.jp/,4301,8575,jp,https://www.hus.ac.jp/,weko,377.0,institutional,https://hus.repo.nii.ac.jp/,,200,,,279.0,http://hus.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8575,
+260,,,,icabs.repo.nii.ac.jp/,2216,3212,jp,http://www.icabs.ac.jp/,weko,359.0,institutional,https://icabs.repo.nii.ac.jp/,,200,,,,http://icabs.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3212,
+261,,,,icu.repo.nii.ac.jp/,4277,8429,jp,https://www.icu.ac.jp/en/,weko,4862.0,institutional,https://icu.repo.nii.ac.jp/,,200,,,4430.0,http://icu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8429,
+262,,,,iidawjc.repo.nii.ac.jp/,2202,3198,jp,http://www.iidawjc.ac.jp/,weko,133.0,institutional,https://iidawjc.repo.nii.ac.jp/,,200,,,,http://iidawjc.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3198,
+263,https://iot.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,iot.repo.nii.ac.jp,4279,8457,jp,http://www.iot.ac.jp,weko,225.0,institutional,https://iot.repo.nii.ac.jp,,200,,,118.0,http://iot.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8457,
+264,,,,ipnu.repo.nii.ac.jp/,4276,8347,jp,https://www.ishikawa-nu.ac.jp,weko,267.0,institutional,https://ipnu.repo.nii.ac.jp/,,200,,,234.0,http://ipnu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8347,
+265,,,,ir.fmu.ac.jp/dspace/?locale=en,1136,1833,jp,http://www.fmu.ac.jp/,dspace,1266.0,institutional,https://ir.fmu.ac.jp/dspace/?locale=en,,200,,,584.0,http://ir.fmu.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/1833,
+266,,,,ir.jikei.ac.jp/,1252,1975,jp,http://www.jikei.ac.jp/,weko,5003.0,institutional,https://ir.jikei.ac.jp/,,200,,,,http://ir.jikei.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1975,
+267,,,,ir.lib.hiroshima-u.ac.jp/ja,264,484,jp,http://www.hiroshima-u.ac.jp/,e repository,27136.0,institutional,https://ir.lib.hiroshima-u.ac.jp/ja,,200,,,,http://ir.lib.hiroshima-u.ac.jp/api/oai/request,https://v2.sherpa.ac.uk/id/repository/484,E-Repository
+268,,,,ir.library.osaka-u.ac.jp/repo/ouka/all/?lang=1,465,871,jp,http://www.osaka-u.ac.jp/,e cats,76101.0,institutional,https://ir.library.osaka-u.ac.jp/repo/ouka/all/?lang=1,,200,,,58230.0,http://ir.library.osaka-u.ac.jp/repo/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/871,E-Cats Library
+269,,,,ir.u-gakugei.ac.jp/?lang=en,466,872,jp,http://www.u-gakugei.ac.jp/,nalis r,12379.0,institutional,https://ir.u-gakugei.ac.jp/?lang=en,,ConnectionError,,,0.0,http://ir.u-gakugei.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/872,NALIS-R
+270,,,,ishikawa-pu.repo.nii.ac.jp/,4275,8346,jp,https://www.ishikawa-pu.ac.jp,weko,180.0,institutional,https://ishikawa-pu.repo.nii.ac.jp/,,ConnectionError,,,118.0,http://ishikawa-pu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8346,
+271,https://isu.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,isu.repo.nii.ac.jp,4800,9896,jp,https://www.isu.ac.jp/,weko,,institutional,https://isu.repo.nii.ac.jp,,200,,,,http://isu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9896,
+272,,,,iuhw.repo.nii.ac.jp/,4770,9861,jp,https://www.iuhw.ac.jp/index.html,weko,,institutional,https://iuhw.repo.nii.ac.jp/,,200,,,,https://iuhw.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9861,
+273,,,,iuk-repo.repo.nii.ac.jp/,3907,6518,jp,http://www.iuk.ac.jp/english,weko,1243.0,institutional,https://iuk-repo.repo.nii.ac.jp/,,200,,,606.0,http://iuk-repo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6518,
+274,,,,iwate-pu.repo.nii.ac.jp/,4274,8336,jp,https://www.iwate-u.ac.jp,weko,3623.0,institutional,https://iwate-pu.repo.nii.ac.jp/,,200,,,3293.0,http://iwate-pu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8336,
+275,,,,iwate-u.repo.nii.ac.jp/,573,1036,jp,http://www.iwate-u.ac.jp/,weko,14789.0,institutional,https://iwate-u.repo.nii.ac.jp/,,200,,,2633.0,http://iwate-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1036,
+276,,,,jcsw.repo.nii.ac.jp/,4272,8311,jp,https://www.jcsw.ac.jp,weko,507.0,institutional,https://jcsw.repo.nii.ac.jp/,,200,,,444.0,http://jcsw.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8311,
+277,,,,jicari.repo.nii.ac.jp,4273,8331,jp,https://www.jica.go.jp,dspace,1046.0,institutional,https://jicari.repo.nii.ac.jp,,200,,,187.0,http://jicari.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8331,
+278,https://jichi-ir.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,jichi-ir.repo.nii.ac.jp,4765,9856,jp,https://www.jichi.ac.jp/english/,weko,,institutional,https://jichi-ir.repo.nii.ac.jp,,200,,,,http://jichi-ir.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9856,
+279,https://jissen.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,jissen.repo.nii.ac.jp,4265,8302,jp,https://www.jissen.ac.jp,weko,1791.0,institutional,https://jissen.repo.nii.ac.jp,,200,,,1348.0,http://jissen.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8302,
+280,,,,jiu.repo.nii.ac.jp/,4263,8299,jp,http://www.jiu.ac.jp/englishsite/,weko,136.0,institutional,https://jiu.repo.nii.ac.jp/,,200,,,3.0,http://jiu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8299,
+281,,,,jonan.repo.nii.ac.jp/,4070,7412,jp,http://www.jonan.ac.jp/?_ga=2.141034484.714096384.1573480542-917268100.1573480542,weko,977.0,institutional,https://jonan.repo.nii.ac.jp/,,200,,,171.0,http://jonan.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7412,
+282,,,,jopss.jaea.go.jp/search/servlet/interSearch?language=1,4767,9858,jp,https://www.jaea.go.jp/english/index.html,jopss,,institutional,https://jopss.jaea.go.jp/search/servlet/interSearch?language=1,,200,,,,https://jopss.jaea.go.jp/search/servlet/oaipmh,https://v2.sherpa.ac.uk/id/repository/9858,JOPSS
+283,,,,jrccn.repo.nii.ac.jp/,4806,9904,jp,https://www.redcross.ac.jp/en/,weko,,institutional,https://jrccn.repo.nii.ac.jp/,,200,,,,http://jrccn.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9904,
+284,https://jrckicn.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,jrckicn.repo.nii.ac.jp,4267,8306,jp,https://www.jrckicn.ac.jp/english/,weko,648.0,institutional,https://jrckicn.repo.nii.ac.jp,,200,,,209.0,http://jrckicn.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8306,
+285,,,,jue.repo.nii.ac.jp/,4270,8309,jp,https://www.jue.ac.jp/,weko,1636.0,institutional,https://jue.repo.nii.ac.jp/,,200,,,863.0,http://jue.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8309,
+286,https://juen.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,juen.repo.nii.ac.jp,1189,1903,jp,http://www.juen.ac.jp/,weko,2822.0,institutional,https://juen.repo.nii.ac.jp,,200,,,0.0,http://juen.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1903,
+287,https://jumonji-u.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,jumonji-u.repo.nii.ac.jp,4262,8154,jp,http://www.jumonji-u.ac.jp,weko,1213.0,institutional,https://jumonji-u.repo.nii.ac.jp,,ConnectionError,,,308.0,http://jumonji-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8154,
+288,https://junshin.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,junshin.repo.nii.ac.jp,4764,9855,jp,https://www.junshin-u.ac.jp/,weko,,institutional,https://junshin.repo.nii.ac.jp,,200,,,,http://junshin.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9855,
+289,,,,k-junshin.repo.nii.ac.jp/,4257,7913,jp,https://www.k-junshin.ac.jp/juntan/,weko,198.0,institutional,https://k-junshin.repo.nii.ac.jp/,,200,,,26.0,http://k-junshin.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7913,
+290,https://k-kentan.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,k-kentan.repo.nii.ac.jp,4256,7912,jp,http://www.k-kentan.ac.jp,weko,,institutional,https://k-kentan.repo.nii.ac.jp,,200,,,,http://k-kentan.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7912,
+291,,,,kaetsu.repo.nii.ac.jp/,4259,7917,jp,http://www.kaetsu.ac.jp,weko,937.0,institutional,https://kaetsu.repo.nii.ac.jp/,,200,,,346.0,http://kaetsu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7917,
+292,https://kagawa-puhs.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,kagawa-puhs.repo.nii.ac.jp,4761,9852,jp,http://www.kagawa-puhs.ac.jp/,weko,,institutional,https://kagawa-puhs.repo.nii.ac.jp,,200,,,,http://kagawa-puhs.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9852,
+293,https://kagawa-u.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,kagawa-u.repo.nii.ac.jp,887,1499,jp,http://www.kagawa-u.ac.jp/,weko,6129.0,institutional,https://kagawa-u.repo.nii.ac.jp,,200,,,,http://kagawa-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1499,
+294,,,,kaisei.repo.nii.ac.jp/,4230,7864,jp,https://www.kaisei.ac.jp/,weko,214.0,institutional,https://kaisei.repo.nii.ac.jp/,,200,,,172.0,http://kaisei.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7864,
+295,,,,kaiser.kokugakuin.ac.jp/,4757,9847,jp,https://www.kokugakuin.ac.jp/,iliswave j,,institutional,https://kaiser.kokugakuin.ac.jp/,,200,,,,http://opac.kokugakuin.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/9847,iLiswave-J
+296,,,,kamakura-wu.repo.nii.ac.jp/,4253,7907,jp,https://www.kamakura-u.ac.jp/english/index.html,weko,401.0,institutional,https://kamakura-wu.repo.nii.ac.jp/,,200,,,329.0,http://kamakura-wu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7907,
+297,,,,kanagawa-u.repo.nii.ac.jp/,4261,7924,jp,https://www.kanagawa-u.ac.jp/english/,weko,13780.0,institutional,https://kanagawa-u.repo.nii.ac.jp/,,200,,,2867.0,http://kanagawa-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7924,
+298,https://kanazawa-bidai.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,No software search,kanazawa-bidai.repo.nii.ac.jp,4252,7905,jp,https://www.kanazawa-bidai.ac.jp,weko,631.0,institutional,https://kanazawa-bidai.repo.nii.ac.jp,,ConnectionError,,,620.0,http://kanazawa-bidai.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7905,
+299,https://kansai-u.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,kansai-u.repo.nii.ac.jp,584,1049,jp,http://www.kansai-u.ac.jp/index.html,weko,18947.0,institutional,https://kansai-u.repo.nii.ac.jp,,200,,,17098.0,http://kansai-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1049,
+300,,,,kansaigaidai.repo.nii.ac.jp/,2883,3949,jp,http://www.kansaigaidai.ac.jp/,weko,7905.0,institutional,https://kansaigaidai.repo.nii.ac.jp/,,200,,,729.0,http://kansaigaidai.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3949,
+301,,,,karin.flib.u-fukui.ac.jp/?page_id=110,880,1490,jp,http://www.u-fukui.ac.jp/,iliswave j,12726.0,institutional,https://karin.flib.u-fukui.ac.jp/?page_id=110,,200,,,,http://karin21.flib.u-fukui.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/1490,iLiswave-J
+302,,,,kawa-ccon.repo.nii.ac.jp/,4246,7892,jp,https://www.kawasaki-nursing-c.ac.jp/,weko,581.0,institutional,https://kawa-ccon.repo.nii.ac.jp/,,200,,,357.0,http://kawa-ccon.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7892,
+303,,,,kbu.repo.nii.ac.jp/,4214,7831,jp,https://www.kbu.ac.jp/kbu,weko,1234.0,institutional,https://kbu.repo.nii.ac.jp/,,200,,,787.0,http://kbu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7831,
+304,,,,kcua.repo.nii.ac.jp/,4213,7830,jp,http://www.kcua.ac.jp,weko,318.0,institutional,https://kcua.repo.nii.ac.jp/,,200,,,186.0,http://kcua.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7830,
+305,https://keiai.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,keiai.repo.nii.ac.jp,4242,7888,jp,https://www.u-keiai.ac.jp/,weko,2971.0,institutional,https://keiai.repo.nii.ac.jp,,200,,,,http://keiai.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7888,
+306,,,,keisen.repo.nii.ac.jp/,4241,7887,jp,https://www.keisen.ac.jp,weko,1029.0,institutional,https://keisen.repo.nii.ac.jp/,,200,,,761.0,http://keisen.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7887,
+307,,,,kguopac.kanto-gakuin.ac.jp/webopac/ufirdi.do?ufi_target=ctlsrh,1200,1917,jp,http://univ.kanto-gakuin.ac.jp/,iliswave j,2761.0,institutional,https://kguopac.kanto-gakuin.ac.jp/webopac/ufirdi.do?ufi_target=ctlsrh,,200,,,0.0,http://kguopac.kanto-gakuin.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/1917,iLiswave-J V3
+308,https://kgwu.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,kgwu.repo.nii.ac.jp,4247,7893,jp,https://www.kgwu.ac.jp,weko,718.0,institutional,https://kgwu.repo.nii.ac.jp,,200,,,695.0,http://kgwu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7893,
+309,,,,khsu.repo.nii.ac.jp/,4220,7845,jp,https://www.kumamoto-hsu.ac.jp,weko,229.0,institutional,https://khsu.repo.nii.ac.jp/,,200,,,185.0,http://khsu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7845,
+310,,,,kiis.repo.nii.ac.jp/,4202,7816,jp,https://www.kiis.ac.jp,weko,451.0,institutional,https://kiis.repo.nii.ac.jp/,,200,,,235.0,http://kiis.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7816,
+311,https://kindai.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,kindai.repo.nii.ac.jp,864,1470,jp,http://www.kindai.ac.jp/,weko,12694.0,institutional,https://kindai.repo.nii.ac.jp,,200,,,0.0,http://kindai.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1470,
+312,,,,kinjo.repo.nii.ac.jp/,4237,7874,jp,http://www.kinjo-u.ac.jp/eng/index.html,weko,1081.0,institutional,https://kinjo.repo.nii.ac.jp/,,200,,,928.0,http://kinjo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7874,
+313,,,,kinran.repo.nii.ac.jp/,3962,6718,jp,https://www.kinran.ac.jp/,weko,390.0,institutional,https://kinran.repo.nii.ac.jp/,,200,,,347.0,http://kinran.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6718,
+314,,,,kinwu.repo.nii.ac.jp/?lang=english,4227,7860,jp,http://www.kinwu.ac.jp,weko,276.0,institutional,https://kinwu.repo.nii.ac.jp/?lang=english,,ConnectionError,,,247.0,http://kinwu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7860,
+315,,,,kio.repo.nii.ac.jp/,4236,7873,jp,http://www.kio.ac.jp/,weko,61.0,institutional,https://kio.repo.nii.ac.jp/,,200,,,44.0,http://kio.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7873,
+316,,,,kitakyu.repo.nii.ac.jp/,2209,3205,jp,http://www.kitakyu-u.ac.jp/,weko,57.0,institutional,https://kitakyu.repo.nii.ac.jp/,,200,,,,http://kitakyu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3205,
+317,https://kitakyushu.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,kitakyushu.repo.nii.ac.jp,4128,7578,jp,http://library.kct.ac.jp,weko,286.0,institutional,https://kitakyushu.repo.nii.ac.jp,,200,,,,http://kitakyushu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7578,
+318,,,,kitami-it.repo.nii.ac.jp/,572,1035,jp,http://www.kitami-it.ac.jp/,weko,8681.0,institutional,https://kitami-it.repo.nii.ac.jp/,,200,,,1534.0,http://kitami-it.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1035,
+319,https://kitasato.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,kitasato.repo.nii.ac.jp,4235,7872,jp,https://www.kitasato-u.ac.jp,weko,649.0,institutional,https://kitasato.repo.nii.ac.jp,,200,,,518.0,http://kitasato.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7872,
+320,,,,kitir.kanazawa-it.ac.jp/infolib/meta_pub/G0000002repository,4759,9850,jp,https://www.kanazawa-it.ac.jp/ekit/,infolib,,institutional,https://kitir.kanazawa-it.ac.jp/infolib/meta_pub/G0000002repository,,ConnectionError,,,,http://kitir.kanazawa-it.ac.jp/infolib/oai_repository/pmh/G0000002-repository,https://v2.sherpa.ac.uk/id/repository/9850,InfoLib
+321,,,,kiu.repo.nii.ac.jp/,4207,7822,jp,http://www.kiu.ac.jp,weko,727.0,institutional,https://kiu.repo.nii.ac.jp/,,200,,,576.0,http://kiu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7822,
+322,,,,kiui.repo.nii.ac.jp/,4239,7879,jp,http://kiui.jp/pc/english/,weko,786.0,institutional,https://kiui.repo.nii.ac.jp/,,200,,,517.0,http://kiui.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7879,
+323,,,,kjunshin.repo.nii.ac.jp/,4258,7914,jp,https://www.k-junshin.ac.jp,weko,475.0,institutional,https://kjunshin.repo.nii.ac.jp/,,200,,,421.0,http://kjunshin.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7914,
+324,https://kki.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,kki.repo.nii.ac.jp,4802,9899,jp,https://www.kansai.ac.jp/en/,weko,,institutional,https://kki.repo.nii.ac.jp,,200,,,,http://kki.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9899,
+325,,,,klc.repo.nii.ac.jp/,4205,7820,jp,https://www.klc.ac.jp,weko,359.0,institutional,https://klc.repo.nii.ac.jp/,,200,,,205.0,http://klc.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7820,
+326,,,,kobe-c.repo.nii.ac.jp/,4233,7867,jp,https://www.kobe-c.ac.jp,weko,5145.0,institutional,https://kobe-c.repo.nii.ac.jp/,,ConnectionError,,,2534.0,http://kobe-c.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7867,
+327,,,,kobe-ccn.repo.nii.ac.jp/,4234,7868,jp,https://www.kobe-ccn.ac.jp/,weko,232.0,institutional,https://kobe-ccn.repo.nii.ac.jp/,,200,,,106.0,http://kobe-ccn.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7868,
+328,,,,kobe-cufs.repo.nii.ac.jp/,1884,2800,jp,http://www.kobe-cufs.ac.jp/,weko,2293.0,institutional,https://kobe-cufs.repo.nii.ac.jp/,,200,,,1540.0,http://kobe-cufs.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/2800,
+329,,,,kobe-du.repo.nii.ac.jp/,4232,7866,jp,https://english.kobe-du.ac.jp,weko,240.0,institutional,https://kobe-du.repo.nii.ac.jp/,,200,,,209.0,http://kobe-du.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7866,
+330,,,,kobe-shinwa.repo.nii.ac.jp/,4228,7862,jp,https://www.kobe-shinwa.ac.jp/,weko,3360.0,institutional,https://kobe-shinwa.repo.nii.ac.jp/,,200,,,2098.0,http://kobe-shinwa.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7862,
+331,,,,kobe-tokiwa.repo.nii.ac.jp/,2904,3976,jp,http://www.kobe-tokiwa.ac.jp/univ/,weko,,institutional,https://kobe-tokiwa.repo.nii.ac.jp/,,200,,,,http://kobe-tokiwa.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3976,
+332,,,,kobeyakka.repo.nii.ac.jp/,4229,7863,jp,https://www.kobepharma-u.ac.jp,weko,104.0,institutional,https://kobeyakka.repo.nii.ac.jp/,,200,,,65.0,http://kobeyakka.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7863,
+333,,,,kochi.repo.nii.ac.jp/,1206,1923,jp,http://www.kochi-u.ac.jp/,weko,6066.0,institutional,https://kochi.repo.nii.ac.jp/,,200,,,2930.0,http://kochi.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1923,
+334,,,,koeki.repo.nii.ac.jp/,3885,6458,jp,https://www.koeki-u.ac.jp/,weko,497.0,institutional,https://koeki.repo.nii.ac.jp/,,ConnectionError,,,430.0,http://koeki.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6458,
+335,,,,kogakkan.repo.nii.ac.jp/,4226,7858,jp,https://www.kogakkan-u.ac.jp/,weko,483.0,institutional,https://kogakkan.repo.nii.ac.jp/,,200,,,197.0,http://kogakkan.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7858,
+336,,,,koka.repo.nii.ac.jp/,4212,7829,jp,https://www.koka.ac.jp/english,weko,959.0,institutional,https://koka.repo.nii.ac.jp/,,200,,,574.0,http://koka.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7829,
+337,,,,kokubunken.repo.nii.ac.jp/,4130,7580,jp,https://www.nijl.ac.jp,weko,4174.0,institutional,https://kokubunken.repo.nii.ac.jp/,,200,,,2241.0,http://kokubunken.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7580,
+338,https://kokushikan.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,kokushikan.repo.nii.ac.jp,4225,7857,jp,https://www.kokushikan.ac.jp,weko,14696.0,institutional,https://kokushikan.repo.nii.ac.jp,,200,,,5467.0,http://kokushikan.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7857,
+339,,,,komajo.repo.nii.ac.jp/,4756,9846,jp,https://www.komajo.ac.jp/uni/,weko,,institutional,https://komajo.repo.nii.ac.jp/,,200,,,,http://komajo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9846,
+340,,,,konan-wu.repo.nii.ac.jp/,4223,7854,jp,https://www.konan-wu.ac.jp,weko,1817.0,institutional,https://konan-wu.repo.nii.ac.jp/,,200,,,512.0,http://konan-wu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7854,
+341,https://kougei.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,kougei.repo.nii.ac.jp,3873,6444,jp,https://www.t-kougei.ac.jp,weko,2074.0,institutional,https://kougei.repo.nii.ac.jp,,200,,,1946.0,http://kougei.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6444,
+342,https://kpu-m.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,kpu-m.repo.nii.ac.jp,2600,3639,jp,http://www.kpu-m.ac.jp/,weko,127.0,institutional,https://kpu-m.repo.nii.ac.jp,,200,,,,http://kpu-m.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3639,
+343,,,,kpu.repo.nii.ac.jp/,4210,7827,jp,https://www.kyoto-u.ac.jp,weko,6230.0,institutional,https://kpu.repo.nii.ac.jp/,,200,,,3142.0,http://kpu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7827,
+344,https://ksu.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,ksu.repo.nii.ac.jp,4209,7825,jp,http://www.kyoto-su.ac.jp/,weko,10598.0,institutional,https://ksu.repo.nii.ac.jp,,200,,,2007.0,http://ksu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7825,
+345,,,,kufs.repo.nii.ac.jp/,4260,7920,jp,http://www.kufs.ac.jp,weko,381.0,institutional,https://kufs.repo.nii.ac.jp/,,200,,,246.0,http://kufs.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7920,
+346,,,,kuhs.repo.nii.ac.jp/,4760,9851,jp,https://www.kuhs.ac.jp/,weko,,institutional,https://kuhs.repo.nii.ac.jp/,,200,,,,http://kuhs.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9851,
+347,,,,kuins.repo.nii.ac.jp/,4249,7902,jp,http://www.kansai-u.ac.jp,weko,793.0,institutional,https://kuins.repo.nii.ac.jp/,,200,,,721.0,http://kuins.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7902,
+348,,,,kumagaku.repo.nii.ac.jp/?lang=english,4221,7846,jp,https://www.kumagaku.ac.jp,weko,3387.0,institutional,https://kumagaku.repo.nii.ac.jp/?lang=english,,200,,,942.0,http://kumagaku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7846,
+349,,,,kumamoto.repo.nii.ac.jp/,4219,7844,jp,https://kumamoto-nct.ac.jp/english-home.html,weko,142.0,institutional,https://kumamoto.repo.nii.ac.jp/,,ConnectionError,,,132.0,http://kumamoto.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7844,
+350,,,,kunion.repo.nii.ac.jp/,4218,7840,jp,https://www.kunitachi.ac.jp/,weko,1547.0,institutional,https://kunion.repo.nii.ac.jp/,,200,,,3.0,http://kunion.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7840,
+351,https://kurume-it.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Error,kurume-it.repo.nii.ac.jp,4217,7837,jp,https://www.kurume-it.ac.jp,weko,312.0,institutional,https://kurume-it.repo.nii.ac.jp,,200,,,257.0,http://kurume-it.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7837,
+352,,,,kurume.repo.nii.ac.jp/,2336,3348,jp,http://www.kurume-u.ac.jp/,weko,400.0,institutional,https://kurume.repo.nii.ac.jp/,,200,,,39.0,http://kurume.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3348,
+353,,,,kusa.repo.nii.ac.jp/,4754,9844,jp,https://www.kusa.ac.jp/,weko,,institutional,https://kusa.repo.nii.ac.jp/,,200,,,,http://kusa.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9844,
+354,,,,kusw.repo.nii.ac.jp/,4251,7904,jp,https://www.kusw.ac.jp/,weko,632.0,institutional,https://kusw.repo.nii.ac.jp/,,200,,,544.0,http://kusw.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7904,
+355,https://kutarr.kochi-tech.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,kutarr.kochi-tech.ac.jp,583,1048,jp,http://www.kochi-tech.ac.jp/kut_J/index.html,weko,1680.0,institutional,https://kutarr.kochi-tech.ac.jp,,200,,,1153.0,http://kutarr.kochi-tech.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1048,
+356,https://kwjc.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,kwjc.repo.nii.ac.jp,4255,7911,jp,http://www.jkajyo.ac.jp,weko,1220.0,institutional,https://kwjc.repo.nii.ac.jp,,200,,,803.0,http://kwjc.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7911,
+357,,,,kwmed.repo.nii.ac.jp/,4244,7890,jp,https://m.kawasaki-m.ac.jp,weko,2910.0,institutional,https://kwmed.repo.nii.ac.jp/,,200,,,1915.0,http://kwmed.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7890,
+358,,,,kwmw.repo.nii.ac.jp/,2332,3344,jp,http://www.kawasaki-m.ac.jp/mw/,weko,13453.0,institutional,https://kwmw.repo.nii.ac.jp/,,200,,,2968.0,http://kwmw.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3344,
+359,,,,kwtan.repo.nii.ac.jp/,4245,7891,jp,https://j.kawasaki-m.ac.jp,weko,725.0,institutional,https://kwtan.repo.nii.ac.jp/,,200,,,177.0,http://kwtan.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7891,
+360,https://kyoei.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,kyoei.repo.nii.ac.jp,4216,7833,jp,https://www.kyoei.ac.jp,weko,622.0,institutional,https://kyoei.repo.nii.ac.jp,,200,,,588.0,http://kyoei.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7833,
+361,,,,kyoritsu.repo.nii.ac.jp/,4215,7832,jp,,weko,1172.0,institutional,https://kyoritsu.repo.nii.ac.jp/,,200,,,542.0,http://kyoritsu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7832,
+362,,,,kyoto-art.repo.nii.ac.jp/,4753,9842,jp,https://www.kyoto-art.ac.jp/en/,weko,,institutional,https://kyoto-art.repo.nii.ac.jp/,,200,,,,http://kyoto-art.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9842,
+363,,,,kyotogakuen.repo.nii.ac.jp/,2728,3780,jp,http://www.kyotogakuen.ac.jp/,weko,1409.0,institutional,https://kyotogakuen.repo.nii.ac.jp/,,200,,,1322.0,http://kyotogakuen.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3780,
+364,,,,kyujyo.repo.nii.ac.jp/,4203,7817,jp,http://www.kwuc.ac.jp/english/,weko,327.0,institutional,https://kyujyo.repo.nii.ac.jp/,,ConnectionError,,,250.0,http://kyujyo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7817,
+365,https://kyukan.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,kyukan.repo.nii.ac.jp,4204,7818,jp,https://www.kyushu-ns.ac.jp,weko,377.0,institutional,https://kyukan.repo.nii.ac.jp,,200,,,4.0,http://kyukan.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7818,
+366,,,,kyukyo.repo.nii.ac.jp/,4206,7821,jp,https://www.kyukyo-u.ac.jp/,weko,366.0,institutional,https://kyukyo.repo.nii.ac.jp/,,200,,,337.0,http://kyukyo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7821,
+367,,,,kyutech.repo.nii.ac.jp/,663,1170,jp,http://www.kyutech.ac.jp/,weko,5007.0,institutional,https://kyutech.repo.nii.ac.jp/,,200,,,,http://kyutech.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1170,
+368,,,,lib-repos.fun.ac.jp/dspace/index.jsp?locale=en,1658,2498,jp,http://www.fun.ac.jp/index.html,dspace,5856.0,institutional,https://lib-repos.fun.ac.jp/dspace/index.jsp?locale=en,,ConnectionError,,,352.0,http://lib-repos.fun.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/2498,
+369,,,,lib.cku.repo.nii.ac.jp/,4431,9098,jp,https://www.cku.ac.jp/top.html,weko,1558.0,institutional,https://lib.cku.repo.nii.ac.jp/,,200,,,576.0,https://lib.cku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9098,
+370,https://lib.sugiyama-u.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,lib.sugiyama-u.repo.nii.ac.jp,3928,6619,jp,http://www.sugiyama-u.ac.jp,weko,2809.0,institutional,https://lib.sugiyama-u.repo.nii.ac.jp,,200,,,717.0,http://lib.sugiyama-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6619,
+371,,,,lib.tosei-showa-music.ac.jp/index.php?action=pages_view_main&active_action=v3search_view_main_init&block_id=296&tab_num=3&search_mode=detail,4728,9807,jp,https://www.tosei-showa-music.ac.jp/,iliswave j,,institutional,https://lib.tosei-showa-music.ac.jp/index.php?action=pages_view_main&active_action=v3search_view_main_init&block_id=296&tab_num=3&search_mode=detail,,200,,,,https://opac.tosei-showa-music.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/9807,iLiswave-J-V3
+372,,,,libir.josai.ac.jp/il/meta_pub/engG0000284repository,1198,1915,jp,http://www.josai.ac.jp/,infolib,6344.0,institutional,https://libir.josai.ac.jp/il/meta_pub/engG0000284repository,,200,,,5447.0,https://libir.josai.ac.jp/il/oai_repository/pmh/G0000284-repository,https://v2.sherpa.ac.uk/id/repository/1915,Infolib-ASP
+373,,,,LibKGC.repo.nii.ac.jp/,4222,7851,jp,http://www.koriyama-kgc.ac.jp,weko,104.0,institutional,https://LibKGC.repo.nii.ac.jp/,,200,,,77.0,http://LibKGC.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7851,
+374,,,,library.bliss.chubu.ac.jp/?action=pages_view_main&active_action=v3search_view_main_init&block_id=323&tab_num=3&change_locale=en,1211,1929,jp,http://www.chubu.ac.jp/,iliswave j,3589.0,institutional,https://library.bliss.chubu.ac.jp/?action=pages_view_main&active_action=v3search_view_main_init&block_id=323&tab_num=3&change_locale=en,,200,,,0.0,http://elib.bliss.chubu.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/1929,iLiswave-J V3
+375,,,,library.ryukoku.ac.jp/?action=pages_view_main&active_action=v3search_view_main_init&block_id=296&tab_num=1,1254,1977,jp,http://www.ryukoku.ac.jp/,iliswave j,5976.0,institutional,https://library.ryukoku.ac.jp/?action=pages_view_main&active_action=v3search_view_main_init&block_id=296&tab_num=1,,200,,,0.0,http://opac.ryukoku.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/1977,iLiswave-J V3
+376,,,,library.time.u-tokai.ac.jp/index.php?action=pages_view_main&active_action=v3search_view_main_lnklst&block_id=296&tab_num=0#v3search_view_main_lnklst,4719,9797,jp,https://www.u-tokai.ac.jp/,iliswave j,,institutional,https://library.time.u-tokai.ac.jp/index.php?action=pages_view_main&active_action=v3search_view_main_lnklst&block_id=296&tab_num=0#v3search_view_main_lnklst,,200,,,,,https://v2.sherpa.ac.uk/id/repository/9797,iLiswave-J　e-Lib
+377,,,,luther.repo.nii.ac.jp/,4271,8310,jp,http://www.luther.ac.jp,weko,629.0,institutional,https://luther.repo.nii.ac.jp/,,200,,,276.0,http://luther.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8310,
+378,https://matsumoto-u.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,matsumoto-u.repo.nii.ac.jp,4179,7699,jp,http://www.matsumoto-u.ac.jp/en/,weko,1177.0,institutional,https://matsumoto-u.repo.nii.ac.jp,,200,,,1002.0,http://matsumoto-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7699,
+379,,,,matsutan.repo.nii.ac.jp/,4180,7700,jp,http://www.matsutan.jp,weko,271.0,institutional,https://matsutan.repo.nii.ac.jp/,,ConnectionError,,,258.0,http://matsutan.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7700,
+380,,,,matsuyama-u-r.repo.nii.ac.jp/,4178,7698,jp,https://www.matsuyama-u.ac.jp,weko,2627.0,institutional,https://matsuyama-u-r.repo.nii.ac.jp/,,200,,,2078.0,http://matsuyama-u-r.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7698,
+381,,,,mcn.repo.nii.ac.jp/,4170,7665,jp,http://www.mcn.ac.jp,weko,288.0,institutional,https://mcn.repo.nii.ac.jp/,,200,,,259.0,http://mcn.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7665,
+382,,,,mdr.nims.go.jp,4667,9713,jp,https://www.nims.go.jp,fedora,,institutional,https://mdr.nims.go.jp,,200,,,,https://mdr.nims.go.jp/catalog/oai,https://v2.sherpa.ac.uk/id/repository/9713,
+383,,,,mdu.repo.nii.ac.jp/,2211,3207,jp,http://www.mdu.ac.jp/,weko,1987.0,institutional,https://mdu.repo.nii.ac.jp/,,200,,,,http://mdu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3207,
+384,,,,meigaku.repo.nii.ac.jp/,4752,9841,jp,https://www.meijigakuin.ac.jp/en/,weko,,institutional,https://meigaku.repo.nii.ac.jp/,,200,,,,http://meigaku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9841,
+385,https://meiji-u.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,meiji-u.repo.nii.ac.jp,2714,3766,jp,http://www.meiji-u.ac.jp/,weko,5.0,institutional,https://meiji-u.repo.nii.ac.jp,,200,,,1.0,http://meiji-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3766,
+386,https://meikai.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,meikai.repo.nii.ac.jp,4176,7679,jp,http://www.meikai.ac.jp/english/index.html,weko,258.0,institutional,https://meikai.repo.nii.ac.jp,,200,,,177.0,http://meikai.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7679,
+387,,,,meilib.repo.nii.ac.jp/,4166,7652,jp,,weko,773.0,institutional,https://meilib.repo.nii.ac.jp/,,200,,,381.0,http://meilib.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7652,
+388,,,,meion.repo.nii.ac.jp/,4143,7599,jp,https://www.meion.ac.jp,weko,66.0,institutional,https://meion.repo.nii.ac.jp/,,200,,,34.0,http://meion.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7599,
+389,,,,meisei.repo.nii.ac.jp/,4750,9839,jp,https://www.meisei-u.ac.jp/english/,weko,,institutional,https://meisei.repo.nii.ac.jp/,,200,,,,http://meisei.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9839,
+390,https://mejiro.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,mejiro.repo.nii.ac.jp,4175,7678,jp,https://www.mejiro.ac.jp/eng/,weko,1787.0,institutional,https://mejiro.repo.nii.ac.jp,,200,,,1564.0,http://mejiro.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7678,
+391,,,,metro-cit.repo.nii.ac.jp/,3876,6447,jp,https://www.metro-cit.ac.jp,weko,250.0,institutional,https://metro-cit.repo.nii.ac.jp/,,ConnectionError,,,235.0,http://metro-cit.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6447,
+392,,,,mfri.repo.nii.ac.jp/,4159,7637,jp,https://www.pref.yamanashi.jp.e.aao.hp.transer.com/fujisanlb/index.html,weko,76.0,institutional,https://mfri.repo.nii.ac.jp/,,200,,,48.0,http://mfri.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7637,
+393,https://mietan.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,mietan.repo.nii.ac.jp,3855,6413,jp,https://www.tsu-cc.ac.jp/,weko,418.0,institutional,https://mietan.repo.nii.ac.jp,,200,,,158.0,http://mietan.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6413,
+394,,,,mimasaka.repo.nii.ac.jp/,3392,4557,jp,http://mimasaka.jp/,weko,,institutional,https://mimasaka.repo.nii.ac.jp/,,200,,,,http://mimasaka.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/4557,
+395,,,,minobu.repo.nii.ac.jp/,4169,7659,jp,,weko,2706.0,institutional,https://minobu.repo.nii.ac.jp/,,200,,,2546.0,http://minobu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7659,
+396,https://minpaku.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,minpaku.repo.nii.ac.jp,1258,1983,jp,http://www.minpaku.ac.jp/,weko,4655.0,institutional,https://minpaku.repo.nii.ac.jp,,ConnectionError,,,0.0,http://minpaku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1983,
+397,,,,miyazaki-mu.repo.nii.ac.jp/,4185,7732,jp,http://www.miyazaki-mu.ac.jp,weko,1242.0,institutional,https://miyazaki-mu.repo.nii.ac.jp/,,200,,,,http://miyazaki-mu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7732,
+398,,,,mizuho.repo.nii.ac.jp/,3978,6741,jp,,weko,569.0,institutional,https://mizuho.repo.nii.ac.jp/,,200,,,228.0,http://mizuho.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6741,
+399,https://momokyo.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Error,momokyo.repo.nii.ac.jp,4164,7645,jp,http://www.andrew.ac.jp/english/,weko,35.0,institutional,https://momokyo.repo.nii.ac.jp,,200,,,35.0,http://momokyo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7645,
+400,https://morinomiya.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,morinomiya.repo.nii.ac.jp,4161,7641,jp,https://www.morinomiya-u.ac.jp,weko,140.0,institutional,https://morinomiya.repo.nii.ac.jp,,200,,,44.0,http://morinomiya.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7641,
+401,,,,morioka.repo.nii.ac.jp/,4160,7640,jp,http://www.morioka-u.ac.jp,weko,4234.0,institutional,https://morioka.repo.nii.ac.jp/,,200,,,875.0,http://morioka.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7640,
+402,,,,mpu.repo.nii.ac.jp/,2309,3320,jp,http://www.mpu.ac.jp/,weko,471.0,institutional,https://mpu.repo.nii.ac.jp/,,200,,,393.0,http://mpu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3320,
+403,,,,mu.repo.nii.ac.jp/,2725,3777,jp,http://www.musashino-u.ac.jp/,weko,1449.0,institutional,https://mu.repo.nii.ac.jp/,,200,,,1229.0,http://mu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3777,
+404,https://mue.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,mue.repo.nii.ac.jp,2342,3355,jp,http://www.miyakyo-u.ac.jp/,weko,432.0,institutional,https://mue.repo.nii.ac.jp,,200,,,,http://mue.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3355,
+405,,,,mukogawa.repo.nii.ac.jp/,1255,1979,jp,http://www.mukogawa-u.ac.jp/,weko,946.0,institutional,https://mukogawa.repo.nii.ac.jp/,,200,,,,http://mukogawa.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1979,
+406,,,,musashigaoka.repo.nii.ac.jp/,4156,7625,jp,https://www.musashigaoka.ac.jp,weko,528.0,institutional,https://musashigaoka.repo.nii.ac.jp/,,200,,,484.0,http://musashigaoka.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7625,
+407,,,,musashino-music.repo.nii.ac.jp/,4155,7624,jp,http://www.musashino-music.ac.jp/,weko,87.0,institutional,https://musashino-music.repo.nii.ac.jp/,,200,,,71.0,http://musashino-music.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7624,
+408,,,,mylibrary.toho-u.ac.jp/webopac/ufirdi.do?ufi_target=ctlsrh,1749,2610,jp,http://www.toho-u.ac.jp/,iliswave j,52.0,institutional,https://mylibrary.toho-u.ac.jp/webopac/ufirdi.do?ufi_target=ctlsrh,,200,,,,http://mylibrary.toho-u.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/2610,富士通 iLiswave-J
+409,,,,myu.repo.nii.ac.jp/,4749,9838,jp,https://www.myu.ac.jp/english/,weko,,institutional,https://myu.repo.nii.ac.jp/,,200,,,,http://myu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9838,
+410,https://n-junshin.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,n-junshin.repo.nii.ac.jp,4146,7602,jp,http://www.n-junshin.ac.jp,weko,85.0,institutional,https://n-junshin.repo.nii.ac.jp,,ConnectionError,,,60.0,http://n-junshin.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7602,
+411,,,,n-seiryo.repo.nii.ac.jp/,4738,9823,jp,https://www.n-seiryo.ac.jp/,weko,,institutional,https://n-seiryo.repo.nii.ac.jp/,,200,,,,http://n-seiryo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9823,
+412,,,,nagajo-junior-college.repo.nii.ac.jp/,4149,7607,jp,http://www.nagajo-junior-college.ac.jp/,weko,63.0,institutional,https://nagajo-junior-college.repo.nii.ac.jp/,,200,,,57.0,http://nagajo-junior-college.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7607,
+413,,,,nagano-nct.repo.nii.ac.jp/,2215,3211,jp,http://www.nagano-nct.ac.jp/,weko,956.0,institutional,https://nagano-nct.repo.nii.ac.jp/,,200,,,0.0,http://nagano-nct.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3211,
+414,,,,nagano.repo.nii.ac.jp/,3896,6483,jp,https://www.nagano.ac.jp,weko,1300.0,institutional,https://nagano.repo.nii.ac.jp/,,200,,,835.0,http://nagano.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6483,
+415,https://nagaoka-id.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,nagaoka-id.repo.nii.ac.jp,4745,9834,jp,https://www.nagaoka-id.ac.jp/en/,weko,,institutional,https://nagaoka-id.repo.nii.ac.jp,,200,,,,http://nagaoka-id.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9834,
+416,https://nagaokaut.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,nagaokaut.repo.nii.ac.jp,2307,3318,jp,http://www.nagaokaut.ac.jp/,weko,734.0,institutional,https://nagaokaut.repo.nii.ac.jp,,200,,,,http://nagaokaut.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3318,
+417,,,,nagoya-wu.repo.nii.ac.jp/,4744,9833,jp,https://www.nagoya-wu.ac.jp/,weko,,institutional,https://nagoya-wu.repo.nii.ac.jp/,,200,,,,http://nagoya-wu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9833,
+418,,,,nakamura-u.repo.nii.ac.jp/,4140,7593,jp,https://www.nakamura-u.ac.jp,weko,2627.0,institutional,https://nakamura-u.repo.nii.ac.jp/,,200,,,823.0,http://nakamura-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7593,
+419,https://nanzan-u.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,nanzan-u.repo.nii.ac.jp,4139,7592,jp,https://www.nanzan-u.ac.jp/English/,weko,3093.0,institutional,https://nanzan-u.repo.nii.ac.jp,,200,,,2521.0,http://nanzan-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7592,
+420,,,,narahaku.repo.nii.ac.jp/,4138,7591,jp,https://www.narahaku.go.jp/index.html,weko,774.0,institutional,https://narahaku.repo.nii.ac.jp/,,200,,,9.0,http://narahaku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7591,
+421,https://narapu.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,narapu.repo.nii.ac.jp,4137,7590,jp,http://www.narapu.ac.jp,weko,1634.0,institutional,https://narapu.repo.nii.ac.jp,,200,,,15.0,http://narapu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7590,
+422,,,,narasaho-c.repo.nii.ac.jp/,4136,7589,jp,https://www.narasaho-c.ac.jp/english/index.html,weko,275.0,institutional,https://narasaho-c.repo.nii.ac.jp/,,200,,,142.0,http://narasaho-c.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7589,
+423,https://naruto.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,naruto.repo.nii.ac.jp,4134,7585,jp,http://www.naruto-u.ac.jp/english/index.html,weko,18015.0,institutional,https://naruto.repo.nii.ac.jp,,200,,,1658.0,http://naruto.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7585,
+424,,,,nayoro.repo.nii.ac.jp/,2312,3323,jp,http://www.nayoro.ac.jp/index.html,weko,90.0,institutional,https://nayoro.repo.nii.ac.jp/,,ConnectionError,,,,http://nayoro.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3323,
+425,,,,nbio.repo.nii.ac.jp/,4150,7609,jp,https://www.nagahama-i-bio.ac.jp/legacy/english,weko,37.0,institutional,https://nbio.repo.nii.ac.jp/,,200,,,18.0,http://nbio.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7609,
+426,,,,ncn.repo.nii.ac.jp/,4747,9836,jp,,weko,,institutional,https://ncn.repo.nii.ac.jp/,,200,,,,http://ncn.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9836,
+427,,,,ncu.repo.nii.ac.jp/,2206,3202,jp,http://www.nagoya-cu.ac.jp/1.htm/,weko,1527.0,institutional,https://ncu.repo.nii.ac.jp/,,200,,,,http://ncu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3202,
+428,https://ndsu.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Error,ndsu.repo.nii.ac.jp,4100,7528,jp,https://www.ndsu.ac.jp/english,weko,471.0,institutional,https://ndsu.repo.nii.ac.jp,,200,,,420.0,http://ndsu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7528,
+429,,,,ndu-rep.repo.nii.ac.jp/,4722,9800,jp,http://www.ndu.ac.jp/en/,weko,,institutional,https://ndu-rep.repo.nii.ac.jp/,,200,,,,https://ndu-rep.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9800,
+430,,,,nfu.repo.nii.ac.jp/,4115,7549,jp,http://www.n-fukushi.ac.jp/english/index.html,weko,3347.0,institutional,https://nfu.repo.nii.ac.jp/,,200,,,1771.0,http://nfu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7549,
+431,,,,ngu.repo.nii.ac.jp/?lang=english,2325,3337,jp,http://www.ngu.jp/,weko,1323.0,institutional,https://ngu.repo.nii.ac.jp/?lang=english,,200,,,1101.0,http://ngu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3337,
+432,,,,niad.repo.nii.ac.jp/,4740,9827,jp,https://www.niad.ac.jp/english/,weko,,institutional,https://niad.repo.nii.ac.jp/,,200,,,,http://niad.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9827,
+433,https://nias.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,nias.repo.nii.ac.jp,4148,7604,jp,https://web.archive.org/web/20061221161052/http://www.nias.ac.jp/index.html,weko,823.0,institutional,https://nias.repo.nii.ac.jp,,ConnectionError,,,497.0,http://nias.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7604,
+434,,,,nichibun.repo.nii.ac.jp/?lang=english,3257,4402,jp,http://www.nichibun.ac.jp/,weko,,institutional,https://nichibun.repo.nii.ac.jp/?lang=english,,200,,,,http://nichibun.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/4402,
+435,,,,niconurs.repo.nii.ac.jp/,2552,3588,jp,http://www.niigata-cn.ac.jp/,weko,1141.0,institutional,https://niconurs.repo.nii.ac.jp/,,200,,,1043.0,http://niconurs.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3588,
+436,,,,nied-ir.bosai.go.jp/,4151,7610,jp,http://www.bosai.go.jp,weko,3229.0,institutional,https://nied-ir.bosai.go.jp/,,200,,,430.0,http://nied-ir.bosai.go.jp/oai,https://v2.sherpa.ac.uk/id/repository/7610,NetCommons2
+437,,,,nier.repo.nii.ac.jp/,4132,7583,jp,https://www.nier.go.jp/index.html,weko,1825.0,institutional,https://nier.repo.nii.ac.jp/,,200,,,440.0,http://nier.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7583,
+438,,,,nifs-k.repo.nii.ac.jp/,845,1447,jp,http://www.nifs-k.ac.jp/,weko,878.0,institutional,https://nifs-k.repo.nii.ac.jp/,,ConnectionError,,,0.0,http://nifs-k.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1447,
+439,,,,nifs-repository.repo.nii.ac.jp/,1222,1941,jp,http://www.nifs.ac.jp/,weko,10485.0,institutional,https://nifs-repository.repo.nii.ac.jp/,,200,,,0.0,http://nifs-repository.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1941,
+440,https://niimi-c.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,niimi-c.repo.nii.ac.jp,4113,7547,jp,https://www.unipage.net/en/19730/niimi_college,weko,1219.0,institutional,https://niimi-c.repo.nii.ac.jp,,200,,,648.0,http://niimi-c.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7547,
+441,,,,nishogakusha.repo.nii.ac.jp/,4109,7542,jp,https://www.nishogakusha-u.ac.jp,weko,3081.0,institutional,https://nishogakusha.repo.nii.ac.jp/,,200,,,2714.0,http://nishogakusha.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7542,
+442,https://nisikyu-u.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,nisikyu-u.repo.nii.ac.jp,4110,7543,jp,https://www.nisikyu-u.ac.jp/,weko,126.0,institutional,https://nisikyu-u.repo.nii.ac.jp,,200,,,61.0,http://nisikyu-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7543,
+443,,,,nistep.repo.nii.ac.jp/,4805,9903,jp,https://www.nistep.go.jp/en/,weko,,institutional,https://nistep.repo.nii.ac.jp/,,200,,,,http://nistep.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9903,
+444,,,,nitech.repo.nii.ac.jp/,1165,1867,jp,http://www.nitech.ac.jp/,weko,4174.0,institutional,https://nitech.repo.nii.ac.jp/,,200,,,0.0,http://nitech.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1867,
+445,https://nittaidai.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,nittaidai.repo.nii.ac.jp,2075,3037,jp,http://www.nittai.ac.jp/,weko,1110.0,institutional,https://nittaidai.repo.nii.ac.jp,,200,,,,http://nittaidai.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3037,
+446,,,,niu.repo.nii.ac.jp/,2320,3331,jp,http://www.niu.ac.jp/,weko,1316.0,institutional,https://niu.repo.nii.ac.jp/,,200,,,506.0,http://niu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3331,
+447,,,,njc.repo.nii.ac.jp/,4147,7603,jp,http://www.njc.ac.jp/en/,weko,247.0,institutional,https://njc.repo.nii.ac.jp/,,200,,,236.0,http://njc.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7603,
+448,,,,nms.repo.nii.ac.jp/,4112,7546,jp,https://www.nms.ac.jp/college,weko,365.0,institutional,https://nms.repo.nii.ac.jp/,,200,,,303.0,http://nms.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7546,
+449,,,,nmwa.repo.nii.ac.jp/,2601,3640,jp,http://www.nmwa.go.jp/,weko,755.0,institutional,https://nmwa.repo.nii.ac.jp/,,200,,,663.0,http://nmwa.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3640,
+450,,,,nodai.repo.nii.ac.jp/,4710,9787,jp,https://www.nodai.ac.jp/,weko,,institutional,https://nodai.repo.nii.ac.jp/,,200,,,,https://nodai.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9787,
+451,,,,notredame.repo.nii.ac.jp/,4211,7828,jp,http://www.notredame.ac.jp/english/index.html,weko,383.0,institutional,https://notredame.repo.nii.ac.jp/,,200,,,209.0,http://notredame.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7828,
+452,,,,nue.repo.nii.ac.jp/,2510,3537,jp,http://www.nagoya-ku.ac.jp/,weko,143.0,institutional,https://nue.repo.nii.ac.jp/,,200,,,0.0,http://nue.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3537,
+453,,,,nufs-nuas.repo.nii.ac.jp/,3924,6601,jp,http://en.nagoya-u.ac.jp,weko,1573.0,institutional,https://nufs-nuas.repo.nii.ac.jp/,,200,,,1255.0,http://nufs-nuas.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6601,
+454,,,,nufs.repo.nii.ac.jp/,4145,7601,jp,http://www.nagasaki-gaigo.ac.jp/,weko,776.0,institutional,https://nufs.repo.nii.ac.jp/,,200,,,336.0,http://nufs.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7601,
+455,,,,nuis.repo.nii.ac.jp/,4114,7548,jp,https://www.nuis.ac.jp,weko,624.0,institutional,https://nuis.repo.nii.ac.jp/,,200,,,451.0,http://nuis.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7548,
+456,https://nur.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,nur.repo.nii.ac.jp,4737,9822,jp,https://nur.ac.jp/,weko,,institutional,https://nur.repo.nii.ac.jp,,200,,,,http://nur.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9822,
+457,,,,nwec.repo.nii.ac.jp/,4122,7565,jp,https://www.nwec.jp,weko,8134.0,institutional,https://nwec.repo.nii.ac.jp/,,200,,,2933.0,http://nwec.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7565,
+458,https://nzu.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,nzu.repo.nii.ac.jp,4141,7594,jp,https://www.nzu.ac.jp/,weko,811.0,institutional,https://nzu.repo.nii.ac.jp,,200,,,606.0,http://nzu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7594,
+459,,,,obihiro.repo.nii.ac.jp/,571,1034,jp,http://www.obihiro.ac.jp/,weko,854.0,institutional,https://obihiro.repo.nii.ac.jp/,,200,,,,http://obihiro.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1034,
+460,,,,obirin.repo.nii.ac.jp/,4768,9859,jp,https://www.obirin.ac.jp/en/,weko,,institutional,https://obirin.repo.nii.ac.jp/,,200,,,,https://obirin.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9859,
+461,,,,occ.repo.nii.ac.jp/,4080,7423,jp,http://www.occ.ac.jp/,weko,72.0,institutional,https://occ.repo.nii.ac.jp/,,200,,,63.0,http://occ.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7423,
+462,https://oecu.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Error,oecu.repo.nii.ac.jp,4078,7421,jp,https://oecu.repo.nii.ac.jp,weko,264.0,institutional,https://oecu.repo.nii.ac.jp,,200,,,36.0,http://oecu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7421,
+463,,,,ogu.repo.nii.ac.jp/,4077,7420,jp,https://www.osaka-gu.ac.jp/,weko,358.0,institutional,https://ogu.repo.nii.ac.jp/,,200,,,287.0,http://ogu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7420,
+464,https://ohka.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,ohka.repo.nii.ac.jp,4093,7491,jp,https://www.nagoyacollege.ac.jp,weko,268.0,institutional,https://ohka.repo.nii.ac.jp,,200,,,154.0,http://ohka.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7491,
+465,,,,ohu-lib.repo.nii.ac.jp/en/,4092,7490,jp,http://www.ohu-u.ac.jp,weko,1780.0,institutional,https://ohu-lib.repo.nii.ac.jp/en/,,ConnectionError,,,1691.0,http://ohu-lib.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7490,
+466,https://oist.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,oist.repo.nii.ac.jp,4097,7513,jp,https://www.oist.jp/,weko,1668.0,institutional,https://oist.repo.nii.ac.jp,,200,,,1069.0,http://oist.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7513,
+467,,,,oit.repo.nii.ac.jp/,4076,7419,jp,http://www.oit.ac.jp,weko,456.0,institutional,https://oit.repo.nii.ac.jp/,,200,,,83.0,http://oit.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7419,
+468,https://oita-nhs.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,oita-nhs.repo.nii.ac.jp,4090,7488,jp,http://www.oita-nhs.ac.jp,weko,26.0,institutional,https://oita-nhs.repo.nii.ac.jp,,ConnectionError,,,19.0,http://oita-nhs.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7488,
+469,,,,oiu.repo.nii.ac.jp/,4075,7418,jp,https://www.oiu.ac.jp/,weko,1062.0,institutional,https://oiu.repo.nii.ac.jp/,,200,,,15.0,http://oiu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7418,
+470,,,,oka-pu.repo.nii.ac.jp/,2306,3317,jp,http://www.oka-pu.ac.jp/,weko,2076.0,institutional,https://oka-pu.repo.nii.ac.jp/,,200,,,1605.0,http://oka-pu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3317,
+471,,,,okazaki.repo.nii.ac.jp/,3386,4551,jp,http://www.okazaki-u.ac.jp/,weko,,institutional,https://okazaki.repo.nii.ac.jp/,,200,,,,http://okazaki.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/4551,
+472,,,,okiu1972.repo.nii.ac.jp/,1231,1951,jp,http://www.okiu.ac.jp/index.jsp,weko,313.0,institutional,https://okiu1972.repo.nii.ac.jp/,,200,,,,http://okiu1972.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1951,
+473,,,,omnh.repo.nii.ac.jp/,2903,3975,jp,http://www.mus-nh.city.osaka.jp/,weko,,institutional,https://omnh.repo.nii.ac.jp/,,200,,,,http://omnh.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3975,
+474,,,,opac.lib.ehime-u.ac.jp/index.php?action=pages_view_main&active_action=v3search_view_main_init&block_id=6311&change_locale=en,4780,9874,jp,https://www.ehime-u.ac.jp/en/,iliswave j,,institutional,https://opac.lib.ehime-u.ac.jp/index.php?action=pages_view_main&active_action=v3search_view_main_init&block_id=6311&change_locale=en,,200,,,,http://opac1.lib.ehime-u.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/9874,iLiswaveJ
+475,,,,opac.lib.nara-wu.ac.jp/?lang=english,590,1055,jp,http://www.nara-wu.ac.jp/,iliswave j,3687.0,institutional,https://opac.lib.nara-wu.ac.jp/?lang=english,,200,,,,http://opac2.lib.nara-wu.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/1055,iLiswave-J V3
+476,,,,opac.ll.chiba-u.jp/da/curator/?lang=1,26,72,jp,https://www.chiba-u.ac.jp/e/,e cats,97628.0,institutional,https://opac.ll.chiba-u.jp/da/curator/?lang=1,,200,,,42971.0,https://opac.ll.chiba-u.jp/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/72,E-Cats Library
+477,,,,opac.meijo-u.ac.jp/,4751,9840,jp,https://www.meijo-u.ac.jp/,iliswave j,,institutional,https://opac.meijo-u.ac.jp/,,200,,,,http://mylib.meijo-u.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/9840,iLisweb-J  e-Lib
+478,,,,opac.tenri-u.ac.jp/opac/repository/metadata/?lang=1,4723,9802,jp,https://www.tenri-u.ac.jp/en/,e cats,,institutional,https://opac.tenri-u.ac.jp/opac/repository/metadata/?lang=1,,ConnectionError,,,,http://opac.tenri-u.ac.jp/opac/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/9802,E-CatsLibrary
+479,,,,osaka-aoyama.repo.nii.ac.jp/,4082,7425,jp,https://www.osaka-aoyama.ac.jp,weko,190.0,institutional,https://osaka-aoyama.repo.nii.ac.jp/,,200,,,161.0,http://osaka-aoyama.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7425,
+480,,,,osaka-dent.repo.nii.ac.jp/,4079,7422,jp,https://www.osaka-dent.ac.jp,weko,283.0,institutional,https://osaka-dent.repo.nii.ac.jp/,,200,,,37.0,http://osaka-dent.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7422,
+481,,,,osaka-ohtani.repo.nii.ac.jp/,4074,7417,jp,https://www.osaka-ohtani.ac.jp,weko,409.0,institutional,https://osaka-ohtani.repo.nii.ac.jp/,,200,,,316.0,http://osaka-ohtani.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7417,
+482,,,,osaka-shoin.repo.nii.ac.jp/,4072,7415,jp,https://www.osaka-shoin.ac.jp,weko,2070.0,institutional,https://osaka-shoin.repo.nii.ac.jp/,,ConnectionError,,,700.0,http://osaka-shoin.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7415,
+483,https://osu.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,osu.repo.nii.ac.jp,4073,7416,jp,https://www.osaka-sandai.ac.jp,weko,2222.0,institutional,https://osu.repo.nii.ac.jp,,200,,,2094.0,http://osu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7416,
+484,,,,otani.repo.nii.ac.jp/,4066,7406,jp,http://www.otani.ac.jp,weko,9715.0,institutional,https://otani.repo.nii.ac.jp/,,200,,,7502.0,http://otani.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7406,
+485,,,,otemae.repo.nii.ac.jp/,4734,9817,jp,https://www.otemae.ac.jp/,weko,,institutional,https://otemae.repo.nii.ac.jp/,,200,,,,http://otemae.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9817,
+486,,,,otsuma.repo.nii.ac.jp/,4732,9815,jp,https://www.otsuma.ac.jp/,weko,,institutional,https://otsuma.repo.nii.ac.jp/,,200,,,,http://otsuma.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9815,
+487,,,,ouc.repo.nii.ac.jp/,4071,7413,jp,https://ouc.daishodai.ac.jp,weko,963.0,institutional,https://ouc.repo.nii.ac.jp/,,200,,,520.0,http://ouc.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7413,
+488,,,,ouj.repo.nii.ac.jp/,3902,6506,jp,https://www.ouj.ac.jp,weko,5666.0,institutional,https://ouj.repo.nii.ac.jp/,,200,,,4858.0,http://ouj.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6506,
+489,,,,ous.repo.nii.ac.jp/,4736,9820,jp,https://www.ous.ac.jp/en/,weko,,institutional,https://ous.repo.nii.ac.jp/,,200,,,,http://ous.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9820,
+490,,,,phoenix.repo.nii.ac.jp/,2408,3422,jp,http://www.phoenix.ac.jp/,weko,1389.0,institutional,https://phoenix.repo.nii.ac.jp/,,200,,,718.0,http://phoenix.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3422,
+491,,,,rakuno.repo.nii.ac.jp/,3348,4505,jp,http://www.rakuno.ac.jp/,weko,,institutional,https://rakuno.repo.nii.ac.jp/,,200,,,,http://rakuno.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/4505,
+492,,,,rcakita.repo.nii.ac.jp/,4268,8307,jp,https://www.rcakita.ac.jp,weko,454.0,institutional,https://rcakita.repo.nii.ac.jp/,,ConnectionError,,,410.0,http://rcakita.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8307,
+493,,,,rctoyota.repo.nii.ac.jp/,4028,7060,jp,https://www.rctoyota.ac.jp/,weko,303.0,institutional,https://rctoyota.repo.nii.ac.jp/,,200,,,213.0,http://rctoyota.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7060,
+494,https://redcross.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,redcross.repo.nii.ac.jp,4266,8305,jp,http://www.jrc.or.jp,weko,16412.0,institutional,https://redcross.repo.nii.ac.jp,,200,,,12835.0,https://redcross.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8305,
+495,,,,reitaku.repo.nii.ac.jp/,4044,7122,jp,https://www.reitaku-u.ac.jp,weko,1200.0,institutional,https://reitaku.repo.nii.ac.jp/,,200,,,951.0,http://reitaku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7122,
+496,,,,rekihaku.repo.nii.ac.jp/,2750,3804,jp,http://www.rekihaku.ac.jp/,weko,,institutional,https://rekihaku.repo.nii.ac.jp/,,200,,,,http://rekihaku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3804,
+497,https://repo-tkfd.jp,,Does not contain software,repo-tkfd.jp,3435,4636,jp,https://www.tkfd.or.jp/en/,weko,,institutional,https://repo-tkfd.jp,,200,,,,http://repo-tkfd.jp/oai,https://v2.sherpa.ac.uk/id/repository/4636,
+498,https://repo-tkfd.jp,,Does not contain software,repo-tkfd.jp,3435,4636,jp,https://www.tkfd.or.jp/en/,weko,,institutional,https://repo-tkfd.jp,,200,,,,http://repo-tkfd.jp/oai,https://v2.sherpa.ac.uk/id/repository/4636,
+499,,,,repo-tkfd.jp/,3485,4702,jp,https://www.tkfd.or.jp/en/,weko,,institutional,https://repo-tkfd.jp/,,200,,,,https://repo-tkfd.jp/oai/,https://v2.sherpa.ac.uk/id/repository/4702,
+500,,,,repo.lib.tokushima-u.ac.jp/en,1227,1946,jp,http://www.tokushima-u.ac.jp/,earmas,15810.0,institutional,https://repo.lib.tokushima-u.ac.jp/en,,200,,,,http://repo.lib.tokushima-u.ac.jp/api/oai/request,https://v2.sherpa.ac.uk/id/repository/1946,
+501,,,,repo.lib.tut.ac.jp/,3857,6425,jp,https://www.tut.ac.jp,weko,2155.0,institutional,https://repo.lib.tut.ac.jp/,,200,,,195.0,http://repo.lib.tut.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6425,
+502,,,,repo.qst.go.jp/,4129,7579,jp,https://www.nirs.qst.go.jp/ENG/index.html,weko,82808.0,institutional,https://repo.qst.go.jp/,,200,,,291.0,http://repo.qst.go.jp/oai,https://v2.sherpa.ac.uk/id/repository/7579,
+503,,,,repository.naro.go.jp/,3287,4436,jp,http://www.naro.affrc.go.jp/english/index.html,weko,,institutional,https://repository.naro.go.jp/,,200,,,,http://repository.naro.go.jp/oai,https://v2.sherpa.ac.uk/id/repository/4436,
+504,,,,repository.nii.ac.jp/,4807,9905,jp,https://www.nii.ac.jp/en/,weko,,institutional,https://repository.nii.ac.jp/,,200,,,,http://repository.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9905,
+505,,,,repository.ninjal.ac.jp/,4741,9830,jp,https://www.ninjal.ac.jp/,weko,,institutional,https://repository.ninjal.ac.jp/,,200,,,,http://repository.ninjal.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9830,
+506,,,,repository.tku.ac.jp/dspace/index.jsp?locale=en,4712,9789,jp,https://www.tku.ac.jp/,dspace,,institutional,https://repository.tku.ac.jp/dspace/index.jsp?locale=en,,200,,,,http://repository.tku.ac.jp/dspace-oai/request,https://v2.sherpa.ac.uk/id/repository/9789,
+507,,,,rku.repo.nii.ac.jp/,4011,6857,jp,https://www.rku.ac.jp/global/en/,weko,7184.0,institutional,https://rku.repo.nii.ac.jp/,,200,,,5048.0,http://rku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6857,
+508,,,,rose-ibadai.repo.nii.ac.jp/,615,1090,jp,http://www.ibaraki.ac.jp/index.html,weko,9067.0,institutional,https://rose-ibadai.repo.nii.ac.jp/,,ConnectionError,,,,https://rose-ibadai.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1090,
+509,,,,ryotokuji-u.repo.nii.ac.jp/,2723,3775,jp,http://www.ryotokuji-u.ac.jp/,weko,66.0,institutional,https://ryotokuji-u.repo.nii.ac.jp/,,200,,,0.0,http://ryotokuji-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3775,
+510,https://ryujo.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,ryujo.repo.nii.ac.jp,4142,7597,jp,,weko,457.0,institutional,https://ryujo.repo.nii.ac.jp,,200,,,402.0,http://ryujo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7597,
+511,,,,s-bunkyo.repo.nii.ac.jp/,4804,9902,jp,https://www.s-bunkyo.ac.jp/,weko,,institutional,https://s-bunkyo.repo.nii.ac.jp/,,200,,,,http://s-bunkyo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9902,
+512,,,,saigaku.repo.nii.ac.jp/,3999,6805,jp,http://www.saigaku.ac.jp/,weko,1357.0,institutional,https://saigaku.repo.nii.ac.jp/,,200,,,1025.0,http://saigaku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6805,
+513,,,,saijo.repo.nii.ac.jp/,4003,6809,jp,http://www.saijo.ac.jp/,weko,549.0,institutional,https://saijo.repo.nii.ac.jp/,,200,,,407.0,http://saijo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6809,
+514,,,,saitama-med.repo.nii.ac.jp/,2721,3773,jp,http://www.saitama-med.ac.jp/,weko,646.0,institutional,https://saitama-med.repo.nii.ac.jp/,,200,,,466.0,http://saitama-med.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3773,
+515,https://saitamatoho.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,saitamatoho.repo.nii.ac.jp,3998,6804,jp,http://www.saitamatoho.jp,weko,277.0,institutional,https://saitamatoho.repo.nii.ac.jp,,200,,,111.0,http://saitamatoho.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6804,
+516,,,,saku.repo.nii.ac.jp/,3997,6803,jp,https://www.saku.ac.jp/,weko,269.0,institutional,https://saku.repo.nii.ac.jp/,,200,,,220.0,http://saku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6803,
+517,,,,sakuranoseibo.repo.nii.ac.jp/,3996,6802,jp,https://www.sakuranoseibo.jp,weko,183.0,institutional,https://sakuranoseibo.repo.nii.ac.jp/,,200,,,6.0,http://sakuranoseibo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6802,
+518,,,,sakushin-u.repo.nii.ac.jp/,3995,6801,jp,https://www.sakushin-u.ac.jp,weko,1234.0,institutional,https://sakushin-u.repo.nii.ac.jp/,,200,,,878.0,http://sakushin-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6801,
+519,,,,sanotan.repo.nii.ac.jp/,3993,6798,jp,http://sanotan.jp,weko,141.0,institutional,https://sanotan.repo.nii.ac.jp/,,200,,,116.0,http://sanotan.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6798,
+520,,,,sapmed.repo.nii.ac.jp/,1342,2088,jp,http://web.sapmed.ac.jp/,weko,6460.0,institutional,https://sapmed.repo.nii.ac.jp/,,200,,,0.0,http://sapmed.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/2088,
+521,,,,sapporo-u.repo.nii.ac.jp/,3991,6794,jp,https://www.sapporo-u.ac.jp/,weko,7772.0,institutional,https://sapporo-u.repo.nii.ac.jp/,,200,,,7582.0,http://sapporo-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6794,
+522,,,,sasebo.repo.nii.ac.jp/,4127,7577,jp,http://accreditation.org/university/jp/national-institute-technology-sasebo-college,weko,883.0,institutional,https://sasebo.repo.nii.ac.jp/,,200,,,154.0,http://sasebo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7577,
+523,,,,scu.repo.nii.ac.jp/,3992,6796,jp,https://www.scu.ac.jp,weko,186.0,institutional,https://scu.repo.nii.ac.jp/,,200,,,145.0,http://scu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6796,
+524,,,,seijo.repo.nii.ac.jp/,3976,6739,jp,https://www.seijo.ac.jp/en,weko,5743.0,institutional,https://seijo.repo.nii.ac.jp/,,200,,,4292.0,http://seijo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6739,
+525,,,,seinan-jo.repo.nii.ac.jp/,3973,6736,jp,http://seinan-jo.com,weko,319.0,institutional,https://seinan-jo.repo.nii.ac.jp/,,200,,,293.0,http://seinan-jo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6736,
+526,,,,seirei-univ.repo.nii.ac.jp/,3972,6735,jp,https://www.seirei.ac.jp,weko,1392.0,institutional,https://seirei-univ.repo.nii.ac.jp/,,200,,,1192.0,http://seirei-univ.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6735,
+527,,,,seisa.repo.nii.ac.jp/,4009,6849,jp,https://www.hosei.ac.jp,weko,175.0,institutional,https://seisa.repo.nii.ac.jp/,,200,,,102.0,http://seisa.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6849,
+528,https://seisen-jc.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,seisen-jc.repo.nii.ac.jp,3971,6734,jp,https://www.seisen-jc.ac.jp/english/,weko,518.0,institutional,https://seisen-jc.repo.nii.ac.jp,,200,,,440.0,http://seisen-jc.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6734,
+529,,,,seisen-u.repo.nii.ac.jp/,2368,3382,jp,http://www.seisen.ac.jp/,weko,970.0,institutional,https://seisen-u.repo.nii.ac.jp/,,ConnectionError,,,776.0,http://seisen-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3382,
+530,,,,seisen.repo.nii.ac.jp/,2210,3206,jp,http://www.seisen-u.ac.jp/index.php,weko,531.0,institutional,https://seisen.repo.nii.ac.jp/,,200,,,,http://seisen.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3206,
+531,,,,seitoku.repo.nii.ac.jp/,3970,6733,jp,http://www.seitoku.jp/univ/,weko,1255.0,institutional,https://seitoku.repo.nii.ac.jp/,,200,,,176.0,http://seitoku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6733,
+532,,,,sendai-u.repo.nii.ac.jp/,3963,6719,jp,https://www.sendaidaigaku.jp/,weko,1360.0,institutional,https://sendai-u.repo.nii.ac.jp/,,200,,,1286.0,http://sendai-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6719,
+533,,,,sentankyo.repo.nii.ac.jp/,4803,9901,jp,https://www.mpd.ac.jp/,weko,,institutional,https://sentankyo.repo.nii.ac.jp/,,200,,,,http://sentankyo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9901,
+534,,,,senzoku.repo.nii.ac.jp/,3961,6717,jp,https://www.senzoku.jp,weko,801.0,institutional,https://senzoku.repo.nii.ac.jp/,,200,,,93.0,http://senzoku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6717,
+535,,,,serve.repo.nii.ac.jp/,3977,6740,jp,https://www.seigakuin.jp,weko,3370.0,institutional,https://serve.repo.nii.ac.jp/,,200,,,1096.0,http://serve.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6740,
+536,,,,setsunan.repo.nii.ac.jp/,4730,9812,jp,https://www.setsunan.ac.jp/,weko,,institutional,https://setsunan.repo.nii.ac.jp/,,200,,,,https://setsunan.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9812,
+537,,,,sgul.repo.nii.ac.jp/,1228,1947,jp,http://www.sgu.ac.jp/,weko,2533.0,institutional,https://sgul.repo.nii.ac.jp/,,200,,,2321.0,http://sgul.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1947,
+538,,,,shibaura.repo.nii.ac.jp/,3958,6708,jp,https://www.shibaura-it.ac.jp,weko,164.0,institutional,https://shibaura.repo.nii.ac.jp/,,200,,,122.0,http://shibaura.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6708,
+539,,,,shiga-med.repo.nii.ac.jp/,1203,1920,jp,http://www.shiga-med.ac.jp/,weko,3046.0,institutional,https://shiga-med.repo.nii.ac.jp/,,200,,,0.0,http://shiga-med.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1920,
+540,,,,shiga-u.repo.nii.ac.jp/,1204,1921,jp,http://www.shiga-u.ac.jp/,weko,12875.0,institutional,https://shiga-u.repo.nii.ac.jp/,,200,,,,http://shiga-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1921,
+541,https://shigakukan.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,shigakukan.repo.nii.ac.jp,3956,6704,jp,http://www.shigakukan.ac.jp/english.html,weko,757.0,institutional,https://shigakukan.repo.nii.ac.jp,,200,,,,http://shigakukan.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6704,
+542,,,,shigatan.repo.nii.ac.jp/,3957,6706,jp,https://www.sumire.ac.jp/tandai,weko,143.0,institutional,https://shigatan.repo.nii.ac.jp/,,200,,,88.0,http://shigatan.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6706,
+543,,,,shijonawate-gakuen.repo.nii.ac.jp/,3955,6703,jp,https://www.shijonawate-gakuen.ac.jp/,weko,729.0,institutional,https://shijonawate-gakuen.repo.nii.ac.jp/,,200,,,412.0,http://shijonawate-gakuen.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6703,
+544,,,,shiraume.repo.nii.ac.jp/,3952,6700,jp,http://daigaku.shiraume.ac.jp/,weko,2368.0,institutional,https://shiraume.repo.nii.ac.jp/,,200,,,2011.0,http://shiraume.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6700,
+545,https://shirayuri-u.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,shirayuri-u.repo.nii.ac.jp,3112,4227,jp,http://www.shirayuri.ac.jp/index.html,weko,,institutional,https://shirayuri-u.repo.nii.ac.jp,,200,,,,http://shirayuri-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/4227,
+546,,,,shitennojiuniversity.repo.nii.ac.jp/,3951,6698,jp,http://www.shitennoji.ac.jp/ibu/,weko,250.0,institutional,https://shitennojiuniversity.repo.nii.ac.jp/,,200,,,221.0,http://shitennojiuniversity.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6698,
+547,https://shizusan.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,shizusan.repo.nii.ac.jp,3949,6696,jp,https://www.ssu.ac.jp/news/news_detail463.html,weko,1748.0,institutional,https://shizusan.repo.nii.ac.jp,,200,,,1420.0,http://shizusan.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6696,
+548,,,,shk.repo.nii.ac.jp/,2716,3768,jp,http://www.shk-ac.jp/,weko,72.0,institutional,https://shk.repo.nii.ac.jp/,,200,,,66.0,http://shk.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3768,
+549,,,,shobi-u.repo.nii.ac.jp/,3947,6694,jp,https://www.shobi-u.ac.jp/,weko,719.0,institutional,https://shobi-u.repo.nii.ac.jp/,,200,,,415.0,http://shobi-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6694,
+550,https://shohoku.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,shohoku.repo.nii.ac.jp,3946,6693,jp,https://www.shohoku.ac.jp,weko,932.0,institutional,https://shohoku.repo.nii.ac.jp,,200,,,200.0,http://shohoku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6693,
+551,,,,shoin.repo.nii.ac.jp/,1976,2917,jp,http://www.shoin.ac.jp/,weko,1690.0,institutional,https://shoin.repo.nii.ac.jp/,,ConnectionError,,,430.0,http://shoin.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/2917,
+552,,,,shokei.repo.nii.ac.jp/,3165,4287,jp,http://www.shokei.jp/,weko,525.0,institutional,https://shokei.repo.nii.ac.jp/,,200,,,518.0,http://shokei.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/4287,
+553,,,,shonan-it.repo.nii.ac.jp/,3945,6690,jp,https://www.shonan-it.ac.jp,weko,664.0,institutional,https://shonan-it.repo.nii.ac.jp/,,200,,,79.0,http://shonan-it.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6690,
+554,,,,shonan-ums.repo.nii.ac.jp/,4729,9808,jp,https://sums.ac.jp/,weko,,institutional,https://shonan-ums.repo.nii.ac.jp/,,200,,,,http://shonan-ums.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9808,
+555,https://shotoku.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,shotoku.repo.nii.ac.jp,4323,8642,jp,http://www.shotoku.ac.jp/en/,weko,2383.0,institutional,https://shotoku.repo.nii.ac.jp,,200,,,2150.0,http://shotoku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8642,
+556,https://showa.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,showa.repo.nii.ac.jp,3943,6688,jp,http://www.showa-u.ac.jp/en/index.html,weko,3697.0,institutional,https://showa.repo.nii.ac.jp,,200,,,1690.0,http://showa.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6688,
+557,,,,shoyaku.repo.nii.ac.jp/,3944,6689,jp,https://www.shoyaku.ac.jp/en/,weko,109.0,institutional,https://shoyaku.repo.nii.ac.jp/,,200,,,82.0,http://shoyaku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6689,
+558,,,,shukutoku.repo.nii.ac.jp/,3941,6686,jp,https://www.shukutoku.ac.jp,weko,1945.0,institutional,https://shukutoku.repo.nii.ac.jp/,,200,,,1101.0,http://shukutoku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6686,
+559,,,,sist.repo.nii.ac.jp/,3950,6697,jp,https://www.sist.ac.jp,weko,272.0,institutional,https://sist.repo.nii.ac.jp/,,200,,,245.0,http://sist.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6697,
+560,https://sit.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,sit.repo.nii.ac.jp,2225,3221,jp,http://www.sit.ac.jp/,weko,327.0,institutional,https://sit.repo.nii.ac.jp,,200,,,251.0,http://sit.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3221,
+561,,,,soai.repo.nii.ac.jp/,4007,6832,jp,https://www.soai.ac.jp,weko,1364.0,institutional,https://soai.repo.nii.ac.jp/,,200,,,11.0,http://soai.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6832,
+562,,,,soar-ir.repo.nii.ac.jp/,541,986,jp,http://www.shinshu-u.ac.jp/,weko,20798.0,institutional,https://soar-ir.repo.nii.ac.jp/,,200,,,17258.0,http://soar-ir.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/986,
+563,,,,soka.repo.nii.ac.jp/,3937,6658,jp,https://www.soka.ac.jp/en,dspace,40611.0,institutional,https://soka.repo.nii.ac.jp/,,ConnectionError,,,1335.0,http://soka.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6658,
+564,,,,spu.repo.nii.ac.jp/,3188,4315,jp,https://www.spu.ac.jp/,weko,,institutional,https://spu.repo.nii.ac.jp/,,ConnectionError,,,,http://spu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/4315,
+565,,,,st.agnes.repo.nii.ac.jp/,4309,8598,jp,,weko,2466.0,institutional,https://st.agnes.repo.nii.ac.jp/,,200,,,807.0,http://st.agnes.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8598,
+566,,,,stars.repo.nii.ac.jp/,4748,9837,jp,https://www.andrew.ac.jp/,weko,,institutional,https://stars.repo.nii.ac.jp/,,200,,,,http://stars.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9837,
+567,,,,stella.repo.nii.ac.jp/,4293,8566,jp,https://www.hoshi.ac.jp/site/index.php,weko,560.0,institutional,https://stella.repo.nii.ac.jp/,,200,,,525.0,http://stella.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/8566,
+568,,,,suac.repo.nii.ac.jp/,3948,6695,jp,https://www.suac.ac.jp,weko,1650.0,institutional,https://suac.repo.nii.ac.jp/,,200,,,1099.0,http://suac.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6695,
+569,,,,sucra.repo.nii.ac.jp/,588,1053,jp,http://www.saitama-u.ac.jp/,weko,8549.0,institutional,https://sucra.repo.nii.ac.jp/,,200,,,,http://sucra.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1053,
+570,https://sums.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,sums.repo.nii.ac.jp,2715,3767,jp,http://www.suzuka-u.ac.jp/index.shtml,weko,53.0,institutional,https://sums.repo.nii.ac.jp,,200,,,38.0,http://sums.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3767,
+571,,,,surugadai.repo.nii.ac.jp/,2300,3309,jp,http://www.surugadai.ac.jp/,weko,2304.0,institutional,https://surugadai.repo.nii.ac.jp/,,200,,,463.0,http://surugadai.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3309,
+572,,,,sus.repo.nii.ac.jp/,4727,9806,jp,https://www.sus.ac.jp/en/,weko,,institutional,https://sus.repo.nii.ac.jp/,,ConnectionError,,,,https://sus.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9806,
+573,,,,suzuka.repo.nii.ac.jp/,3926,6612,jp,https://www.suzuka-iu.ac.jp,weko,3000.0,institutional,https://suzuka.repo.nii.ac.jp/,,200,,,1172.0,http://suzuka.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6612,
+574,,,,swu.repo.nii.ac.jp/,3942,6687,jp,https://en.swu.ac.jp,weko,6492.0,institutional,https://swu.repo.nii.ac.jp/,,200,,,4866.0,http://swu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6687,
+575,,,,t-bunkyo.repo.nii.ac.jp/,3890,6465,jp,http://www.t-bunkyo.jp,weko,142.0,institutional,https://t-bunkyo.repo.nii.ac.jp/,,200,,,102.0,http://t-bunkyo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6465,
+576,https://tachibana.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,tachibana.repo.nii.ac.jp,4208,7824,jp,https://www.tachibana-u.ac.jp,weko,448.0,institutional,https://tachibana.repo.nii.ac.jp,,200,,,245.0,http://tachibana.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7824,
+577,,,,tais.repo.nii.ac.jp/,3919,6578,jp,https://www.tais.ac.jp/,weko,1722.0,institutional,https://tais.repo.nii.ac.jp/,,200,,,1016.0,http://tais.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6578,
+578,,,,takachiho.repo.nii.ac.jp/,3918,6576,jp,https://www.takachiho.jp,weko,179.0,institutional,https://takachiho.repo.nii.ac.jp/,,200,,,117.0,http://takachiho.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6576,
+579,,,,takushoku-u.repo.nii.ac.jp/,4726,9805,jp,https://lang.takushoku-u.ac.jp/en/,weko,,institutional,https://takushoku-u.repo.nii.ac.jp/,,200,,,,https://takushoku-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9805,
+580,,,,tama.repo.nii.ac.jp/,1863,2772,jp,http://www.tama.ac.jp/index.html/,weko,137.0,institutional,https://tama.repo.nii.ac.jp/,,200,,,0.0,http://tama.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/2772,
+581,https://tamabi.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,tamabi.repo.nii.ac.jp,3916,6571,jp,https://www.tamabi.ac.jp,weko,981.0,institutional,https://tamabi.repo.nii.ac.jp,,200,,,94.0,http://tamabi.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6571,
+582,,,,tamagawa.repo.nii.ac.jp/,4704,9779,jp,https://www.tamagawa.jp/,dspace,,institutional,https://tamagawa.repo.nii.ac.jp/,,200,,,,,https://v2.sherpa.ac.uk/id/repository/9779,
+583,,,,tau.repo.nii.ac.jp/,2367,3381,jp,http://www.tau.ac.jp/,weko,118.0,institutional,https://tau.repo.nii.ac.jp/,,200,,,85.0,http://tau.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3381,
+584,https://tbgu.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,tbgu.repo.nii.ac.jp,3891,6466,jp,http://www.tbgu.ac.jp,weko,925.0,institutional,https://tbgu.repo.nii.ac.jp,,200,,,3.0,http://tbgu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6466,
+585,,,,tcu-ar.repo.nii.ac.jp/,3879,6451,jp,https://www.u-tokyo.ac.jp,weko,76.0,institutional,https://tcu-ar.repo.nii.ac.jp/,,200,,,58.0,http://tcu-ar.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6451,
+586,,,,tcu.repo.nii.ac.jp/,4716,9793,jp,https://www.tci.ac.jp/,weko,,institutional,https://tcu.repo.nii.ac.jp/,,200,,,,https://tcu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9793,
+587,,,,tcue.repo.nii.ac.jp/,3917,6575,jp,https://www.tcue.ac.jp,weko,1166.0,institutional,https://tcue.repo.nii.ac.jp/,,200,,,626.0,http://tcue.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6575,
+588,,,,tdu.repo.nii.ac.jp/,4715,9792,jp,https://www.dendai.ac.jp/,weko,,institutional,https://tdu.repo.nii.ac.jp/,,200,,,,https://tdu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9792,
+589,,,,teapot.lib.ocha.ac.jp/,575,1039,jp,http://www.ocha.ac.jp/,weko,37519.0,institutional,https://teapot.lib.ocha.ac.jp/,,200,,,18.0,http://teapot.lib.ocha.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1039,
+590,,,,tezukayama.repo.nii.ac.jp/,2469,3493,jp,http://www.tezukayama-u.ac.jp/,weko,,institutional,https://tezukayama.repo.nii.ac.jp/,,200,,,,http://tezukayama.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3493,
+591,https://tfulib.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,tfulib.repo.nii.ac.jp,3889,6464,jp,https://www.tfu.ac.jp/,weko,761.0,institutional,https://tfulib.repo.nii.ac.jp,,200,,,609.0,http://tfulib.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6464,
+592,,,,tk-opac.main.teikyo-u.ac.jp/?page_id=122,4724,9803,jp,https://www.teikyo-u.ac.jp/en/,iliswave j,,institutional,https://tk-opac.main.teikyo-u.ac.jp/?page_id=122,,200,,,,http://tk-opac2.main.teikyo-u.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/9803,iLiswave-J V3
+593,https://tmdu.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,tmdu.repo.nii.ac.jp,4711,9788,jp,https://www.tmd.ac.jp/english/,weko,,institutional,https://tmdu.repo.nii.ac.jp,,200,,,,http://tmdu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9788,
+594,,,,tmu.repo.nii.ac.jp/,3877,6448,jp,https://www.tokyo-med.ac.jp/english/,weko,9652.0,institutional,https://tmu.repo.nii.ac.jp/,,200,,,7657.0,http://tmu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6448,
+595,,,,tobunken.repo.nii.ac.jp/,2880,3946,jp,http://www.tobunken.go.jp/index_e.html,weko,8993.0,institutional,https://tobunken.repo.nii.ac.jp/,,200,,,3467.0,http://tobunken.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3946,
+596,,,,togaku.repo.nii.ac.jp/,3858,6426,jp,https://www.tyg.jp,weko,791.0,institutional,https://togaku.repo.nii.ac.jp/,,200,,,392.0,http://togaku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6426,
+597,https://tohoku-mpu.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,tohoku-mpu.repo.nii.ac.jp,3887,6461,jp,http://www.tohoku-mpu.ac.jp/,weko,765.0,institutional,https://tohoku-mpu.repo.nii.ac.jp,,200,,,651.0,http://tohoku-mpu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6461,
+598,,,,tohoku.repo.nii.ac.jp/,574,1037,jp,http://www.tohoku.ac.jp/,weko,53684.0,institutional,https://tohoku.repo.nii.ac.jp/,,200,,,,http://tohoku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1037,
+599,,,,tohtech.repo.nii.ac.jp/,2515,3542,jp,https://opac.tohtech.ac.jp/lib/,weko,,institutional,https://tohtech.repo.nii.ac.jp/,,200,,,,http://tohtech.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3542,
+600,,,,toin.repo.nii.ac.jp/,2319,3330,jp,http://toin.ac.jp/univ/,weko,419.0,institutional,https://toin.repo.nii.ac.jp/,,200,,,371.0,http://toin.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3330,
+601,,,,toita.repo.nii.ac.jp/,3882,6455,jp,,weko,84.0,institutional,https://toita.repo.nii.ac.jp/,,200,,,59.0,http://toita.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6455,
+602,,,,tojo.repo.nii.ac.jp/,3884,6457,jp,http://tojo.ac.jp,weko,171.0,institutional,https://tojo.repo.nii.ac.jp/,,200,,,37.0,http://tojo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6457,
+603,,,,tokaigakuin-u.repo.nii.ac.jp/,3881,6454,jp,http://www.tokaigakuin-u.ac.jp/,weko,1994.0,institutional,https://tokaigakuin-u.repo.nii.ac.jp/,,200,,,1792.0,http://tokaigakuin-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6454,
+604,,,,tokiwa.repo.nii.ac.jp/,4718,9796,jp,https://www.tokiwa.ac.jp/,weko,,institutional,https://tokiwa.repo.nii.ac.jp/,,200,,,,https://tokiwa.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9796,
+605,,,,tokoha-u.repo.nii.ac.jp/,4717,9795,jp,https://www.tokoha-u.ac.jp/,weko,,institutional,https://tokoha-u.repo.nii.ac.jp/,,200,,,,https://tokoha-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9795,
+606,,,,tokyo-kasei.repo.nii.ac.jp/,4713,9790,jp,https://www.tokyo-kasei.ac.jp/,weko,,institutional,https://tokyo-kasei.repo.nii.ac.jp/,,200,,,,https://tokyo-kasei.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9790,
+607,,,,tokyo-metro-u.repo.nii.ac.jp/,3875,6446,jp,https://www.tmu.ac.jp,weko,8649.0,institutional,https://tokyo-metro-u.repo.nii.ac.jp/,,200,,,4323.0,http://tokyo-metro-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6446,
+608,,,,tokyo-ondai.repo.nii.ac.jp/,3878,6450,jp,https://www.tokyo-ondai.ac.jp,weko,1297.0,institutional,https://tokyo-ondai.repo.nii.ac.jp/,,200,,,588.0,http://tokyo-ondai.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6450,
+609,https://tou.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,tou.repo.nii.ac.jp,3874,6445,jp,https://www.internet.ac.jp/lang/english.html,weko,47.0,institutional,https://tou.repo.nii.ac.jp,,200,,,31.0,http://tou.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6445,
+610,https://tourism.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,tourism.repo.nii.ac.jp,4068,7410,jp,https://www.tourism.ac.jp,weko,279.0,institutional,https://tourism.repo.nii.ac.jp,,200,,,41.0,http://tourism.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7410,
+611,,,,toyaku.repo.nii.ac.jp/,3869,6439,jp,https://www.toyaku.ac.jp/,weko,298.0,institutional,https://toyaku.repo.nii.ac.jp/,,200,,,243.0,http://toyaku.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6439,
+612,,,,toyama-c.repo.nii.ac.jp/,3861,6429,jp,,weko,350.0,institutional,https://toyama-c.repo.nii.ac.jp/,,200,,,248.0,http://toyama-c.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6429,
+613,,,,toyama.repo.nii.ac.jp/,1190,1904,jp,http://www.u-toyama.ac.jp/,weko,18239.0,institutional,https://toyama.repo.nii.ac.jp/,,200,,,16390.0,http://toyama.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1904,
+614,,,,toyo-bunko.repo.nii.ac.jp/,4709,9785,jp,http://www.toyo-bunko.or.jp/,weko,,institutional,https://toyo-bunko.repo.nii.ac.jp/,,200,,,,http://toyo-bunko.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9785,
+615,,,,toyoeiwa.repo.nii.ac.jp/,3859,6427,jp,https://www.toyoeiwa.ac.jp,weko,633.0,institutional,https://toyoeiwa.repo.nii.ac.jp/,,200,,,330.0,http://toyoeiwa.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6427,
+616,,,,tsc.repo.nii.ac.jp/,3872,6443,jp,https://www.tsc-05.ac.jp/,weko,1373.0,institutional,https://tsc.repo.nii.ac.jp/,,200,,,773.0,http://tsc.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6443,
+617,,,,tsurumi-u.repo.nii.ac.jp/,3852,6410,jp,https://www.tsurumi-u.ac.jp,weko,949.0,institutional,https://tsurumi-u.repo.nii.ac.jp/,,200,,,783.0,http://tsurumi-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6410,
+618,https://tuad.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,tuad.repo.nii.ac.jp,3886,6459,jp,https://www.tuad.ac.jp,weko,476.0,institutional,https://tuad.repo.nii.ac.jp,,200,,,193.0,http://tuad.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6459,
+619,https://tus.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,tus.repo.nii.ac.jp,3868,6438,jp,https://www.tus.ac.jp,weko,3495.0,institutional,https://tus.repo.nii.ac.jp,,200,,,789.0,http://tus.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6438,
+620,,,,twcpe.repo.nii.ac.jp/,3866,6436,jp,https://www.twcpe.ac.jp/,weko,815.0,institutional,https://twcpe.repo.nii.ac.jp/,,200,,,27.0,http://twcpe.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6436,
+621,https://twcu.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,twcu.repo.nii.ac.jp,3867,6437,jp,http://www.twcu.ac.jp/univ/english,weko,26670.0,institutional,https://twcu.repo.nii.ac.jp,,200,,,6044.0,http://twcu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6437,
+622,,,,twinkle.repo.nii.ac.jp/,1253,1976,jp,http://www.twmu.ac.jp/,weko,37906.0,institutional,https://twinkle.repo.nii.ac.jp/,,200,,,,http://twinkle.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1976,
+623,,,,u-aizu.repo.nii.ac.jp/,4706,9782,jp,https://u-aizu.ac.jp/,weko,,institutional,https://u-aizu.repo.nii.ac.jp/,,200,,,,http://u-aizu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9782,
+624,,,,u-hyogo.repo.nii.ac.jp/,3807,6151,jp,https://www.u-hyogo.ac.jp,weko,3793.0,institutional,https://u-hyogo.repo.nii.ac.jp/,,200,,,1116.0,http://u-hyogo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6151,
+625,,,,u-kochi.repo.nii.ac.jp/,3805,6146,jp,https://www.u-kochi.ac.jp/site/english/,weko,2952.0,institutional,https://u-kochi.repo.nii.ac.jp/,,200,,,1248.0,http://u-kochi.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6146,
+626,https://u-nagano.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,u-nagano.repo.nii.ac.jp,4746,9835,jp,https://www.u-nagano.ac.jp/en/,weko,,institutional,https://u-nagano.repo.nii.ac.jp,,ConnectionError,,,,http://u-nagano.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9835,
+627,,,,u-sacred-heart.repo.nii.ac.jp/,3786,6098,jp,http://www.u-sacred-heart.ac.jp/,weko,1008.0,institutional,https://u-sacred-heart.repo.nii.ac.jp/,,200,,,82.0,http://u-sacred-heart.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6098,
+628,https://u-shizuoka-ken.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,u-shizuoka-ken.repo.nii.ac.jp,4799,9894,jp,https://eng.u-shizuoka-ken.ac.jp/,weko,,institutional,https://u-shizuoka-ken.repo.nii.ac.jp,,200,,,,http://u-shizuoka-ken.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9894,
+629,,,,uec.repo.nii.ac.jp/,2208,3204,jp,http://www.uec.ac.jp/eng/,weko,9891.0,institutional,https://uec.repo.nii.ac.jp/,,200,,,5503.0,http://uec.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3204,
+630,,,,uedawjc.repo.nii.ac.jp/,3836,6347,jp,http://www.uedawjc.ac.jp/,weko,1986.0,institutional,https://uedawjc.repo.nii.ac.jp/,,200,,,1710.0,http://uedawjc.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6347,
+631,https://uhe.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,uhe.repo.nii.ac.jp,3897,6486,jp,https://www.uhe.ac.jp,weko,298.0,institutional,https://uhe.repo.nii.ac.jp,,200,,,73.0,https://uhe.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6486,
+632,https://unii.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,,Does not contain software,unii.repo.nii.ac.jp,4705,9780,jp,https://www.unii.ac.jp/overview/,weko,,institutional,https://unii.repo.nii.ac.jp,,200,,,,https://unii.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/9780,
+633,,,,ushimane.repo.nii.ac.jp/,3792,6117,jp,https://www.shimane-u.ac.jp/en,weko,1965.0,institutional,https://ushimane.repo.nii.ac.jp/,,ConnectionError,,,1805.0,http://ushimane.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6117,
+634,https://uuair.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,uuair.repo.nii.ac.jp,686,1212,jp,http://www.utsunomiya-u.ac.jp/,weko,6763.0,institutional,https://uuair.repo.nii.ac.jp,,200,,,6598.0,http://uuair.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/1212,
+635,https://uyo.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,uyo.repo.nii.ac.jp,3777,6054,jp,http://www.uyo.ac.jp,weko,333.0,institutional,https://uyo.repo.nii.ac.jp,,200,,,144.0,http://uyo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6054,
+636,,,,wakhok.repo.nii.ac.jp/,3771,6000,jp,http://www.wakhok.ac.jp,weko,450.0,institutional,https://wakhok.repo.nii.ac.jp/,,ConnectionError,,,314.0,http://wakhok.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6000,
+637,,,,wako.repo.nii.ac.jp/,2268,3269,jp,http://www.wako.ac.jp/,weko,1130.0,institutional,https://wako.repo.nii.ac.jp/,,200,,,,http://wako.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3269,
+638,,,,wayo.repo.nii.ac.jp/,3769,5993,jp,https://www.wayo.ac.jp/,weko,1870.0,institutional,https://wayo.repo.nii.ac.jp/,,200,,,1222.0,http://wayo.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/5993,
+639,,,,webopac.tohomusic.ac.jp,4720,9798,jp,,iliswave j,,institutional,https://webopac.tohomusic.ac.jp,,200,,,,http://opactoho.tohomusic.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/9798,iLiswave-J V3
+640,,,,wesleyan.repo.nii.ac.jp/,4144,7600,jp,http://www.wesleyan.ac.jp/,weko,893.0,institutional,https://wesleyan.repo.nii.ac.jp/,,200,,,819.0,http://wesleyan.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/7600,
+641,,,,www-std01.ufinity.jp/kyokyolib/,1207,1924,jp,http://www.kyokyo-u.ac.jp/,iliswave j,5842.0,institutional,https://www-std01.ufinity.jp/kyokyolib/,,200,,,,http://tosho2.kyokyo-u.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/1924,富士通　iLiswave-J
+642,,,,www.agulin.aoyama.ac.jp/repo/repository/1000/,1250,1973,jp,http://www.aoyama.ac.jp/,e cats,16245.0,institutional,https://www.agulin.aoyama.ac.jp/repo/repository/1000/,,200,,,0.0,https://www.agulin.aoyama.ac.jp/repo/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/1973,E-CatsLibrary ver.6
+643,,,,www.i-repository.net/il/meta_pub/G0000031Repository,4735,9819,jp,https://www.osaka-ue.ac.jp/english/,infolib,,institutional,https://www.i-repository.net/il/meta_pub/G0000031Repository,,200,,,,https://www.i-repository.net/il/oai_repository/pmh/G0000031-repository,https://v2.sherpa.ac.uk/id/repository/9819,Infolib-ASP
+644,,,,www.i-repository.net/il/meta_pub/G0000145OTEMON,4733,9816,jp,https://www.otemon.ac.jp/english.html,infolib,,institutional,https://www.i-repository.net/il/meta_pub/G0000145OTEMON,,200,,,,https://www.i-repository.net/il/oai_repository/pmh/G0000145-repository,https://v2.sherpa.ac.uk/id/repository/9816,InfoLib
+645,,,,www.i-repository.net/il/meta_pub/G0000155repository,4762,9853,jp,https://www.eiyo.ac.jp/english/,infolib,,institutional,https://www.i-repository.net/il/meta_pub/G0000155repository,,200,,,,https://www.i-repository.net/il/oai_repository/pmh/G0000155-repository,https://v2.sherpa.ac.uk/id/repository/9853,InfoLib
+646,,,,www.jamstec.go.jp/es-repository/portal/en/index.html,1878,2793,jp,http://www.jamstec.go.jp/e/index.html,e repository,9756.0,institutional,https://www.jamstec.go.jp/es-repository/portal/en/index.html,,200,,,149.0,http://www.jamstec.go.jp/es-repository/oai/oai2.0.cgi,https://v2.sherpa.ac.uk/id/repository/2793,e-repository
+647,,,,www.lib.kyushu-u.ac.jp/ja/collections/qir,276,510,jp,http://www.kyushu-u.ac.jp/,e cats,79436.0,institutional,https://www.lib.kyushu-u.ac.jp/ja/collections/qir,,200,,,,http://catalog.lib.kyushu-u.ac.jp/mmd/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/510,E-Cats Library
+648,,,,www.lib.osaka-kyoiku.ac.jp/?page_id=217,514,947,jp,http://osaka-kyoiku.ac.jp/,iliswave j,24733.0,institutional,https://www.lib.osaka-kyoiku.ac.jp/?page_id=217,,200,,,0.0,http://opac-ir.lib.osaka-kyoiku.ac.jp/oai/oai-pmh.do,https://v2.sherpa.ac.uk/id/repository/947,iLiswave-J
+649,https://yachts.repo.nii.ac.jp/search?page=1&size=20&sort=-createdate&search_type=0&q=&title=&creator=&type=43&wid=&iid=&float_range1_from=&float_range1_to=&geo_point1_lat=&geo_point1_lon=&geo_point1_distance=,0.0,Does not contain software,yachts.repo.nii.ac.jp,3763,5966,jp,https://www.yamagata-u.ac.jp/en,weko,200.0,institutional,https://yachts.repo.nii.ac.jp,,200,,,172.0,http://yachts.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/5966,
+650,,,,yamagata.repo.nii.ac.jp/,2748,3802,jp,http://www.yamagata-u.ac.jp/jp/,weko,5015.0,institutional,https://yamagata.repo.nii.ac.jp/,,200,,,4421.0,http://yamagata.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/3802,
+651,,,,yamanashi.repo.nii.ac.jp/,1219,1938,jp,http://www.yamanashi.ac.jp/,e repository,3176.0,institutional,https://yamanashi.repo.nii.ac.jp/,,200,,,0.0,http://opac.lib.yamanashi.ac.jp/opac/mmd_api/oai-pmh/,https://v2.sherpa.ac.uk/id/repository/1938,E-Repository
+652,,,,yasuda-u.repo.nii.ac.jp/,3761,5961,jp,https://www.yasuda-u.ac.jp,weko,545.0,institutional,https://yasuda-u.repo.nii.ac.jp/,,200,,,420.0,http://yasuda-u.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/5961,
+653,,,,ycc.repo.nii.ac.jp/,3759,5959,jp,https://www.shodai.ac.jp/,weko,2315.0,institutional,https://ycc.repo.nii.ac.jp/,,ConnectionError,,,1471.0,http://ycc.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/5959,
+654,,,,ycu.repo.nii.ac.jp/,3760,5960,jp,https://www.yokohama-cu.ac.jp,weko,2089.0,institutional,https://ycu.repo.nii.ac.jp/,,200,,,1656.0,http://ycu.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/5960,
+655,,,,yone.repo.nii.ac.jp/,3764,5967,jp,https://www.yachts.ac.jp,weko,503.0,institutional,https://yone.repo.nii.ac.jp/,,200,,,326.0,http://yone.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/5967,
+656,,,,ypir.lib.yamaguchi-u.ac.jp/bg/,4787,9881,jp,https://www.baiko.ac.jp/,earmas,,institutional,https://ypir.lib.yamaguchi-u.ac.jp/bg/,,200,,,,http://ypir.lib.yamaguchi-u.ac.jp/bg/oai/Request,https://v2.sherpa.ac.uk/id/repository/9881,
+657,,,,zokei.repo.nii.ac.jp/,3865,6435,jp,https://www.zokei.ac.jp,weko,64.0,institutional,https://zokei.repo.nii.ac.jp/,,200,,,48.0,http://zokei.repo.nii.ac.jp/oai,https://v2.sherpa.ac.uk/id/repository/6435,
